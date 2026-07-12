@@ -10,7 +10,7 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Mon, 13 Jul 2026 00:55:58 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 02:05:16 +0900</lastBuildDate>
     <item>
       <title>Heirani Moghaddam et al. (2021) — Explicit processes in visuomotor adaptation</title>
       <description>本資料は、視覚運動適応（visuomotor adaptation）における「明示的プロセス（意識的なプロセス）」と「暗示的プロセス（無意識的なプロセス）」の評価手法を比較した研究（Heirani Moghaddam et al., 2021）の内容をまとめたものである。 この研究の核心的な問いは、現在広く用いられている2つの評価手法、**プロセス解離手続（PDP）**と**言語報告フレームワーク</description>
@@ -139,6 +139,15 @@
       <guid isPermaLink="false">051ec38927cb0bf502022449e590d565</guid>
       <pubDate>Sat, 11 Jul 2026 12:30:47 +0900</pubDate>
       <enclosure url="https://shks.github.io/paperpile-radio/episodes/Glickman%20and%20Sharot%20%282025%29%20%E2%80%94%20How%20human%20AI%20feedback%20loops/Glickman_and_Sharot_2025_How_human_AI_feedback_loops_radio.mp3" length="4037491" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Feather et al. (2023) — Model metamers reveal divergent invariances between biological and artificial neural networks</title>
+      <description>本報告書は、人工ニューラルネットワーク（ANN）とヒトの感覚システムにおける「不変性（Invariance）」の相違を、モデル・メタマー（Model Metamers）という手法を用いて分析した研究結果をまとめたものである。 感覚システムにおける不変性とは、物体のポーズや照明、音声のプロディ（韻律）などが変化しても、対象を同じカテゴリーとして認識できる能力を指す。ディープニューラルネットワーク（D</description>
+      <itunes:summary>本報告書は、人工ニューラルネットワーク（ANN）とヒトの感覚システムにおける「不変性（Invariance）」の相違を、モデル・メタマー（Model Metamers）という手法を用いて分析した研究結果をまとめたものである。 感覚システムにおける不変性とは、物体のポーズや照明、音声のプロディ（韻律）などが変化しても、対象を同じカテゴリーとして認識できる能力を指す。ディープニューラルネットワーク（D</itunes:summary>
+      <guid isPermaLink="false">c577732bbe3d6f34c87e8519eae62c84</guid>
+      <pubDate>Mon, 13 Jul 2026 02:02:29 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Feather%20et%20al.%20%282023%29%20%E2%80%94%20Model%20metamers%20reveal%20divergent%20invariances%20between%20biological%20and%20artificial%20neural%20networks/Feather_et_al_2023_Model_metamers_radio.mp3" length="5448939" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Feather%20et%20al.%20%282023%29%20%E2%80%94%20Model%20metamers%20reveal%20divergent%20invariances%20between%20biological%20and%20artificial%20neural%20networks/Feather_et_al_2023_Model_metamers_infographic.png"/>
     </item>
     <item>
       <title>Yang et al. (2017) — Medical robotics</title>
