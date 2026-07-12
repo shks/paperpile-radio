@@ -10,7 +10,7 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Mon, 13 Jul 2026 03:20:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 04:23:57 +0900</lastBuildDate>
     <item>
       <title>Heirani Moghaddam et al. (2021) — Explicit processes in visuomotor adaptation</title>
       <description>本資料は、視覚運動適応（visuomotor adaptation）における「明示的プロセス（意識的なプロセス）」と「暗示的プロセス（無意識的なプロセス）」の評価手法を比較した研究（Heirani Moghaddam et al., 2021）の内容をまとめたものである。 この研究の核心的な問いは、現在広く用いられている2つの評価手法、**プロセス解離手続（PDP）**と**言語報告フレームワーク</description>
@@ -139,6 +139,24 @@
       <guid isPermaLink="false">051ec38927cb0bf502022449e590d565</guid>
       <pubDate>Sat, 11 Jul 2026 12:30:47 +0900</pubDate>
       <enclosure url="https://shks.github.io/paperpile-radio/episodes/Glickman%20and%20Sharot%20%282025%29%20%E2%80%94%20How%20human%20AI%20feedback%20loops/Glickman_and_Sharot_2025_How_human_AI_feedback_loops_radio.mp3" length="4037491" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cash et al. (2026) — Is AI making us stupid</title>
+      <description>本ドキュメントは、人工知能（AI）の利用、特に大規模言語モデル（LLM）の普及が人間の認知機能に及ぼす影響を分析した学術的見解（Cash et al., 2026）に基づき、その主要な論点と知見をまとめたものである。 ---</description>
+      <itunes:summary>本ドキュメントは、人工知能（AI）の利用、特に大規模言語モデル（LLM）の普及が人間の認知機能に及ぼす影響を分析した学術的見解（Cash et al., 2026）に基づき、その主要な論点と知見をまとめたものである。 ---</itunes:summary>
+      <guid isPermaLink="false">a200556e20e83d3758271a7d22c76875</guid>
+      <pubDate>Mon, 13 Jul 2026 04:23:23 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Cash%20et%20al.%20%282026%29%20%E2%80%94%20Is%20AI%20making%20us%20stupid/cash_ai_stupid_radio.mp3" length="5443192" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Cash%20et%20al.%20%282026%29%20%E2%80%94%20Is%20AI%20making%20us%20stupid/cash_ai_stupid_infographic.png"/>
+    </item>
+    <item>
+      <title>Collins et al. (2024) — Validation of agent-based models</title>
+      <description>本文書は、エージェントベースモデル（ABMS）の妥当性確認（バリデーション）を支援する手法について、専門的な分析と包括的な概要を提供するものである。妥当性確認とは、モデルがその「意図された目的」に対して、対象となるシステムを適切に表現しているかを判断するプロセスであり、一般に「正しいモデルを構築すること」と定義される。 ABMSはそのメカニズムと表現対象の複雑さゆえに、普遍的に受け入れられた評価ア</description>
+      <itunes:summary>本文書は、エージェントベースモデル（ABMS）の妥当性確認（バリデーション）を支援する手法について、専門的な分析と包括的な概要を提供するものである。妥当性確認とは、モデルがその「意図された目的」に対して、対象となるシステムを適切に表現しているかを判断するプロセスであり、一般に「正しいモデルを構築すること」と定義される。 ABMSはそのメカニズムと表現対象の複雑さゆえに、普遍的に受け入れられた評価ア</itunes:summary>
+      <guid isPermaLink="false">5909d395a39fcff348937c4130e3752b</guid>
+      <pubDate>Mon, 13 Jul 2026 04:23:18 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Collins%20et%20al.%20%282024%29%20%E2%80%94%20Validation%20of%20agent-based%20models/collins_validation_radio.mp3" length="4499754" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Collins%20et%20al.%20%282024%29%20%E2%80%94%20Validation%20of%20agent-based%20models/collins_validation_infographic.png"/>
     </item>
     <item>
       <title>Park et al. (2020) — Breathing and voluntary action</title>
