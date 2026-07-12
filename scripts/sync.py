@@ -23,6 +23,7 @@ for folder in sorted(os.listdir(ep_dir)):
     if not mp3s: continue
     
     pngs = [f for f in files if f.endswith('_infographic.png') and 'square' not in f]
+    sq_pngs = [f for f in files if f.endswith('_infographic_square.png')]
     mds = [f for f in files if f.endswith('_report.md')]
     
     match = re.match(r'(.+?) \((\d{4})\) (?:—|-) (.+)', folder)
@@ -33,7 +34,8 @@ for folder in sorted(os.listdir(ep_dir)):
     title = match.group(3)
     
     mp3_file = mp3s[0]
-    png_file = pngs[0] if pngs else None
+    png_file = pngs[0] if pngs else (sq_pngs[0] if sq_pngs else None)
+    sq_png_file = sq_pngs[0] if sq_pngs else (pngs[0] if pngs else None)
     md_file = mds[0] if mds else None
     
     desc = ""
@@ -62,6 +64,7 @@ for folder in sorted(os.listdir(ep_dir)):
         'mp3_enc': quote(mp3_file),
         'mp3_size': mp3_size,
         'png_enc': quote(png_file) if png_file else None,
+        'sq_png_enc': quote(sq_png_file) if sq_png_file else None,
         'guid': guid, 'pubDate': pubDate,
     })
 
@@ -82,7 +85,6 @@ ET.SubElement(ch, 'itunes:author').text = 'Shun Kasahara'
 ET.SubElement(ch, 'itunes:category', {'text': 'Science'})
 ET.SubElement(ch, 'itunes:explicit').text = 'no'
 ET.SubElement(ch, 'itunes:type').text = 'episodic'
-ET.SubElement(ch, 'itunes:image', {'href': f'{BASE_URL}/artwork.png'})
 ET.SubElement(ch, 'generator').text = 'Paperpile Radio Generator'
 ET.SubElement(ch, 'lastBuildDate').text = datetime.now().strftime('%a, %d %b %Y %H:%M:%S +0900')
 
@@ -97,9 +99,9 @@ for ep in episodes:
         'url': f"{BASE_URL}/episodes/{ep['folder_enc']}/{ep['mp3_enc']}",
         'length': str(ep['mp3_size']), 'type': 'audio/mpeg'
     })
-    if ep['png_enc']:
+    if ep['sq_png_enc']:
         ET.SubElement(item, 'itunes:image', {
-            'href': f"{BASE_URL}/episodes/{ep['folder_enc']}/{ep['png_enc']}"
+            'href': f"{BASE_URL}/episodes/{ep['folder_enc']}/{ep['sq_png_enc']}"
         })
 
 raw = ET.tostring(rss, encoding='unicode')
