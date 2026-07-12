@@ -10,7 +10,7 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Mon, 13 Jul 2026 02:09:25 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 03:20:00 +0900</lastBuildDate>
     <item>
       <title>Heirani Moghaddam et al. (2021) — Explicit processes in visuomotor adaptation</title>
       <description>本資料は、視覚運動適応（visuomotor adaptation）における「明示的プロセス（意識的なプロセス）」と「暗示的プロセス（無意識的なプロセス）」の評価手法を比較した研究（Heirani Moghaddam et al., 2021）の内容をまとめたものである。 この研究の核心的な問いは、現在広く用いられている2つの評価手法、**プロセス解離手続（PDP）**と**言語報告フレームワーク</description>
@@ -139,6 +139,15 @@
       <guid isPermaLink="false">051ec38927cb0bf502022449e590d565</guid>
       <pubDate>Sat, 11 Jul 2026 12:30:47 +0900</pubDate>
       <enclosure url="https://shks.github.io/paperpile-radio/episodes/Glickman%20and%20Sharot%20%282025%29%20%E2%80%94%20How%20human%20AI%20feedback%20loops/Glickman_and_Sharot_2025_How_human_AI_feedback_loops_radio.mp3" length="4037491" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Park et al. (2020) — Breathing and voluntary action</title>
+      <description/>
+      <itunes:summary/>
+      <guid isPermaLink="false">2c20811b8ca4abbb67bcacd2edfe6d87</guid>
+      <pubDate>Mon, 13 Jul 2026 03:12:51 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Park%20et%20al.%20%282020%29%20%E2%80%94%20Breathing%20and%20voluntary%20action/park_breathing_radio.mp3" length="8099323" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Park%20et%20al.%20%282020%29%20%E2%80%94%20Breathing%20and%20voluntary%20action/park_breathing_infographic.png"/>
     </item>
     <item>
       <title>Tanabe and Kaneko (2024) — Illusory directional sensation</title>
