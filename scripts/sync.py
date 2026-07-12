@@ -51,6 +51,21 @@ for folder in sorted(os.listdir(ep_dir)):
                 if s.startswith('# ') or s.startswith('## '): started = True
             desc = ' '.join(content)[:200]
     
+    paper = None
+    for lf in ('paper_url.txt', 'link.txt'):
+        lp = os.path.join(fp, lf)
+        if os.path.exists(lp):
+            with open(lp) as f:
+                paper = f.read().strip() or None
+            if paper: break
+    if md_file and not paper:
+        with open(os.path.join(fp, md_file)) as f:
+            text = f.read()
+        mdoi = re.search(r'\b10\.\d{4,9}/[^\s"<>)\]]+', text)
+        murl = re.search(r'https?://[^\s"<>)\]]+', text)
+        if mdoi: paper = 'https://doi.org/' + mdoi.group(0)
+        elif murl: paper = murl.group(0)
+
     mp3_size = os.path.getsize(os.path.join(fp, mp3_file))
     guid = hashlib.md5(folder.encode()).hexdigest()
     pubDate = datetime.fromtimestamp(
@@ -65,6 +80,8 @@ for folder in sorted(os.listdir(ep_dir)):
         'mp3_size': mp3_size,
         'png_enc': quote(png_file) if png_file else None,
         'sq_png_enc': quote(sq_png_file) if sq_png_file else None,
+        'report_enc': quote(md_file) if md_file else None,
+        'paper': paper,
         'guid': guid, 'pubDate': pubDate,
     })
 
@@ -115,6 +132,8 @@ for ep in episodes:
         'title': ep['title'], 'year': ep['year'], 'desc': ep['desc'],
         'audio': f"episodes/{ep['folder_enc']}/{ep['mp3_enc']}",
         'img': f"episodes/{ep['folder_enc']}/{ep['png_enc']}" if ep['png_enc'] else "",
+        'report': f"episodes/{ep['folder_enc']}/{ep['report_enc']}" if ep['report_enc'] else "",
+        'paper': ep['paper'] or "",
     })
 
 with open(os.path.join(ROOT, "index.html")) as f:

@@ -49,9 +49,44 @@
 
   footer { text-align:center; padding:44px 0 24px; color:var(--sub); font-size:.8rem; }
 
+  /* ---- now-playing panel ---- */
+  main, .hero-inner { transition:margin-right .3s; }
+  .panel { position:fixed; top:0; right:0; bottom:86px; width:420px; max-width:100vw; background:#121212; border-left:1px solid #282828; z-index:40; transform:translateX(102%); transition:transform .3s; overflow-y:auto; overscroll-behavior:contain; }
+  body.panel-open .panel { transform:none; }
+  .panel-head { position:sticky; top:0; z-index:2; display:flex; justify-content:space-between; align-items:center; padding:10px 14px; background:rgba(18,18,18,.88); backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px); }
+  .panel-label { font-size:.75rem; font-weight:700; letter-spacing:.05em; color:var(--muted); }
+  .panel-art img { width:100%; display:block; cursor:zoom-in; }
+  .panel-art .ph { width:100%; height:180px; display:flex; align-items:center; justify-content:center; font-size:56px; background:linear-gradient(135deg,#1f3d2f,#132218); }
+  .panel-body { padding:18px 20px 40px; }
+  .panel-body h2 { font-size:1.05rem; font-weight:800; line-height:1.4; }
+  .panel-year { color:var(--sub); font-size:.8rem; margin:.3em 0 1em; }
+  .links-row { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:1.2em; }
+  .pill { display:inline-flex; align-items:center; gap:6px; border:1px solid #3e3e3e; border-radius:999px; padding:6px 14px; font-size:.78rem; color:var(--text); background:none; text-decoration:none; cursor:pointer; transition:border-color .15s,transform .1s; }
+  .pill:hover { border-color:#fff; color:var(--text); transform:scale(1.03); }
+  .md { color:#c9c9c9; font-size:.86rem; line-height:1.75; }
+  .md h2 { font-size:1rem; color:#fff; margin:1.5em 0 .5em; }
+  .md h3 { font-size:.92rem; color:#fff; margin:1.2em 0 .4em; }
+  .md h4 { font-size:.86rem; color:#fff; margin:1em 0 .3em; }
+  .md p { margin:.6em 0; }
+  .md ul, .md ol { margin:.4em 0 .9em; padding-left:1.4em; }
+  .md li { margin:.28em 0; }
+  .md strong { color:#fff; }
+  .md hr { border:none; border-top:1px solid #2e2e2e; margin:1.3em 0; }
+  .md code { background:#2a2a2a; padding:.1em .4em; border-radius:4px; font-size:.85em; }
+  .md a { color:var(--green); }
+  .md-missing { color:var(--sub); font-size:.85rem; }
+  @media (min-width:761px) {
+    body.panel-open main, body.panel-open .hero-inner { margin-right:436px; }
+  }
+
+  /* ---- lightbox ---- */
+  .lightbox { position:fixed; inset:0; z-index:100; background:rgba(0,0,0,.93); display:none; overflow:auto; cursor:zoom-out; }
+  .lightbox.open { display:block; }
+  .lightbox img { display:block; margin:28px auto; width:min(94vw,1100px); }
+
   /* ---- player bar ---- */
   .playerbar { position:fixed; left:0; right:0; bottom:0; z-index:50; background:#181818; border-top:1px solid #282828; display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1.5fr) minmax(0,1fr); align-items:center; gap:16px; padding:12px 18px; min-height:86px; }
-  .pb-left { display:flex; align-items:center; gap:12px; min-width:0; }
+  .pb-left { display:flex; align-items:center; gap:12px; min-width:0; cursor:pointer; }
   .pb-art { width:56px; height:56px; flex-shrink:0; border-radius:6px; overflow:hidden; background:linear-gradient(135deg,#2a2a2a,#1a1a1a); display:flex; align-items:center; justify-content:center; font-size:24px; }
   .pb-art img { width:100%; height:100%; object-fit:cover; }
   .pb-info { min-width:0; }
@@ -97,6 +132,8 @@
     #vu { width:104px; height:32px; }
     .vol-wrap { display:none; }
     body { padding-bottom:150px; }
+    .panel { width:100%; bottom:0; border-left:none; }
+    .panel-body { padding-bottom:170px; }
   }
 </style>
 </head>
@@ -124,8 +161,23 @@
   </footer>
 </main>
 
+<aside class="panel" id="panel">
+  <div class="panel-head">
+    <span class="panel-label">エピソード解説</span>
+    <button class="ctl" id="panel-close" aria-label="閉じる"><svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2" fill="none"/></svg></button>
+  </div>
+  <div class="panel-art" id="panel-art"></div>
+  <div class="panel-body">
+    <h2 id="panel-title"></h2>
+    <div class="panel-year" id="panel-year"></div>
+    <div class="links-row" id="panel-links"></div>
+    <div class="md" id="panel-md"></div>
+  </div>
+</aside>
+<div class="lightbox" id="lightbox"><img id="lightbox-img" alt="インフォグラフィック拡大表示"></div>
+
 <div class="playerbar">
-  <div class="pb-left">
+  <div class="pb-left" id="pb-left" title="解説パネルを開く">
     <div class="pb-art" id="pb-art">🎧</div>
     <div class="pb-info">
       <div class="pb-title" id="pb-title">Paperpile Radio</div>
@@ -159,7 +211,7 @@
 <audio id="player" preload="none"></audio>
 
 <script>
-var EPISODES = [{"title": "Heirani Moghaddam et al. (2021) — Explicit processes in visuomotor adaptation", "year": "2021", "desc": "本資料は、視覚運動適応（visuomotor adaptation）における「明示的プロセス（意識的なプロセス）」と「暗示的プロセス（無意識的なプロセス）」の評価手法を比較した研究（Heirani Moghaddam et al., 2021）の内容をまとめたものである。 この研究の核心的な問いは、現在広く用いられている2つの評価手法、**プロセス解離手続（PDP）**と**言語報告フレームワーク", "audio": "episodes/Heirani%20Moghaddam%20et%20al.%20%282021%29%20%E2%80%94%20Explicit%20processes%20in%20visuomotor%20adaptation/Heirani_Moghaddam_et_al_2021_Explicit_processes_visuomotor_radio.mp3", "img": ""}, {"title": "Brooks et al. (2023) — Deep learning reveals what vocal bursts express", "year": "2023", "desc": "本ドキュメントは、2023年に発表された論文「Deep learning reveals what vocal bursts express in different cultures（深層学習が明らかにする、異なる文化におけるボーカル・バーストの表現内容）」に基づき、非言語音声が持つ感情的意味の構造、文化的共通性、および最新の解析手法についてまとめたものである。 本研究は、ため息、笑い声、叫び声", "audio": "episodes/Brooks%20et%20al.%20%282023%29%20%E2%80%94%20Deep%20learning%20reveals%20what%20vocal%20bursts%20express/Brooks_et_al_2023_Deep_learning_vocal_bursts_radio.mp3", "img": ""}, {"title": "Mehring et al. (2019) — Augmented manipulation ability", "year": "2019", "desc": "本ドキュメントは、Mehringら（2019年）による、多指症（六本指）の被験者を対象とした神経力学および操作能力に関する調査結果をまとめたものである。この研究は、人間の脳が追加の自由度（dof）をどのように制御し、それが身体能力の向上にどのように寄与するかを明らかにしている。 ---", "audio": "episodes/Mehring%20et%20al.%20%282019%29%20%E2%80%94%20Augmented%20manipulation%20ability/Mehring_et_al_2019_Augmented_manipulation_ability_radio.mp3", "img": ""}, {"title": "Luo et al. (2024) — Precise and dexterous robotic manipulation", "year": "2024", "desc": "本文書は、カリフォルニア大学バークレー校の研究チーム（Luo et al., 2024）が開発した、ビジョンベースのロボット操作システム「HIL-SERL（Human-in-the-Loop Sample-Efficient Robotic Reinforcement Learning）」に関するブリーフィング・ドキュメントである。本システムは、実世界での短時間のトレーニングにより、人間を凌駕する", "audio": "episodes/Luo%20et%20al.%20%282024%29%20%E2%80%94%20Precise%20and%20dexterous%20robotic%20manipulation/Luo_et_al_2024_Precise_and_dexterous_robotic_manipulation_radio.mp3", "img": ""}, {"title": "Diaz et al. (2023) — Human-in-the-loop optimization of wearable robotic devices", "year": "2023", "desc": "", "audio": "episodes/Diaz%20et%20al.%20%282023%29%20%E2%80%94%20Human-in-the-loop%20optimization%20of%20wearable%20robotic%20devices/Diaz_et_al_2023_Human-in-the-loop_optimization_of_wearable_robotic_devices_radio.mp3", "img": ""}, {"title": "Eden et al. (2022) — Principles of human movement augmentation", "year": "2022", "desc": "", "audio": "episodes/Eden%20et%20al.%20%282022%29%20%E2%80%94%20Principles%20of%20human%20movement%20augmentation/Eden_et_al_2022_Principles_of_human_movement_augmentation_radio.mp3", "img": ""}, {"title": "Legaspi et al. (2024) — The sense of agency in human–AI interactions", "year": "2024", "desc": "", "audio": "episodes/Legaspi%20et%20al.%20%282024%29%20%E2%80%94%20The%20sense%20of%20agency%20in%20human%E2%80%93AI%20interactions/Legaspi_et_al_2024_The_sense_of_agency_in_human-AI_interactions_radio.mp3", "img": ""}, {"title": "Zeraati et al. (2026) — Neural timescales from a computational perspective", "year": "2026", "desc": "", "audio": "episodes/Zeraati%20et%20al.%20%282026%29%20%E2%80%94%20Neural%20timescales%20from%20a%20computational%20perspective/Zeraati_et_al_2026_Neural_timescales_from_a_computational_perspective_radio.mp3", "img": ""}, {"title": "Nowak and Sigmund (2004) — Evolutionary dynamics", "year": "2004", "desc": "本資料は、マーティン・A・ノヴァク（Martin A. Nowak）とカール・シグムンド（Karl Sigmund）による研究「生物学的ゲームの進化動力学（Evolutionary Dynamics of Biological Games）」に基づき、進化生物学におけるゲーム理論の重要性と、その数学的枠組みをまとめたものである。 伝統的な進化観では、進化を固定された「フィットネス・ランドスケープ（", "audio": "episodes/Nowak%20and%20Sigmund%20%282004%29%20%E2%80%94%20Evolutionary%20dynamics/Nowak_Sigmund_2004_Evolutionary_dynamics_radio.mp3", "img": ""}, {"title": "Almaatouq et al. (2020) — Adaptive social networks", "year": "2020", "desc": "本報告書は、Abdullah Almaatouq氏らによる研究論文「Adaptive social networks promote the wisdom of crowds（適応型ソーシャルネットワークが群衆の知恵を促進する）」に基づき、社会的なつながりの動的な変化とフィードバックが、集団の知性および個人の判断精度にどのような影響を与えるかを詳細に分析したものである。 ---", "audio": "episodes/Almaatouq%20et%20al.%20%282020%29%20%E2%80%94%20Adaptive%20social%20networks/Almaatouq_et_al_2020_Adaptive_social_networks_radio.mp3", "img": ""}, {"title": "Littman (1994) — Markov games", "year": "1994", "desc": "本文書は、マイケル・L・リットマン（Michael L. Littman）の研究に基づき、マルチエージェント環境における強化学習の枠組みとしての「マルコフゲーム」の有効性を分析したものである。 従来の強化学習が依拠してきたマルコフ決定過程（MDP）は、環境が静止しており、他の適応的なエージェントが存在しないことを前提とする「独我論的」な視点に留まっていた。しかし、現実の環境では、エージェントは共通", "audio": "episodes/Littman%20%281994%29%20%E2%80%94%20Markov%20games/Littman_1994_Markov_games_radio.mp3", "img": ""}, {"title": "Piao et al. (2025) — AgentSociety", "year": "2025", "desc": "本文書は、大規模言語モデル（LLM）を活用した大規模社会シミュレータ「AgentSociety」に関するブリーフィング・ドキュメントである。AgentSocietyは、1万体以上のエージェントと500万件以上の相互作用を通じて、人間行動のメカニズム解明と社会現象の予測を目指す「計算社会科学2.0」の基盤となるプラットフォームである。 「AgentSociety」は、LLM駆動型の生成社会エージェン", "audio": "episodes/Piao%20et%20al.%20%282025%29%20%E2%80%94%20AgentSociety/Piao_et_al_2025_AgentSociety_radio.mp3", "img": "episodes/Piao%20et%20al.%20%282025%29%20%E2%80%94%20AgentSociety/Piao_et_al_2025_AgentSociety_infographic.png"}, {"title": "Gero et al. (2026) — From planning to revision", "year": "2026", "desc": "", "audio": "episodes/Gero%20et%20al.%20%282026%29%20%E2%80%94%20From%20planning%20to%20revision/Gero_et_al_2026_From_planning_to_revision_radio.mp3", "img": ""}, {"title": "Logg et al. (2026) — The Cost of Generative AI Collaboration Strategies", "year": "2026", "desc": "", "audio": "episodes/Logg%20et%20al.%20%282026%29%20%E2%80%94%20The%20Cost%20of%20Generative%20AI%20Collaboration%20Strategies/Logg_et_al_2026_The_Cost_of_Generative_AI_Collaboration_Strategies_radio.mp3", "img": ""}, {"title": "Smolla and Akcay (2019) — Cultural selection shapes network structure", "year": "2019", "desc": "本ドキュメントは、Marco Smolla氏とErol Akçay氏による研究論文「Cultural selection shapes network structure（文化選択がネットワーク構造を形成する）」の深い分析に基づき、社会ネットワークと文化進化の相互作用についてまとめたものである。 本研究は、人口の社会ネットワーク構造が文化の伝達に影響を与えるだけでなく、どのような文化的特性（スキル", "audio": "episodes/Smolla%20and%20Akcay%20%282019%29%20%E2%80%94%20Cultural%20selection%20shapes%20network%20structure/Smolla_and_Akcay_2019_Cultural_selection_shapes_network_structure_radio.mp3", "img": ""}, {"title": "Glickman and Sharot (2025) — How human AI feedback loops", "year": "2025", "desc": "本資料は、人間と人工知能（AI）の相互作用が、人間の知覚、感情、および社会的判断における偏見（バイアス）をどのように増幅させるかを調査した研究結果をまとめたものである。 1,401名の参加者を対象とした一連の実験により、**「人間とAIのフィードバックループ」**の存在が明らかになった。このループにおいて、AIは学習データに含まれる微細な人間由来の偏見を増幅して出力し、人間はそのAIの出力を学習す", "audio": "episodes/Glickman%20and%20Sharot%20%282025%29%20%E2%80%94%20How%20human%20AI%20feedback%20loops/Glickman_and_Sharot_2025_How_human_AI_feedback_loops_radio.mp3", "img": ""}, {"title": "Yang et al. (2017) — Medical robotics", "year": "2017", "desc": "医療用ロボット工学は、低侵襲手術、標的治療、病院の最適化から緊急対応、義肢、在宅支援に至るまで、医療機器業界の中で最も急速に成長している分野の一つである。技術が進歩し、自律性が高まるにつれ、規制、倫理、法的な障壁が顕在化しており、これらを慎重に検討する必要がある。 本ドキュメントでは、自動運転車の定義を参考に提案された「医療用ロボットにおける6段階の自律性レベル」を軸に、技術的要件、規制上のコスト", "audio": "episodes/Yang%20et%20al.%20%282017%29%20%E2%80%94%20Medical%20robotics/yang2017_medical_robotics_radio.mp3", "img": ""}, {"title": "Battaglia et al. (2021) — Autonomous surgery", "year": "2021", "desc": "本報告書は、論文「Rethinking Autonomous Surgery: Focusing on Enhancement over Autonomy（自律型手術の再考：自律性から機能強化への焦点移行）」に基づき、手術支援ロボットの現状、技術的課題、および将来の方向性についてまとめたものである。 ---", "audio": "episodes/Battaglia%20et%20al.%20%282021%29%20%E2%80%94%20Autonomous%20surgery/battaglia2021_autonomous_surgery_radio.mp3", "img": ""}, {"title": "Ehrsson (2020) — Multisensory processes in body ownership", "year": "2020", "desc": "", "audio": "episodes/Ehrsson%20%282020%29%20%E2%80%94%20Multisensory%20processes%20in%20body%20ownership/Ehrsson_2020_Multisensory_processes_in_body_ownership_radio.mp3", "img": ""}];
+var EPISODES = [{"title": "Heirani Moghaddam et al. (2021) — Explicit processes in visuomotor adaptation", "year": "2021", "desc": "本資料は、視覚運動適応（visuomotor adaptation）における「明示的プロセス（意識的なプロセス）」と「暗示的プロセス（無意識的なプロセス）」の評価手法を比較した研究（Heirani Moghaddam et al., 2021）の内容をまとめたものである。 この研究の核心的な問いは、現在広く用いられている2つの評価手法、**プロセス解離手続（PDP）**と**言語報告フレームワーク", "audio": "episodes/Heirani%20Moghaddam%20et%20al.%20%282021%29%20%E2%80%94%20Explicit%20processes%20in%20visuomotor%20adaptation/Heirani_Moghaddam_et_al_2021_Explicit_processes_visuomotor_radio.mp3", "img": "", "report": "episodes/Heirani%20Moghaddam%20et%20al.%20%282021%29%20%E2%80%94%20Explicit%20processes%20in%20visuomotor%20adaptation/Heirani_Moghaddam_et_al_2021_Explicit_processes_visuomotor_report.md", "paper": ""}, {"title": "Brooks et al. (2023) — Deep learning reveals what vocal bursts express", "year": "2023", "desc": "本ドキュメントは、2023年に発表された論文「Deep learning reveals what vocal bursts express in different cultures（深層学習が明らかにする、異なる文化におけるボーカル・バーストの表現内容）」に基づき、非言語音声が持つ感情的意味の構造、文化的共通性、および最新の解析手法についてまとめたものである。 本研究は、ため息、笑い声、叫び声", "audio": "episodes/Brooks%20et%20al.%20%282023%29%20%E2%80%94%20Deep%20learning%20reveals%20what%20vocal%20bursts%20express/Brooks_et_al_2023_Deep_learning_vocal_bursts_radio.mp3", "img": "", "report": "episodes/Brooks%20et%20al.%20%282023%29%20%E2%80%94%20Deep%20learning%20reveals%20what%20vocal%20bursts%20express/Brooks_et_al_2023_Deep_learning_vocal_bursts_report.md", "paper": ""}, {"title": "Mehring et al. (2019) — Augmented manipulation ability", "year": "2019", "desc": "本ドキュメントは、Mehringら（2019年）による、多指症（六本指）の被験者を対象とした神経力学および操作能力に関する調査結果をまとめたものである。この研究は、人間の脳が追加の自由度（dof）をどのように制御し、それが身体能力の向上にどのように寄与するかを明らかにしている。 ---", "audio": "episodes/Mehring%20et%20al.%20%282019%29%20%E2%80%94%20Augmented%20manipulation%20ability/Mehring_et_al_2019_Augmented_manipulation_ability_radio.mp3", "img": "", "report": "episodes/Mehring%20et%20al.%20%282019%29%20%E2%80%94%20Augmented%20manipulation%20ability/Mehring_et_al_2019_Augmented_manipulation_ability_report.md", "paper": ""}, {"title": "Luo et al. (2024) — Precise and dexterous robotic manipulation", "year": "2024", "desc": "本文書は、カリフォルニア大学バークレー校の研究チーム（Luo et al., 2024）が開発した、ビジョンベースのロボット操作システム「HIL-SERL（Human-in-the-Loop Sample-Efficient Robotic Reinforcement Learning）」に関するブリーフィング・ドキュメントである。本システムは、実世界での短時間のトレーニングにより、人間を凌駕する", "audio": "episodes/Luo%20et%20al.%20%282024%29%20%E2%80%94%20Precise%20and%20dexterous%20robotic%20manipulation/Luo_et_al_2024_Precise_and_dexterous_robotic_manipulation_radio.mp3", "img": "", "report": "episodes/Luo%20et%20al.%20%282024%29%20%E2%80%94%20Precise%20and%20dexterous%20robotic%20manipulation/Luo_et_al_2024_Precise_and_dexterous_robotic_manipulation_report.md", "paper": ""}, {"title": "Diaz et al. (2023) — Human-in-the-loop optimization of wearable robotic devices", "year": "2023", "desc": "", "audio": "episodes/Diaz%20et%20al.%20%282023%29%20%E2%80%94%20Human-in-the-loop%20optimization%20of%20wearable%20robotic%20devices/Diaz_et_al_2023_Human-in-the-loop_optimization_of_wearable_robotic_devices_radio.mp3", "img": "", "report": "", "paper": ""}, {"title": "Eden et al. (2022) — Principles of human movement augmentation", "year": "2022", "desc": "", "audio": "episodes/Eden%20et%20al.%20%282022%29%20%E2%80%94%20Principles%20of%20human%20movement%20augmentation/Eden_et_al_2022_Principles_of_human_movement_augmentation_radio.mp3", "img": "", "report": "", "paper": ""}, {"title": "Legaspi et al. (2024) — The sense of agency in human–AI interactions", "year": "2024", "desc": "", "audio": "episodes/Legaspi%20et%20al.%20%282024%29%20%E2%80%94%20The%20sense%20of%20agency%20in%20human%E2%80%93AI%20interactions/Legaspi_et_al_2024_The_sense_of_agency_in_human-AI_interactions_radio.mp3", "img": "", "report": "", "paper": ""}, {"title": "Zeraati et al. (2026) — Neural timescales from a computational perspective", "year": "2026", "desc": "", "audio": "episodes/Zeraati%20et%20al.%20%282026%29%20%E2%80%94%20Neural%20timescales%20from%20a%20computational%20perspective/Zeraati_et_al_2026_Neural_timescales_from_a_computational_perspective_radio.mp3", "img": "", "report": "", "paper": ""}, {"title": "Nowak and Sigmund (2004) — Evolutionary dynamics", "year": "2004", "desc": "本資料は、マーティン・A・ノヴァク（Martin A. Nowak）とカール・シグムンド（Karl Sigmund）による研究「生物学的ゲームの進化動力学（Evolutionary Dynamics of Biological Games）」に基づき、進化生物学におけるゲーム理論の重要性と、その数学的枠組みをまとめたものである。 伝統的な進化観では、進化を固定された「フィットネス・ランドスケープ（", "audio": "episodes/Nowak%20and%20Sigmund%20%282004%29%20%E2%80%94%20Evolutionary%20dynamics/Nowak_Sigmund_2004_Evolutionary_dynamics_radio.mp3", "img": "", "report": "episodes/Nowak%20and%20Sigmund%20%282004%29%20%E2%80%94%20Evolutionary%20dynamics/Nowak_Sigmund_2004_Evolutionary_dynamics_report.md", "paper": ""}, {"title": "Almaatouq et al. (2020) — Adaptive social networks", "year": "2020", "desc": "本報告書は、Abdullah Almaatouq氏らによる研究論文「Adaptive social networks promote the wisdom of crowds（適応型ソーシャルネットワークが群衆の知恵を促進する）」に基づき、社会的なつながりの動的な変化とフィードバックが、集団の知性および個人の判断精度にどのような影響を与えるかを詳細に分析したものである。 ---", "audio": "episodes/Almaatouq%20et%20al.%20%282020%29%20%E2%80%94%20Adaptive%20social%20networks/Almaatouq_et_al_2020_Adaptive_social_networks_radio.mp3", "img": "", "report": "episodes/Almaatouq%20et%20al.%20%282020%29%20%E2%80%94%20Adaptive%20social%20networks/Almaatouq_et_al_2020_Adaptive_social_networks_report.md", "paper": ""}, {"title": "Littman (1994) — Markov games", "year": "1994", "desc": "本文書は、マイケル・L・リットマン（Michael L. Littman）の研究に基づき、マルチエージェント環境における強化学習の枠組みとしての「マルコフゲーム」の有効性を分析したものである。 従来の強化学習が依拠してきたマルコフ決定過程（MDP）は、環境が静止しており、他の適応的なエージェントが存在しないことを前提とする「独我論的」な視点に留まっていた。しかし、現実の環境では、エージェントは共通", "audio": "episodes/Littman%20%281994%29%20%E2%80%94%20Markov%20games/Littman_1994_Markov_games_radio.mp3", "img": "", "report": "episodes/Littman%20%281994%29%20%E2%80%94%20Markov%20games/Littman_1994_Markov_games_report.md", "paper": ""}, {"title": "Piao et al. (2025) — AgentSociety", "year": "2025", "desc": "本文書は、大規模言語モデル（LLM）を活用した大規模社会シミュレータ「AgentSociety」に関するブリーフィング・ドキュメントである。AgentSocietyは、1万体以上のエージェントと500万件以上の相互作用を通じて、人間行動のメカニズム解明と社会現象の予測を目指す「計算社会科学2.0」の基盤となるプラットフォームである。 「AgentSociety」は、LLM駆動型の生成社会エージェン", "audio": "episodes/Piao%20et%20al.%20%282025%29%20%E2%80%94%20AgentSociety/Piao_et_al_2025_AgentSociety_radio.mp3", "img": "episodes/Piao%20et%20al.%20%282025%29%20%E2%80%94%20AgentSociety/Piao_et_al_2025_AgentSociety_infographic.png", "report": "episodes/Piao%20et%20al.%20%282025%29%20%E2%80%94%20AgentSociety/Piao_et_al_2025_AgentSociety_report.md", "paper": ""}, {"title": "Gero et al. (2026) — From planning to revision", "year": "2026", "desc": "", "audio": "episodes/Gero%20et%20al.%20%282026%29%20%E2%80%94%20From%20planning%20to%20revision/Gero_et_al_2026_From_planning_to_revision_radio.mp3", "img": "", "report": "", "paper": ""}, {"title": "Logg et al. (2026) — The Cost of Generative AI Collaboration Strategies", "year": "2026", "desc": "", "audio": "episodes/Logg%20et%20al.%20%282026%29%20%E2%80%94%20The%20Cost%20of%20Generative%20AI%20Collaboration%20Strategies/Logg_et_al_2026_The_Cost_of_Generative_AI_Collaboration_Strategies_radio.mp3", "img": "", "report": "", "paper": ""}, {"title": "Smolla and Akcay (2019) — Cultural selection shapes network structure", "year": "2019", "desc": "本ドキュメントは、Marco Smolla氏とErol Akçay氏による研究論文「Cultural selection shapes network structure（文化選択がネットワーク構造を形成する）」の深い分析に基づき、社会ネットワークと文化進化の相互作用についてまとめたものである。 本研究は、人口の社会ネットワーク構造が文化の伝達に影響を与えるだけでなく、どのような文化的特性（スキル", "audio": "episodes/Smolla%20and%20Akcay%20%282019%29%20%E2%80%94%20Cultural%20selection%20shapes%20network%20structure/Smolla_and_Akcay_2019_Cultural_selection_shapes_network_structure_radio.mp3", "img": "", "report": "episodes/Smolla%20and%20Akcay%20%282019%29%20%E2%80%94%20Cultural%20selection%20shapes%20network%20structure/Smolla_and_Akcay_2019_Cultural_selection_shapes_network_structure_report.md", "paper": ""}, {"title": "Glickman and Sharot (2025) — How human AI feedback loops", "year": "2025", "desc": "本資料は、人間と人工知能（AI）の相互作用が、人間の知覚、感情、および社会的判断における偏見（バイアス）をどのように増幅させるかを調査した研究結果をまとめたものである。 1,401名の参加者を対象とした一連の実験により、**「人間とAIのフィードバックループ」**の存在が明らかになった。このループにおいて、AIは学習データに含まれる微細な人間由来の偏見を増幅して出力し、人間はそのAIの出力を学習す", "audio": "episodes/Glickman%20and%20Sharot%20%282025%29%20%E2%80%94%20How%20human%20AI%20feedback%20loops/Glickman_and_Sharot_2025_How_human_AI_feedback_loops_radio.mp3", "img": "", "report": "episodes/Glickman%20and%20Sharot%20%282025%29%20%E2%80%94%20How%20human%20AI%20feedback%20loops/Glickman_and_Sharot_2025_How_human_AI_feedback_loops_report.md", "paper": ""}, {"title": "Yang et al. (2017) — Medical robotics", "year": "2017", "desc": "医療用ロボット工学は、低侵襲手術、標的治療、病院の最適化から緊急対応、義肢、在宅支援に至るまで、医療機器業界の中で最も急速に成長している分野の一つである。技術が進歩し、自律性が高まるにつれ、規制、倫理、法的な障壁が顕在化しており、これらを慎重に検討する必要がある。 本ドキュメントでは、自動運転車の定義を参考に提案された「医療用ロボットにおける6段階の自律性レベル」を軸に、技術的要件、規制上のコスト", "audio": "episodes/Yang%20et%20al.%20%282017%29%20%E2%80%94%20Medical%20robotics/yang2017_medical_robotics_radio.mp3", "img": "", "report": "episodes/Yang%20et%20al.%20%282017%29%20%E2%80%94%20Medical%20robotics/yang2017_medical_robotics_report.md", "paper": ""}, {"title": "Battaglia et al. (2021) — Autonomous surgery", "year": "2021", "desc": "本報告書は、論文「Rethinking Autonomous Surgery: Focusing on Enhancement over Autonomy（自律型手術の再考：自律性から機能強化への焦点移行）」に基づき、手術支援ロボットの現状、技術的課題、および将来の方向性についてまとめたものである。 ---", "audio": "episodes/Battaglia%20et%20al.%20%282021%29%20%E2%80%94%20Autonomous%20surgery/battaglia2021_autonomous_surgery_radio.mp3", "img": "", "report": "episodes/Battaglia%20et%20al.%20%282021%29%20%E2%80%94%20Autonomous%20surgery/battaglia2021_autonomous_surgery_report.md", "paper": ""}, {"title": "Ehrsson (2020) — Multisensory processes in body ownership", "year": "2020", "desc": "", "audio": "episodes/Ehrsson%20%282020%29%20%E2%80%94%20Multisensory%20processes%20in%20body%20ownership/Ehrsson_2020_Multisensory_processes_in_body_ownership_radio.mp3", "img": "", "report": "", "paper": ""}];
 
 var player = document.getElementById('player');
 var current = -1;
@@ -208,15 +260,15 @@ function render() {
   els.grid.innerHTML = html;
 }
 
-function play(i) {
-  if (i < 0 || i >= EPISODES.length) return;
-  if (i === current) { togglePlay(); return; }
+function showEpisode(i, doPlay) {
   var ep = EPISODES[i];
   current = i;
   player.src = ep.audio;
-  initAudioGraph();
-  if (actx && actx.state === 'suspended') actx.resume();
-  player.play();
+  if (doPlay) {
+    initAudioGraph();
+    if (actx && actx.state === 'suspended') actx.resume();
+    player.play();
+  }
   els.title.textContent = ep.title;
   els.sub.textContent = ep.year ? ep.year + '年の論文' : 'Paperpile Radio';
   els.art.innerHTML = ep.img ? '<img src="' + ep.img + '" alt="">' : '🎧';
@@ -232,6 +284,17 @@ function play(i) {
       artwork: ep.img ? [{ src: ep.img }] : []
     });
   }
+  openPanel(i);
+}
+
+function play(i) {
+  if (i < 0 || i >= EPISODES.length) return;
+  if (i === current) {
+    openPanel(i);
+    togglePlay();
+    return;
+  }
+  showEpisode(i, true);
 }
 
 function togglePlay() {
@@ -296,7 +359,127 @@ document.addEventListener('keydown', function (e) {
     e.preventDefault();
     togglePlay();
   }
+  if (e.code === 'Escape') {
+    if (lightbox.classList.contains('open')) closeLightbox();
+    else if (document.body.classList.contains('panel-open')) closePanel();
+  }
 });
+
+/* ---- now-playing panel ---- */
+var panelEp = -1, mdCache = {};
+var panelEls = {
+  art: document.getElementById('panel-art'),
+  title: document.getElementById('panel-title'),
+  year: document.getElementById('panel-year'),
+  links: document.getElementById('panel-links'),
+  md: document.getElementById('panel-md')
+};
+var lightbox = document.getElementById('lightbox');
+var lightboxImg = document.getElementById('lightbox-img');
+
+function escapeHtml(s) {
+  return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+function inlineMd(s) {
+  s = s.replace(/`([^`]+)`/g, '<code>$1</code>');
+  s = s.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+  s = s.replace(/\[([^\]]+)\]\((https?:[^)\s]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
+  s = s.replace(/(^|[\s（(])(https?:\/\/[^\s<）)]+)/g, '$1<a href="$2" target="_blank" rel="noopener">$2</a>');
+  return s;
+}
+function mdToHtml(md) {
+  var lines = escapeHtml(md).split(/\r?\n/);
+  var out = [], stack = [], para = [];
+  function closePara() {
+    if (para.length) { out.push('<p>' + inlineMd(para.join(' ')) + '</p>'); para = []; }
+  }
+  function closeLists(d) {
+    while (stack.length > d) out.push('</' + stack.pop() + '>');
+  }
+  for (var k = 0; k < lines.length; k++) {
+    var ln = lines[k], m;
+    if (/^\s*$/.test(ln)) { closePara(); closeLists(0); continue; }
+    if (/^\s*(---+|\*\*\*+)\s*$/.test(ln)) { closePara(); closeLists(0); out.push('<hr>'); continue; }
+    if ((m = ln.match(/^(#{1,4})\s+(.*)/))) {
+      closePara(); closeLists(0);
+      var h = Math.min(m[1].length + 1, 4);
+      out.push('<h' + h + '>' + inlineMd(m[2]) + '</h' + h + '>');
+      continue;
+    }
+    if ((m = ln.match(/^(\s*)([*+-]|\d+\.)\s+(.*)/))) {
+      closePara();
+      var depth = Math.min(Math.floor(m[1].length / 4) + 1, 3);
+      var tag = /\d/.test(m[2].charAt(0)) ? 'ol' : 'ul';
+      closeLists(depth);
+      while (stack.length < depth) { stack.push(tag); out.push('<' + tag + '>'); }
+      out.push('<li>' + inlineMd(m[3]) + '</li>');
+      continue;
+    }
+    para.push(ln.trim());
+  }
+  closePara(); closeLists(0);
+  return out.join('\n');
+}
+
+function openPanel(i) {
+  var ep = EPISODES[i];
+  if (panelEp !== i) {
+    panelEp = i;
+    panelEls.title.textContent = ep.title;
+    panelEls.year.textContent = ep.year ? ep.year + '年の論文' : '';
+    panelEls.art.innerHTML = ep.img
+      ? '<img src="' + ep.img + '" alt="インフォグラフィック" onclick="openLightbox()">'
+      : '<div class="ph">🎧</div>';
+    var links = '';
+    if (ep.paper) links += '<a class="pill" href="' + ep.paper + '" target="_blank" rel="noopener">📄 論文を開く</a>';
+    links += '<a class="pill" href="https://scholar.google.com/scholar?q=' + encodeURIComponent(ep.title) + '" target="_blank" rel="noopener">🔍 Google Scholarで探す</a>';
+    if (ep.img) links += '<button class="pill" onclick="openLightbox()">🖼 インフォグラフィックを拡大</button>';
+    panelEls.links.innerHTML = links;
+    loadReport(ep, i);
+    document.getElementById('panel').scrollTop = 0;
+  }
+  document.body.classList.add('panel-open');
+  history.replaceState(null, '', '#ep=' + i);
+}
+function closePanel() {
+  document.body.classList.remove('panel-open');
+  history.replaceState(null, '', location.pathname + location.search);
+}
+document.getElementById('panel-close').addEventListener('click', closePanel);
+document.getElementById('pb-left').addEventListener('click', function () {
+  if (current < 0) return;
+  if (document.body.classList.contains('panel-open') && panelEp === current) closePanel();
+  else openPanel(current);
+});
+
+function loadReport(ep, i) {
+  if (!ep.report) {
+    panelEls.md.innerHTML = ep.desc
+      ? '<p>' + escapeHtml(ep.desc) + '…</p>'
+      : '<p class="md-missing">このエピソードの解説はまだありません。</p>';
+    return;
+  }
+  if (mdCache[ep.report]) { panelEls.md.innerHTML = mdCache[ep.report]; return; }
+  panelEls.md.innerHTML = '<p class="md-missing">解説を読み込み中…</p>';
+  fetch(ep.report)
+    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.text(); })
+    .then(function (t) {
+      mdCache[ep.report] = mdToHtml(t);
+      if (panelEp === i) panelEls.md.innerHTML = mdCache[ep.report];
+    })
+    .catch(function () {
+      if (panelEp === i) panelEls.md.innerHTML = '<p class="md-missing">解説を読み込めませんでした。</p>';
+    });
+}
+
+function openLightbox() {
+  var ep = EPISODES[panelEp];
+  if (!ep || !ep.img) return;
+  lightboxImg.src = ep.img;
+  lightbox.classList.add('open');
+}
+function closeLightbox() { lightbox.classList.remove('open'); }
+lightbox.addEventListener('click', closeLightbox);
 
 /* ---- VU level meter ---- */
 var actx = null, analyserL = null, analyserR = null, bufL = null, bufR = null;
@@ -380,6 +563,12 @@ setP(els.seek);
 setP(els.vol);
 render();
 requestAnimationFrame(drawMeter);
+
+var hashEp = location.hash.match(/^#ep=(\d+)$/);
+if (hashEp) {
+  var hi = +hashEp[1];
+  if (hi >= 0 && hi < EPISODES.length) showEpisode(hi, false);
+}
 </script>
 </body>
 </html>
