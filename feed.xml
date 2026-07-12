@@ -10,7 +10,7 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Mon, 13 Jul 2026 02:05:16 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 02:09:25 +0900</lastBuildDate>
     <item>
       <title>Heirani Moghaddam et al. (2021) — Explicit processes in visuomotor adaptation</title>
       <description>本資料は、視覚運動適応（visuomotor adaptation）における「明示的プロセス（意識的なプロセス）」と「暗示的プロセス（無意識的なプロセス）」の評価手法を比較した研究（Heirani Moghaddam et al., 2021）の内容をまとめたものである。 この研究の核心的な問いは、現在広く用いられている2つの評価手法、**プロセス解離手続（PDP）**と**言語報告フレームワーク</description>
@@ -139,6 +139,15 @@
       <guid isPermaLink="false">051ec38927cb0bf502022449e590d565</guid>
       <pubDate>Sat, 11 Jul 2026 12:30:47 +0900</pubDate>
       <enclosure url="https://shks.github.io/paperpile-radio/episodes/Glickman%20and%20Sharot%20%282025%29%20%E2%80%94%20How%20human%20AI%20feedback%20loops/Glickman_and_Sharot_2025_How_human_AI_feedback_loops_radio.mp3" length="4037491" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Tanabe and Kaneko (2024) — Illusory directional sensation</title>
+      <description>本ドキュメントは、非対称振動によって誘発される「錯覚的方向感覚（illusory directional sensation）」が、手首の運動時における運動主体感（Sense of Agency）および運動速度にどのような影響を与えるかを調査した研究結果をまとめたものである。 産業技術総合研究所（AIST）の田辺健氏と金子秀和氏による本研究（2024年発表）では、手首の屈曲・伸展運動中に、運動方向</description>
+      <itunes:summary>本ドキュメントは、非対称振動によって誘発される「錯覚的方向感覚（illusory directional sensation）」が、手首の運動時における運動主体感（Sense of Agency）および運動速度にどのような影響を与えるかを調査した研究結果をまとめたものである。 産業技術総合研究所（AIST）の田辺健氏と金子秀和氏による本研究（2024年発表）では、手首の屈曲・伸展運動中に、運動方向</itunes:summary>
+      <guid isPermaLink="false">e89762f17c723786115aae13e4273770</guid>
+      <pubDate>Mon, 13 Jul 2026 02:08:19 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Tanabe%20and%20Kaneko%20%282024%29%20%E2%80%94%20Illusory%20directional%20sensation/Tanabe_Kaneko_2024_Illusory_directional_sensation_radio.mp3" length="3473769" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Tanabe%20and%20Kaneko%20%282024%29%20%E2%80%94%20Illusory%20directional%20sensation/Tanabe_Kaneko_2024_Illusory_directional_sensation_infographic.png"/>
     </item>
     <item>
       <title>Feather et al. (2023) — Model metamers reveal divergent invariances between biological and artificial neural networks</title>
