@@ -123,5 +123,37 @@ html = re.sub(r'var EPISODES = \[.*?\];',
 with open(os.path.join(ROOT, "index.html"), 'w') as f:
     f.write(html)
 
-print(f"✅ Synced {len(episodes)} episodes → feed.xml + index.html")
+print(f"✅ Synced {len(episodes)} episodes → feed.xml + index.html + README.md")
 print(f"   {BASE_URL}")
+
+# README.md
+with open(os.path.join(ROOT, "README.md"), 'w') as f:
+    f.write(f"""# 🎧 Paperpile Radio
+
+論文のNotebookLM音声概要を自動配信する個人ポッドキャスト。
+認知科学・HCI・ロボティクス論文を日本語で。
+
+**🎵 聴く**: [{BASE_URL}]({BASE_URL})  
+**📡 RSS**: [{BASE_URL}/feed.xml]({BASE_URL}/feed.xml)
+
+## 使い方
+
+### ポッドキャストアプリに登録
+Overcast / Apple Podcasts / Pocket Casts で「URLで追加」し、
+`{BASE_URL}/feed.xml` を登録してください。
+
+### Webで聴く
+[{BASE_URL}]({BASE_URL}) を開くだけ。
+
+## 統計
+
+- **エピソード数**: {len(episodes)}
+- **最終更新**: {datetime.now().strftime('%Y-%m-%d %H:%M')}
+- **収録年**: {min(ep['year'] for ep in episodes) if episodes else '—'} 〜 {max(ep['year'] for ep in episodes) if episodes else '—'}
+
+## 仕組み
+
+Paperpile → Google Drive → NotebookLM → 日本語レポート/音声/インフォグラフィック → GitHub Pages
+
+自動生成のため、週に数本ずつ追加されます。
+""")
