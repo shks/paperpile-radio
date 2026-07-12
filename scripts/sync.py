@@ -94,12 +94,12 @@ for ep in episodes:
     ET.SubElement(item, 'guid', {'isPermaLink': 'false'}).text = ep['guid']
     ET.SubElement(item, 'pubDate').text = ep['pubDate']
     ET.SubElement(item, 'enclosure', {
-        'url': f"{BASE_URL}/{ep['folder_enc']}/{ep['mp3_enc']}",
+        'url': f"{BASE_URL}/episodes/{ep['folder_enc']}/{ep['mp3_enc']}",
         'length': str(ep['mp3_size']), 'type': 'audio/mpeg'
     })
     if ep['png_enc']:
         ET.SubElement(item, 'itunes:image', {
-            'href': f"{BASE_URL}/{ep['folder_enc']}/{ep['png_enc']}"
+            'href': f"{BASE_URL}/episodes/{ep['folder_enc']}/{ep['png_enc']}"
         })
 
 raw = ET.tostring(rss, encoding='unicode')
@@ -111,8 +111,8 @@ idx_data = []
 for ep in episodes:
     idx_data.append({
         'title': ep['title'], 'year': ep['year'], 'desc': ep['desc'],
-        'audio': f"{ep['folder_enc']}/{ep['mp3_enc']}",
-        'img': f"{ep['folder_enc']}/{ep['png_enc']}" if ep['png_enc'] else "",
+        'audio': f"episodes/{ep['folder_enc']}/{ep['mp3_enc']}",
+        'img': f"episodes/{ep['folder_enc']}/{ep['png_enc']}" if ep['png_enc'] else "",
     })
 
 with open(os.path.join(ROOT, "index.html")) as f:
