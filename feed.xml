@@ -10,7 +10,42 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 07:23:54 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 08:34:50 +0900</lastBuildDate>
+    <item>
+      <title>Song et al. (2024) — Multi-Agents are Social Groups</title>
+      <description>本資料は、Songら（2024年）による研究「Multi-Agents are Social Groups（マルチエージェントは社会的集団である）」に基づき、複数のAIエージェントが人間のユーザーに与える社会的影響を分析したものである。 この研究は、人間同士の相互作用で見られる「社会的影響（他者の意見に合わせて自分の態度を変える現象）」が、複数のAIエージェントと対話する場合にも発生するかを調査し</description>
+      <itunes:summary>本資料は、Songら（2024年）による研究「Multi-Agents are Social Groups（マルチエージェントは社会的集団である）」に基づき、複数のAIエージェントが人間のユーザーに与える社会的影響を分析したものである。 この研究は、人間同士の相互作用で見られる「社会的影響（他者の意見に合わせて自分の態度を変える現象）」が、複数のAIエージェントと対話する場合にも発生するかを調査し</itunes:summary>
+      <guid isPermaLink="false">f902691e47d1d1ba904c1161f4504318</guid>
+      <pubDate>Tue, 14 Jul 2026 08:32:58 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Song%20et%20al.%20%282024%29%20%E2%80%94%20Multi-Agents%20are%20Social%20Groups/Song%20et%20al.%202024%20%E2%80%94%20Multi-Agents%20are%20Social%20Groups_radio.mp3" length="4034357" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Song%20et%20al.%20%282024%29%20%E2%80%94%20Multi-Agents%20are%20Social%20Groups/Song_et_al_2024_Multi_Agents_infographic.png"/>
+    </item>
+    <item>
+      <title>Floegel et al. (2023) — How the conception of control influences our understanding of actions</title>
+      <description>本報告書は、Floegelら（2023年）による研究「How the conception of control influences our understanding of actions（制御の概念がいかに行動の理解に影響を与えるか）」に基づき、運動制御における2つの主要な理論的視点、すなわち「身体制御（Plant Control）」と「知覚制御（Perceptual Control）」の核</description>
+      <itunes:summary>本報告書は、Floegelら（2023年）による研究「How the conception of control influences our understanding of actions（制御の概念がいかに行動の理解に影響を与えるか）」に基づき、運動制御における2つの主要な理論的視点、すなわち「身体制御（Plant Control）」と「知覚制御（Perceptual Control）」の核</itunes:summary>
+      <guid isPermaLink="false">a31ce31fc427e4bed9b82dd9a689ed44</guid>
+      <pubDate>Tue, 14 Jul 2026 08:32:58 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Floegel%20et%20al.%20%282023%29%20%E2%80%94%20How%20the%20conception%20of%20control%20influences%20our%20understanding%20of%20actions/Floegel%20et%20al.%202023%20%E2%80%94%20How%20the%20conception%20of%20control%20influences%20our%20understanding%20of%20actions_radio.mp3" length="4381785" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Ganesh and Miyawaki (2021) — Can we perceive robots as parts of our body</title>
+      <description>本文書は、Gowrishankar Ganesh氏（UM-CNRS LIRMM）および宮脇陽一氏（電気通信大学）による研究報告に基づき、人間とロボットのインタラクションの進化、特に「身体化（Embodiment）」と「人工余剰肢（Supernumerary Limbs）」の可能性について、神経科学的・工学的視点から分析したものである。 現代のロボット研究は、ロボットを単なる「ツール（道具）」として</description>
+      <itunes:summary>本文書は、Gowrishankar Ganesh氏（UM-CNRS LIRMM）および宮脇陽一氏（電気通信大学）による研究報告に基づき、人間とロボットのインタラクションの進化、特に「身体化（Embodiment）」と「人工余剰肢（Supernumerary Limbs）」の可能性について、神経科学的・工学的視点から分析したものである。 現代のロボット研究は、ロボットを単なる「ツール（道具）」として</itunes:summary>
+      <guid isPermaLink="false">7808e7b5c7463785b921487c31089cbb</guid>
+      <pubDate>Tue, 14 Jul 2026 08:32:58 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Ganesh%20and%20Miyawaki%20%282021%29%20%E2%80%94%20Can%20we%20perceive%20robots%20as%20parts%20of%20our%20body/Ganesh%20and%20Miyawaki%202021%20%E2%80%94%20Can%20we%20perceive%20robots%20as%20parts%20of%20our%20body_radio.mp3" length="4961599" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Ganesh%20and%20Miyawaki%20%282021%29%20%E2%80%94%20Can%20we%20perceive%20robots%20as%20parts%20of%20our%20body/Ganesh%20and%20Miyawaki%202021%20-%20Can%20we%20perceive%20robots%20as%20parts%20of%20our%20body_infographic.png"/>
+    </item>
+    <item>
+      <title>Rossi et al. (2021) — Emerging of new bioartificial corticospinal motor synergies</title>
+      <description>本資料は、Rossiら（2021年）の研究に基づき、ウェアラブル・ロボット指「Soft Sixth Finger (SSF)」の使用が人間の脳、特に一次運動野（M1）における皮質脊髄運動シナジーにどのような影響を与えるかを分析したものである。 研究の結果、健康な被験者がSSFを装着してわずか数分間のトレーニングを行った後、物体を掴む動作を「想像」するだけで、前腕および手部の筋肉を制御する皮質脊髄出</description>
+      <itunes:summary>本資料は、Rossiら（2021年）の研究に基づき、ウェアラブル・ロボット指「Soft Sixth Finger (SSF)」の使用が人間の脳、特に一次運動野（M1）における皮質脊髄運動シナジーにどのような影響を与えるかを分析したものである。 研究の結果、健康な被験者がSSFを装着してわずか数分間のトレーニングを行った後、物体を掴む動作を「想像」するだけで、前腕および手部の筋肉を制御する皮質脊髄出</itunes:summary>
+      <guid isPermaLink="false">a10ae918cd84b6a6fb1ae8c581e9ea07</guid>
+      <pubDate>Tue, 14 Jul 2026 08:32:58 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Rossi%20et%20al.%20%282021%29%20%E2%80%94%20Emerging%20of%20new%20bioartificial%20corticospinal%20motor%20synergies/Rossi%20et%20al.%202021%20%E2%80%94%20Emerging%20of%20new%20bioartificial%20corticospinal%20motor%20synergies_radio.mp3" length="4273325" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Rossi%20et%20al.%20%282021%29%20%E2%80%94%20Emerging%20of%20new%20bioartificial%20corticospinal%20motor%20synergies/Rossi%20et%20al.%202021%20-%20Emerging%20of%20new%20bioartificial%20corticospinal%20motor%20synergies_infographic.png"/>
+    </item>
     <item>
       <title>Eggleston et al. (2022) — Preferential looking studies of trustworthiness</title>
       <description>本文書は、Egglestonら（2022年）による研究「Preferential looking studies of trustworthiness detection confound structural and expressive cues to facial trustworthiness」に基づき、乳児の顔認識における信頼性判断の基盤を分析したものである。 長年、生後6〜8ヶ月の乳児</description>
