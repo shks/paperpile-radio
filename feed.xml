@@ -10,54 +10,105 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Mon, 13 Jul 2026 11:10:49 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 11:28:12 +0900</lastBuildDate>
     <item>
-      <title>Heirani Moghaddam et al. (2021) — Explicit processes in visuomotor adaptation</title>
-      <description>本資料は、視覚運動適応（visuomotor adaptation）における「明示的プロセス（意識的なプロセス）」と「暗示的プロセス（無意識的なプロセス）」の評価手法を比較した研究（Heirani Moghaddam et al., 2021）の内容をまとめたものである。 この研究の核心的な問いは、現在広く用いられている2つの評価手法、**プロセス解離手続（PDP）**と**言語報告フレームワーク</description>
-      <itunes:summary>本資料は、視覚運動適応（visuomotor adaptation）における「明示的プロセス（意識的なプロセス）」と「暗示的プロセス（無意識的なプロセス）」の評価手法を比較した研究（Heirani Moghaddam et al., 2021）の内容をまとめたものである。 この研究の核心的な問いは、現在広く用いられている2つの評価手法、**プロセス解離手続（PDP）**と**言語報告フレームワーク</itunes:summary>
-      <guid isPermaLink="false">55663b3b0ee289a52c6efa94b990b806</guid>
-      <pubDate>Thu, 09 Jul 2026 16:28:05 +0900</pubDate>
-      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Heirani%20Moghaddam%20et%20al.%20%282021%29%20%E2%80%94%20Explicit%20processes%20in%20visuomotor%20adaptation/Heirani_Moghaddam_et_al_2021_Explicit_processes_visuomotor_radio.mp3" length="4824717" type="audio/mpeg"/>
+      <title>Prescott et al. (2024) — Understanding the sense of self through robotics</title>
+      <description>本文書は、Tony J. Prescottらによる2024年のレビュー論文「Understanding the sense of self through robotics（ロボット工学を通じた自己の理解）」に基づき、自己意識の科学的解明におけるロボット工学の役割を網羅的にまとめたものである。 自己（セルフ）とは、身体の所有感（SoO）、エージェンシー感（SoA）、そして時間的な経験の統一性といっ</description>
+      <itunes:summary>本文書は、Tony J. Prescottらによる2024年のレビュー論文「Understanding the sense of self through robotics（ロボット工学を通じた自己の理解）」に基づき、自己意識の科学的解明におけるロボット工学の役割を網羅的にまとめたものである。 自己（セルフ）とは、身体の所有感（SoO）、エージェンシー感（SoA）、そして時間的な経験の統一性といっ</itunes:summary>
+      <guid isPermaLink="false">db1c7689899f4c8f1e023e3f360294f1</guid>
+      <pubDate>Mon, 13 Jul 2026 11:10:24 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Prescott%20et%20al.%20%282024%29%20%E2%80%94%20Understanding%20the%20sense%20of%20self%20through%20robotics/Prescott_radio.mp3" length="5453537" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Prescott%20et%20al.%20%282024%29%20%E2%80%94%20Understanding%20the%20sense%20of%20self%20through%20robotics/Prescott_infographic.png"/>
     </item>
     <item>
-      <title>Brooks et al. (2023) — Deep learning reveals what vocal bursts express</title>
-      <description>本ドキュメントは、2023年に発表された論文「Deep learning reveals what vocal bursts express in different cultures（深層学習が明らかにする、異なる文化におけるボーカル・バーストの表現内容）」に基づき、非言語音声が持つ感情的意味の構造、文化的共通性、および最新の解析手法についてまとめたものである。 本研究は、ため息、笑い声、叫び声</description>
-      <itunes:summary>本ドキュメントは、2023年に発表された論文「Deep learning reveals what vocal bursts express in different cultures（深層学習が明らかにする、異なる文化におけるボーカル・バーストの表現内容）」に基づき、非言語音声が持つ感情的意味の構造、文化的共通性、および最新の解析手法についてまとめたものである。 本研究は、ため息、笑い声、叫び声</itunes:summary>
-      <guid isPermaLink="false">a3634f335415bf28d0ab041a85d91af9</guid>
-      <pubDate>Thu, 09 Jul 2026 16:28:02 +0900</pubDate>
-      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Brooks%20et%20al.%20%282023%29%20%E2%80%94%20Deep%20learning%20reveals%20what%20vocal%20bursts%20express/Brooks_et_al_2023_Deep_learning_vocal_bursts_radio.mp3" length="4849168" type="audio/mpeg"/>
+      <title>Kieliba et al. (2021) — Robotic hand augmentation drives changes in neural body representation</title>
+      <description>本報告書は、Kielibaら（2021年）による研究「Robotic hand augmentation drives changes in neural body representation（ロボットによる身体拡張が神経学的身体表現の変化を駆動する）」に基づき、追加のロボット指（サード・サム）の統合が人間の運動能力および脳内表現にどのような影響を与えるかを分析したものである。 研究では、5日間</description>
+      <itunes:summary>本報告書は、Kielibaら（2021年）による研究「Robotic hand augmentation drives changes in neural body representation（ロボットによる身体拡張が神経学的身体表現の変化を駆動する）」に基づき、追加のロボット指（サード・サム）の統合が人間の運動能力および脳内表現にどのような影響を与えるかを分析したものである。 研究では、5日間</itunes:summary>
+      <guid isPermaLink="false">57fc4d940f185bf128bd6124fa6369e3</guid>
+      <pubDate>Mon, 13 Jul 2026 11:06:30 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Kieliba%20et%20al.%20%282021%29%20%E2%80%94%20Robotic%20hand%20augmentation%20drives%20changes%20in%20neural%20body%20representation/Kieliba_radio.mp3" length="3067408" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Kieliba%20et%20al.%20%282021%29%20%E2%80%94%20Robotic%20hand%20augmentation%20drives%20changes%20in%20neural%20body%20representation/Kieliba_infographic.png"/>
     </item>
     <item>
-      <title>Mehring et al. (2019) — Augmented manipulation ability</title>
-      <description>本ドキュメントは、Mehringら（2019年）による、多指症（六本指）の被験者を対象とした神経力学および操作能力に関する調査結果をまとめたものである。この研究は、人間の脳が追加の自由度（dof）をどのように制御し、それが身体能力の向上にどのように寄与するかを明らかにしている。 ---</description>
-      <itunes:summary>本ドキュメントは、Mehringら（2019年）による、多指症（六本指）の被験者を対象とした神経力学および操作能力に関する調査結果をまとめたものである。この研究は、人間の脳が追加の自由度（dof）をどのように制御し、それが身体能力の向上にどのように寄与するかを明らかにしている。 ---</itunes:summary>
-      <guid isPermaLink="false">8b364dda6b90411f4131e7ec674cfed7</guid>
-      <pubDate>Thu, 09 Jul 2026 14:16:03 +0900</pubDate>
-      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Mehring%20et%20al.%20%282019%29%20%E2%80%94%20Augmented%20manipulation%20ability/Mehring_et_al_2019_Augmented_manipulation_ability_radio.mp3" length="3960064" type="audio/mpeg"/>
+      <title>Kawahara et al. (2021) — Semi-autonomous avatar</title>
+      <description>本文書は、京都大学の研究チーム（河原達也教授ら）による、一人のオペレーターが複数のリモートロボットやエージェントを同時に操作する「半自律型アバター」フレームワークに関する研究をまとめたものである。 現代社会においてリモート対話の需要（インタビュー、カウンセリング、コンサルティング等）は増加しているが、熟練した専門家の数は限られている。本研究が提案するシステムは、自律型対話システムと人間による遠隔操</description>
+      <itunes:summary>本文書は、京都大学の研究チーム（河原達也教授ら）による、一人のオペレーターが複数のリモートロボットやエージェントを同時に操作する「半自律型アバター」フレームワークに関する研究をまとめたものである。 現代社会においてリモート対話の需要（インタビュー、カウンセリング、コンサルティング等）は増加しているが、熟練した専門家の数は限られている。本研究が提案するシステムは、自律型対話システムと人間による遠隔操</itunes:summary>
+      <guid isPermaLink="false">242323d589bb5f6050d35f2cf4511c6c</guid>
+      <pubDate>Mon, 13 Jul 2026 10:56:22 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Kawahara%20et%20al.%20%282021%29%20%E2%80%94%20Semi-autonomous%20avatar/Kawahara_radio.mp3" length="5209553" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Kawahara%20et%20al.%20%282021%29%20%E2%80%94%20Semi-autonomous%20avatar/Kawahara_et_al_2021_semi_autonomous_avatar_infographic.png"/>
     </item>
     <item>
-      <title>Luo et al. (2024) — Precise and dexterous robotic manipulation</title>
-      <description>本文書は、カリフォルニア大学バークレー校の研究チーム（Luo et al., 2024）が開発した、ビジョンベースのロボット操作システム「HIL-SERL（Human-in-the-Loop Sample-Efficient Robotic Reinforcement Learning）」に関するブリーフィング・ドキュメントである。本システムは、実世界での短時間のトレーニングにより、人間を凌駕する</description>
-      <itunes:summary>本文書は、カリフォルニア大学バークレー校の研究チーム（Luo et al., 2024）が開発した、ビジョンベースのロボット操作システム「HIL-SERL（Human-in-the-Loop Sample-Efficient Robotic Reinforcement Learning）」に関するブリーフィング・ドキュメントである。本システムは、実世界での短時間のトレーニングにより、人間を凌駕する</itunes:summary>
-      <guid isPermaLink="false">038e9687929814acfff77c9915034af3</guid>
-      <pubDate>Thu, 09 Jul 2026 14:15:59 +0900</pubDate>
-      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Luo%20et%20al.%20%282024%29%20%E2%80%94%20Precise%20and%20dexterous%20robotic%20manipulation/Luo_et_al_2024_Precise_and_dexterous_robotic_manipulation_radio.mp3" length="5221570" type="audio/mpeg"/>
+      <title>Dafarra et al. (2024) — iCub3 avatar system</title>
+      <description>本資料は、イタリア工科大学（IIT）が開発したヒューマノイドロボット「iCub3」および、人間が遠隔地からロボットを自身の身体のように操ることを可能にする「アバターシステム」についての包括的な分析結果をまとめたものである。 このシステムは、移動、操作、音声、表情の伝達に加え、視覚、聴覚、触覚、重量感といった多角的な感覚フィードバックを統合している。ベネチアでの遠隔展示会訪問、リミニでの公開イベント</description>
+      <itunes:summary>本資料は、イタリア工科大学（IIT）が開発したヒューマノイドロボット「iCub3」および、人間が遠隔地からロボットを自身の身体のように操ることを可能にする「アバターシステム」についての包括的な分析結果をまとめたものである。 このシステムは、移動、操作、音声、表情の伝達に加え、視覚、聴覚、触覚、重量感といった多角的な感覚フィードバックを統合している。ベネチアでの遠隔展示会訪問、リミニでの公開イベント</itunes:summary>
+      <guid isPermaLink="false">7c5731e4cf5f5ddbae7b3c10f29c0218</guid>
+      <pubDate>Mon, 13 Jul 2026 10:56:17 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Dafarra%20et%20al.%20%282024%29%20%E2%80%94%20iCub3%20avatar%20system/Dafarra_radio.mp3" length="5186461" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Dafarra%20et%20al.%20%282024%29%20%E2%80%94%20iCub3%20avatar%20system/Dafarra_et_al_2024_iCub3_avatar_system_infographic.png"/>
     </item>
     <item>
-      <title>Diaz et al. (2023) — Human-in-the-loop optimization of wearable robotic devices</title>
+      <title>Rödel et al. (2014) — Towards autonomous cars</title>
+      <description>本ドキュメントは、ザルツブルク大学の研究者らによる論文「Towards Autonomous Cars: The Effect of Autonomy Levels on Acceptance and User Experience（自動運転車に向けて：自動化レベルが受容性とユーザーエクスペリエンスに与える影響）」の内容に基づき、自動運転車の普及における課題と、ユーザー側の受容要因を分析したブリー</description>
+      <itunes:summary>本ドキュメントは、ザルツブルク大学の研究者らによる論文「Towards Autonomous Cars: The Effect of Autonomy Levels on Acceptance and User Experience（自動運転車に向けて：自動化レベルが受容性とユーザーエクスペリエンスに与える影響）」の内容に基づき、自動運転車の普及における課題と、ユーザー側の受容要因を分析したブリー</itunes:summary>
+      <guid isPermaLink="false">b9e5fa566691cd30b9b63ccfa5a1e490</guid>
+      <pubDate>Mon, 13 Jul 2026 08:44:24 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/R%C3%B6del%20et%20al.%20%282014%29%20%E2%80%94%20Towards%20autonomous%20cars/R%C3%B6del%20et%20al.%202014%20-%20radio.mp3" length="4309792" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/R%C3%B6del%20et%20al.%20%282014%29%20%E2%80%94%20Towards%20autonomous%20cars/R%C3%B6del%20et%20al.%202014%20-%20infographic.png"/>
+    </item>
+    <item>
+      <title>Lee et al. (2024) — Levels of autonomy in FDA-cleared surgical robots</title>
+      <description>本ドキュメントは、2015年から2023年にかけて米国食品医薬品局（FDA）から承認を受けた手術用ロボットに関する系統的レビューに基づき、その自律性の現状、規制上の課題、および将来の展望をまとめたものである。 手術ロボット工学の進歩は、過去10年間で目覚ましい発展を遂げているが、その自律性を評価し規制するための枠組みは依然として不十分である。Leeら（2024年）による研究は、独自の「手術ロボット</description>
+      <itunes:summary>本ドキュメントは、2015年から2023年にかけて米国食品医薬品局（FDA）から承認を受けた手術用ロボットに関する系統的レビューに基づき、その自律性の現状、規制上の課題、および将来の展望をまとめたものである。 手術ロボット工学の進歩は、過去10年間で目覚ましい発展を遂げているが、その自律性を評価し規制するための枠組みは依然として不十分である。Leeら（2024年）による研究は、独自の「手術ロボット</itunes:summary>
+      <guid isPermaLink="false">3f1c937bb8b190e2923dc34dbd971c64</guid>
+      <pubDate>Mon, 13 Jul 2026 08:44:23 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Lee%20et%20al.%20%282024%29%20%E2%80%94%20Levels%20of%20autonomy%20in%20FDA-cleared%20surgical%20robots/Lee%20et%20al.%202024%20-%20radio.mp3" length="4159744" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Lee%20et%20al.%20%282024%29%20%E2%80%94%20Levels%20of%20autonomy%20in%20FDA-cleared%20surgical%20robots/Lee%20et%20al.%202024%20-%20infographic.png"/>
+    </item>
+    <item>
+      <title>Cash et al. (2026) — Is AI making us stupid</title>
+      <description>本ドキュメントは、人工知能（AI）の利用、特に大規模言語モデル（LLM）の普及が人間の認知機能に及ぼす影響を分析した学術的見解（Cash et al., 2026）に基づき、その主要な論点と知見をまとめたものである。 ---</description>
+      <itunes:summary>本ドキュメントは、人工知能（AI）の利用、特に大規模言語モデル（LLM）の普及が人間の認知機能に及ぼす影響を分析した学術的見解（Cash et al., 2026）に基づき、その主要な論点と知見をまとめたものである。 ---</itunes:summary>
+      <guid isPermaLink="false">a200556e20e83d3758271a7d22c76875</guid>
+      <pubDate>Mon, 13 Jul 2026 04:23:23 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Cash%20et%20al.%20%282026%29%20%E2%80%94%20Is%20AI%20making%20us%20stupid/cash_ai_stupid_radio.mp3" length="5443192" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Cash%20et%20al.%20%282026%29%20%E2%80%94%20Is%20AI%20making%20us%20stupid/cash_ai_stupid_infographic.png"/>
+    </item>
+    <item>
+      <title>Collins et al. (2024) — Validation of agent-based models</title>
+      <description>本文書は、エージェントベースモデル（ABMS）の妥当性確認（バリデーション）を支援する手法について、専門的な分析と包括的な概要を提供するものである。妥当性確認とは、モデルがその「意図された目的」に対して、対象となるシステムを適切に表現しているかを判断するプロセスであり、一般に「正しいモデルを構築すること」と定義される。 ABMSはそのメカニズムと表現対象の複雑さゆえに、普遍的に受け入れられた評価ア</description>
+      <itunes:summary>本文書は、エージェントベースモデル（ABMS）の妥当性確認（バリデーション）を支援する手法について、専門的な分析と包括的な概要を提供するものである。妥当性確認とは、モデルがその「意図された目的」に対して、対象となるシステムを適切に表現しているかを判断するプロセスであり、一般に「正しいモデルを構築すること」と定義される。 ABMSはそのメカニズムと表現対象の複雑さゆえに、普遍的に受け入れられた評価ア</itunes:summary>
+      <guid isPermaLink="false">5909d395a39fcff348937c4130e3752b</guid>
+      <pubDate>Mon, 13 Jul 2026 04:23:18 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Collins%20et%20al.%20%282024%29%20%E2%80%94%20Validation%20of%20agent-based%20models/collins_validation_radio.mp3" length="4499754" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Collins%20et%20al.%20%282024%29%20%E2%80%94%20Validation%20of%20agent-based%20models/collins_validation_infographic.png"/>
+    </item>
+    <item>
+      <title>Park et al. (2020) — Breathing and voluntary action</title>
       <description/>
       <itunes:summary/>
-      <guid isPermaLink="false">37c6106cb7e96b5246bebf7f6bfc2a00</guid>
-      <pubDate>Thu, 09 Jul 2026 14:02:16 +0900</pubDate>
-      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Diaz%20et%20al.%20%282023%29%20%E2%80%94%20Human-in-the-loop%20optimization%20of%20wearable%20robotic%20devices/Diaz_et_al_2023_Human-in-the-loop_optimization_of_wearable_robotic_devices_radio.mp3" length="4374157" type="audio/mpeg"/>
+      <guid isPermaLink="false">2c20811b8ca4abbb67bcacd2edfe6d87</guid>
+      <pubDate>Mon, 13 Jul 2026 03:12:51 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Park%20et%20al.%20%282020%29%20%E2%80%94%20Breathing%20and%20voluntary%20action/park_breathing_radio.mp3" length="8099323" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Park%20et%20al.%20%282020%29%20%E2%80%94%20Breathing%20and%20voluntary%20action/park_breathing_infographic.png"/>
     </item>
     <item>
-      <title>Eden et al. (2022) — Principles of human movement augmentation</title>
-      <description/>
-      <itunes:summary/>
-      <guid isPermaLink="false">cb4afe7a52e4d5b04421f5ab1321497e</guid>
-      <pubDate>Thu, 09 Jul 2026 14:02:11 +0900</pubDate>
-      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Eden%20et%20al.%20%282022%29%20%E2%80%94%20Principles%20of%20human%20movement%20augmentation/Eden_et_al_2022_Principles_of_human_movement_augmentation_radio.mp3" length="5570043" type="audio/mpeg"/>
+      <title>Tanabe and Kaneko (2024) — Illusory directional sensation</title>
+      <description>本ドキュメントは、非対称振動によって誘発される「錯覚的方向感覚（illusory directional sensation）」が、手首の運動時における運動主体感（Sense of Agency）および運動速度にどのような影響を与えるかを調査した研究結果をまとめたものである。 産業技術総合研究所（AIST）の田辺健氏と金子秀和氏による本研究（2024年発表）では、手首の屈曲・伸展運動中に、運動方向</description>
+      <itunes:summary>本ドキュメントは、非対称振動によって誘発される「錯覚的方向感覚（illusory directional sensation）」が、手首の運動時における運動主体感（Sense of Agency）および運動速度にどのような影響を与えるかを調査した研究結果をまとめたものである。 産業技術総合研究所（AIST）の田辺健氏と金子秀和氏による本研究（2024年発表）では、手首の屈曲・伸展運動中に、運動方向</itunes:summary>
+      <guid isPermaLink="false">e89762f17c723786115aae13e4273770</guid>
+      <pubDate>Mon, 13 Jul 2026 02:08:19 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Tanabe%20and%20Kaneko%20%282024%29%20%E2%80%94%20Illusory%20directional%20sensation/Tanabe_Kaneko_2024_Illusory_directional_sensation_radio.mp3" length="3473769" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Tanabe%20and%20Kaneko%20%282024%29%20%E2%80%94%20Illusory%20directional%20sensation/Tanabe_Kaneko_2024_Illusory_directional_sensation_infographic.png"/>
+    </item>
+    <item>
+      <title>Feather et al. (2023) — Model metamers reveal divergent invariances between biological and artificial neural networks</title>
+      <description>本報告書は、人工ニューラルネットワーク（ANN）とヒトの感覚システムにおける「不変性（Invariance）」の相違を、モデル・メタマー（Model Metamers）という手法を用いて分析した研究結果をまとめたものである。 感覚システムにおける不変性とは、物体のポーズや照明、音声のプロディ（韻律）などが変化しても、対象を同じカテゴリーとして認識できる能力を指す。ディープニューラルネットワーク（D</description>
+      <itunes:summary>本報告書は、人工ニューラルネットワーク（ANN）とヒトの感覚システムにおける「不変性（Invariance）」の相違を、モデル・メタマー（Model Metamers）という手法を用いて分析した研究結果をまとめたものである。 感覚システムにおける不変性とは、物体のポーズや照明、音声のプロディ（韻律）などが変化しても、対象を同じカテゴリーとして認識できる能力を指す。ディープニューラルネットワーク（D</itunes:summary>
+      <guid isPermaLink="false">c577732bbe3d6f34c87e8519eae62c84</guid>
+      <pubDate>Mon, 13 Jul 2026 02:02:29 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Feather%20et%20al.%20%282023%29%20%E2%80%94%20Model%20metamers%20reveal%20divergent%20invariances%20between%20biological%20and%20artificial%20neural%20networks/Feather_et_al_2023_Model_metamers_radio.mp3" length="5448939" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Feather%20et%20al.%20%282023%29%20%E2%80%94%20Model%20metamers%20reveal%20divergent%20invariances%20between%20biological%20and%20artificial%20neural%20networks/Feather_et_al_2023_Model_metamers_infographic.png"/>
     </item>
     <item>
       <title>Legaspi et al. (2024) — The sense of agency in human–AI interactions</title>
@@ -141,87 +192,6 @@
       <enclosure url="https://shks.github.io/paperpile-radio/episodes/Glickman%20and%20Sharot%20%282025%29%20%E2%80%94%20How%20human%20AI%20feedback%20loops/Glickman_and_Sharot_2025_How_human_AI_feedback_loops_radio.mp3" length="4037491" type="audio/mpeg"/>
     </item>
     <item>
-      <title>Prescott et al. (2024) — Understanding the sense of self through robotics</title>
-      <description>本文書は、Tony J. Prescottらによる2024年のレビュー論文「Understanding the sense of self through robotics（ロボット工学を通じた自己の理解）」に基づき、自己意識の科学的解明におけるロボット工学の役割を網羅的にまとめたものである。 自己（セルフ）とは、身体の所有感（SoO）、エージェンシー感（SoA）、そして時間的な経験の統一性といっ</description>
-      <itunes:summary>本文書は、Tony J. Prescottらによる2024年のレビュー論文「Understanding the sense of self through robotics（ロボット工学を通じた自己の理解）」に基づき、自己意識の科学的解明におけるロボット工学の役割を網羅的にまとめたものである。 自己（セルフ）とは、身体の所有感（SoO）、エージェンシー感（SoA）、そして時間的な経験の統一性といっ</itunes:summary>
-      <guid isPermaLink="false">db1c7689899f4c8f1e023e3f360294f1</guid>
-      <pubDate>Mon, 13 Jul 2026 11:10:24 +0900</pubDate>
-      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Prescott%20et%20al.%20%282024%29%20%E2%80%94%20Understanding%20the%20sense%20of%20self%20through%20robotics/Prescott_radio.mp3" length="5453537" type="audio/mpeg"/>
-      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Prescott%20et%20al.%20%282024%29%20%E2%80%94%20Understanding%20the%20sense%20of%20self%20through%20robotics/Prescott_infographic.png"/>
-    </item>
-    <item>
-      <title>Kieliba et al. (2021) — Robotic hand augmentation drives changes in neural body representation</title>
-      <description>本報告書は、Kielibaら（2021年）による研究「Robotic hand augmentation drives changes in neural body representation（ロボットによる身体拡張が神経学的身体表現の変化を駆動する）」に基づき、追加のロボット指（サード・サム）の統合が人間の運動能力および脳内表現にどのような影響を与えるかを分析したものである。 研究では、5日間</description>
-      <itunes:summary>本報告書は、Kielibaら（2021年）による研究「Robotic hand augmentation drives changes in neural body representation（ロボットによる身体拡張が神経学的身体表現の変化を駆動する）」に基づき、追加のロボット指（サード・サム）の統合が人間の運動能力および脳内表現にどのような影響を与えるかを分析したものである。 研究では、5日間</itunes:summary>
-      <guid isPermaLink="false">57fc4d940f185bf128bd6124fa6369e3</guid>
-      <pubDate>Mon, 13 Jul 2026 11:06:30 +0900</pubDate>
-      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Kieliba%20et%20al.%20%282021%29%20%E2%80%94%20Robotic%20hand%20augmentation%20drives%20changes%20in%20neural%20body%20representation/Kieliba_radio.mp3" length="3067408" type="audio/mpeg"/>
-      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Kieliba%20et%20al.%20%282021%29%20%E2%80%94%20Robotic%20hand%20augmentation%20drives%20changes%20in%20neural%20body%20representation/Kieliba_infographic.png"/>
-    </item>
-    <item>
-      <title>Kawahara et al. (2021) — Semi-autonomous avatar</title>
-      <description>本文書は、京都大学の研究チーム（河原達也教授ら）による、一人のオペレーターが複数のリモートロボットやエージェントを同時に操作する「半自律型アバター」フレームワークに関する研究をまとめたものである。 現代社会においてリモート対話の需要（インタビュー、カウンセリング、コンサルティング等）は増加しているが、熟練した専門家の数は限られている。本研究が提案するシステムは、自律型対話システムと人間による遠隔操</description>
-      <itunes:summary>本文書は、京都大学の研究チーム（河原達也教授ら）による、一人のオペレーターが複数のリモートロボットやエージェントを同時に操作する「半自律型アバター」フレームワークに関する研究をまとめたものである。 現代社会においてリモート対話の需要（インタビュー、カウンセリング、コンサルティング等）は増加しているが、熟練した専門家の数は限られている。本研究が提案するシステムは、自律型対話システムと人間による遠隔操</itunes:summary>
-      <guid isPermaLink="false">242323d589bb5f6050d35f2cf4511c6c</guid>
-      <pubDate>Mon, 13 Jul 2026 10:56:22 +0900</pubDate>
-      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Kawahara%20et%20al.%20%282021%29%20%E2%80%94%20Semi-autonomous%20avatar/Kawahara_radio.mp3" length="5209553" type="audio/mpeg"/>
-      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Kawahara%20et%20al.%20%282021%29%20%E2%80%94%20Semi-autonomous%20avatar/Kawahara_et_al_2021_semi_autonomous_avatar_infographic.png"/>
-    </item>
-    <item>
-      <title>Dafarra et al. (2024) — iCub3 avatar system</title>
-      <description>本資料は、イタリア工科大学（IIT）が開発したヒューマノイドロボット「iCub3」および、人間が遠隔地からロボットを自身の身体のように操ることを可能にする「アバターシステム」についての包括的な分析結果をまとめたものである。 このシステムは、移動、操作、音声、表情の伝達に加え、視覚、聴覚、触覚、重量感といった多角的な感覚フィードバックを統合している。ベネチアでの遠隔展示会訪問、リミニでの公開イベント</description>
-      <itunes:summary>本資料は、イタリア工科大学（IIT）が開発したヒューマノイドロボット「iCub3」および、人間が遠隔地からロボットを自身の身体のように操ることを可能にする「アバターシステム」についての包括的な分析結果をまとめたものである。 このシステムは、移動、操作、音声、表情の伝達に加え、視覚、聴覚、触覚、重量感といった多角的な感覚フィードバックを統合している。ベネチアでの遠隔展示会訪問、リミニでの公開イベント</itunes:summary>
-      <guid isPermaLink="false">7c5731e4cf5f5ddbae7b3c10f29c0218</guid>
-      <pubDate>Mon, 13 Jul 2026 10:56:17 +0900</pubDate>
-      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Dafarra%20et%20al.%20%282024%29%20%E2%80%94%20iCub3%20avatar%20system/Dafarra_radio.mp3" length="5186461" type="audio/mpeg"/>
-      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Dafarra%20et%20al.%20%282024%29%20%E2%80%94%20iCub3%20avatar%20system/Dafarra_et_al_2024_iCub3_avatar_system_infographic.png"/>
-    </item>
-    <item>
-      <title>Cash et al. (2026) — Is AI making us stupid</title>
-      <description>本ドキュメントは、人工知能（AI）の利用、特に大規模言語モデル（LLM）の普及が人間の認知機能に及ぼす影響を分析した学術的見解（Cash et al., 2026）に基づき、その主要な論点と知見をまとめたものである。 ---</description>
-      <itunes:summary>本ドキュメントは、人工知能（AI）の利用、特に大規模言語モデル（LLM）の普及が人間の認知機能に及ぼす影響を分析した学術的見解（Cash et al., 2026）に基づき、その主要な論点と知見をまとめたものである。 ---</itunes:summary>
-      <guid isPermaLink="false">a200556e20e83d3758271a7d22c76875</guid>
-      <pubDate>Mon, 13 Jul 2026 04:23:23 +0900</pubDate>
-      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Cash%20et%20al.%20%282026%29%20%E2%80%94%20Is%20AI%20making%20us%20stupid/cash_ai_stupid_radio.mp3" length="5443192" type="audio/mpeg"/>
-      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Cash%20et%20al.%20%282026%29%20%E2%80%94%20Is%20AI%20making%20us%20stupid/cash_ai_stupid_infographic.png"/>
-    </item>
-    <item>
-      <title>Collins et al. (2024) — Validation of agent-based models</title>
-      <description>本文書は、エージェントベースモデル（ABMS）の妥当性確認（バリデーション）を支援する手法について、専門的な分析と包括的な概要を提供するものである。妥当性確認とは、モデルがその「意図された目的」に対して、対象となるシステムを適切に表現しているかを判断するプロセスであり、一般に「正しいモデルを構築すること」と定義される。 ABMSはそのメカニズムと表現対象の複雑さゆえに、普遍的に受け入れられた評価ア</description>
-      <itunes:summary>本文書は、エージェントベースモデル（ABMS）の妥当性確認（バリデーション）を支援する手法について、専門的な分析と包括的な概要を提供するものである。妥当性確認とは、モデルがその「意図された目的」に対して、対象となるシステムを適切に表現しているかを判断するプロセスであり、一般に「正しいモデルを構築すること」と定義される。 ABMSはそのメカニズムと表現対象の複雑さゆえに、普遍的に受け入れられた評価ア</itunes:summary>
-      <guid isPermaLink="false">5909d395a39fcff348937c4130e3752b</guid>
-      <pubDate>Mon, 13 Jul 2026 04:23:18 +0900</pubDate>
-      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Collins%20et%20al.%20%282024%29%20%E2%80%94%20Validation%20of%20agent-based%20models/collins_validation_radio.mp3" length="4499754" type="audio/mpeg"/>
-      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Collins%20et%20al.%20%282024%29%20%E2%80%94%20Validation%20of%20agent-based%20models/collins_validation_infographic.png"/>
-    </item>
-    <item>
-      <title>Park et al. (2020) — Breathing and voluntary action</title>
-      <description/>
-      <itunes:summary/>
-      <guid isPermaLink="false">2c20811b8ca4abbb67bcacd2edfe6d87</guid>
-      <pubDate>Mon, 13 Jul 2026 03:12:51 +0900</pubDate>
-      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Park%20et%20al.%20%282020%29%20%E2%80%94%20Breathing%20and%20voluntary%20action/park_breathing_radio.mp3" length="8099323" type="audio/mpeg"/>
-      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Park%20et%20al.%20%282020%29%20%E2%80%94%20Breathing%20and%20voluntary%20action/park_breathing_infographic.png"/>
-    </item>
-    <item>
-      <title>Tanabe and Kaneko (2024) — Illusory directional sensation</title>
-      <description>本ドキュメントは、非対称振動によって誘発される「錯覚的方向感覚（illusory directional sensation）」が、手首の運動時における運動主体感（Sense of Agency）および運動速度にどのような影響を与えるかを調査した研究結果をまとめたものである。 産業技術総合研究所（AIST）の田辺健氏と金子秀和氏による本研究（2024年発表）では、手首の屈曲・伸展運動中に、運動方向</description>
-      <itunes:summary>本ドキュメントは、非対称振動によって誘発される「錯覚的方向感覚（illusory directional sensation）」が、手首の運動時における運動主体感（Sense of Agency）および運動速度にどのような影響を与えるかを調査した研究結果をまとめたものである。 産業技術総合研究所（AIST）の田辺健氏と金子秀和氏による本研究（2024年発表）では、手首の屈曲・伸展運動中に、運動方向</itunes:summary>
-      <guid isPermaLink="false">e89762f17c723786115aae13e4273770</guid>
-      <pubDate>Mon, 13 Jul 2026 02:08:19 +0900</pubDate>
-      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Tanabe%20and%20Kaneko%20%282024%29%20%E2%80%94%20Illusory%20directional%20sensation/Tanabe_Kaneko_2024_Illusory_directional_sensation_radio.mp3" length="3473769" type="audio/mpeg"/>
-      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Tanabe%20and%20Kaneko%20%282024%29%20%E2%80%94%20Illusory%20directional%20sensation/Tanabe_Kaneko_2024_Illusory_directional_sensation_infographic.png"/>
-    </item>
-    <item>
-      <title>Feather et al. (2023) — Model metamers reveal divergent invariances between biological and artificial neural networks</title>
-      <description>本報告書は、人工ニューラルネットワーク（ANN）とヒトの感覚システムにおける「不変性（Invariance）」の相違を、モデル・メタマー（Model Metamers）という手法を用いて分析した研究結果をまとめたものである。 感覚システムにおける不変性とは、物体のポーズや照明、音声のプロディ（韻律）などが変化しても、対象を同じカテゴリーとして認識できる能力を指す。ディープニューラルネットワーク（D</description>
-      <itunes:summary>本報告書は、人工ニューラルネットワーク（ANN）とヒトの感覚システムにおける「不変性（Invariance）」の相違を、モデル・メタマー（Model Metamers）という手法を用いて分析した研究結果をまとめたものである。 感覚システムにおける不変性とは、物体のポーズや照明、音声のプロディ（韻律）などが変化しても、対象を同じカテゴリーとして認識できる能力を指す。ディープニューラルネットワーク（D</itunes:summary>
-      <guid isPermaLink="false">c577732bbe3d6f34c87e8519eae62c84</guid>
-      <pubDate>Mon, 13 Jul 2026 02:02:29 +0900</pubDate>
-      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Feather%20et%20al.%20%282023%29%20%E2%80%94%20Model%20metamers%20reveal%20divergent%20invariances%20between%20biological%20and%20artificial%20neural%20networks/Feather_et_al_2023_Model_metamers_radio.mp3" length="5448939" type="audio/mpeg"/>
-      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Feather%20et%20al.%20%282023%29%20%E2%80%94%20Model%20metamers%20reveal%20divergent%20invariances%20between%20biological%20and%20artificial%20neural%20networks/Feather_et_al_2023_Model_metamers_infographic.png"/>
-    </item>
-    <item>
       <title>Yang et al. (2017) — Medical robotics</title>
       <description>医療用ロボット工学は、低侵襲手術、標的治療、病院の最適化から緊急対応、義肢、在宅支援に至るまで、医療機器業界の中で最も急速に成長している分野の一つである。技術が進歩し、自律性が高まるにつれ、規制、倫理、法的な障壁が顕在化しており、これらを慎重に検討する必要がある。 本ドキュメントでは、自動運転車の定義を参考に提案された「医療用ロボットにおける6段階の自律性レベル」を軸に、技術的要件、規制上のコスト</description>
       <itunes:summary>医療用ロボット工学は、低侵襲手術、標的治療、病院の最適化から緊急対応、義肢、在宅支援に至るまで、医療機器業界の中で最も急速に成長している分野の一つである。技術が進歩し、自律性が高まるにつれ、規制、倫理、法的な障壁が顕在化しており、これらを慎重に検討する必要がある。 本ドキュメントでは、自動運転車の定義を参考に提案された「医療用ロボットにおける6段階の自律性レベル」を軸に、技術的要件、規制上のコスト</itunes:summary>
@@ -244,6 +214,54 @@
       <guid isPermaLink="false">184c04da01322d9972eeb87a40fc5c8f</guid>
       <pubDate>Fri, 10 Jul 2026 10:29:02 +0900</pubDate>
       <enclosure url="https://shks.github.io/paperpile-radio/episodes/Ehrsson%20%282020%29%20%E2%80%94%20Multisensory%20processes%20in%20body%20ownership/Ehrsson_2020_Multisensory_processes_in_body_ownership_radio.mp3" length="4376665" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Heirani Moghaddam et al. (2021) — Explicit processes in visuomotor adaptation</title>
+      <description>本資料は、視覚運動適応（visuomotor adaptation）における「明示的プロセス（意識的なプロセス）」と「暗示的プロセス（無意識的なプロセス）」の評価手法を比較した研究（Heirani Moghaddam et al., 2021）の内容をまとめたものである。 この研究の核心的な問いは、現在広く用いられている2つの評価手法、**プロセス解離手続（PDP）**と**言語報告フレームワーク</description>
+      <itunes:summary>本資料は、視覚運動適応（visuomotor adaptation）における「明示的プロセス（意識的なプロセス）」と「暗示的プロセス（無意識的なプロセス）」の評価手法を比較した研究（Heirani Moghaddam et al., 2021）の内容をまとめたものである。 この研究の核心的な問いは、現在広く用いられている2つの評価手法、**プロセス解離手続（PDP）**と**言語報告フレームワーク</itunes:summary>
+      <guid isPermaLink="false">55663b3b0ee289a52c6efa94b990b806</guid>
+      <pubDate>Thu, 09 Jul 2026 16:28:05 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Heirani%20Moghaddam%20et%20al.%20%282021%29%20%E2%80%94%20Explicit%20processes%20in%20visuomotor%20adaptation/Heirani_Moghaddam_et_al_2021_Explicit_processes_visuomotor_radio.mp3" length="4824717" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Brooks et al. (2023) — Deep learning reveals what vocal bursts express</title>
+      <description>本ドキュメントは、2023年に発表された論文「Deep learning reveals what vocal bursts express in different cultures（深層学習が明らかにする、異なる文化におけるボーカル・バーストの表現内容）」に基づき、非言語音声が持つ感情的意味の構造、文化的共通性、および最新の解析手法についてまとめたものである。 本研究は、ため息、笑い声、叫び声</description>
+      <itunes:summary>本ドキュメントは、2023年に発表された論文「Deep learning reveals what vocal bursts express in different cultures（深層学習が明らかにする、異なる文化におけるボーカル・バーストの表現内容）」に基づき、非言語音声が持つ感情的意味の構造、文化的共通性、および最新の解析手法についてまとめたものである。 本研究は、ため息、笑い声、叫び声</itunes:summary>
+      <guid isPermaLink="false">a3634f335415bf28d0ab041a85d91af9</guid>
+      <pubDate>Thu, 09 Jul 2026 16:28:02 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Brooks%20et%20al.%20%282023%29%20%E2%80%94%20Deep%20learning%20reveals%20what%20vocal%20bursts%20express/Brooks_et_al_2023_Deep_learning_vocal_bursts_radio.mp3" length="4849168" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Mehring et al. (2019) — Augmented manipulation ability</title>
+      <description>本ドキュメントは、Mehringら（2019年）による、多指症（六本指）の被験者を対象とした神経力学および操作能力に関する調査結果をまとめたものである。この研究は、人間の脳が追加の自由度（dof）をどのように制御し、それが身体能力の向上にどのように寄与するかを明らかにしている。 ---</description>
+      <itunes:summary>本ドキュメントは、Mehringら（2019年）による、多指症（六本指）の被験者を対象とした神経力学および操作能力に関する調査結果をまとめたものである。この研究は、人間の脳が追加の自由度（dof）をどのように制御し、それが身体能力の向上にどのように寄与するかを明らかにしている。 ---</itunes:summary>
+      <guid isPermaLink="false">8b364dda6b90411f4131e7ec674cfed7</guid>
+      <pubDate>Thu, 09 Jul 2026 14:16:03 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Mehring%20et%20al.%20%282019%29%20%E2%80%94%20Augmented%20manipulation%20ability/Mehring_et_al_2019_Augmented_manipulation_ability_radio.mp3" length="3960064" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Luo et al. (2024) — Precise and dexterous robotic manipulation</title>
+      <description>本文書は、カリフォルニア大学バークレー校の研究チーム（Luo et al., 2024）が開発した、ビジョンベースのロボット操作システム「HIL-SERL（Human-in-the-Loop Sample-Efficient Robotic Reinforcement Learning）」に関するブリーフィング・ドキュメントである。本システムは、実世界での短時間のトレーニングにより、人間を凌駕する</description>
+      <itunes:summary>本文書は、カリフォルニア大学バークレー校の研究チーム（Luo et al., 2024）が開発した、ビジョンベースのロボット操作システム「HIL-SERL（Human-in-the-Loop Sample-Efficient Robotic Reinforcement Learning）」に関するブリーフィング・ドキュメントである。本システムは、実世界での短時間のトレーニングにより、人間を凌駕する</itunes:summary>
+      <guid isPermaLink="false">038e9687929814acfff77c9915034af3</guid>
+      <pubDate>Thu, 09 Jul 2026 14:15:59 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Luo%20et%20al.%20%282024%29%20%E2%80%94%20Precise%20and%20dexterous%20robotic%20manipulation/Luo_et_al_2024_Precise_and_dexterous_robotic_manipulation_radio.mp3" length="5221570" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Diaz et al. (2023) — Human-in-the-loop optimization of wearable robotic devices</title>
+      <description/>
+      <itunes:summary/>
+      <guid isPermaLink="false">37c6106cb7e96b5246bebf7f6bfc2a00</guid>
+      <pubDate>Thu, 09 Jul 2026 14:02:16 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Diaz%20et%20al.%20%282023%29%20%E2%80%94%20Human-in-the-loop%20optimization%20of%20wearable%20robotic%20devices/Diaz_et_al_2023_Human-in-the-loop_optimization_of_wearable_robotic_devices_radio.mp3" length="4374157" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Eden et al. (2022) — Principles of human movement augmentation</title>
+      <description/>
+      <itunes:summary/>
+      <guid isPermaLink="false">cb4afe7a52e4d5b04421f5ab1321497e</guid>
+      <pubDate>Thu, 09 Jul 2026 14:02:11 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Eden%20et%20al.%20%282022%29%20%E2%80%94%20Principles%20of%20human%20movement%20augmentation/Eden_et_al_2022_Principles_of_human_movement_augmentation_radio.mp3" length="5570043" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

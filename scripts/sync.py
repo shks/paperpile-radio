@@ -19,12 +19,12 @@ for folder in sorted(os.listdir(ep_dir)):
     fp = os.path.join(ep_dir, folder)
     
     files = os.listdir(fp)
-    mp3s = [f for f in files if f.endswith('_radio.mp3')]
+    mp3s = [f for f in files if f.endswith('radio.mp3')]
     if not mp3s: continue
-    
-    pngs = [f for f in files if f.endswith('_infographic.png') and 'square' not in f]
-    sq_pngs = [f for f in files if f.endswith('_infographic_square.png')]
-    mds = [f for f in files if f.endswith('_report.md')]
+
+    pngs = [f for f in files if f.endswith('infographic.png') and 'square' not in f]
+    sq_pngs = [f for f in files if f.endswith('infographic_square.png')]
+    mds = [f for f in files if f.endswith('report.md')]
     
     match = re.match(r'(.+?) \((\d{4})\) (?:—|-) (.+)', folder)
     if not match: continue
@@ -68,9 +68,8 @@ for folder in sorted(os.listdir(ep_dir)):
 
     mp3_size = os.path.getsize(os.path.join(fp, mp3_file))
     guid = hashlib.md5(folder.encode()).hexdigest()
-    pubDate = datetime.fromtimestamp(
-        os.path.getmtime(os.path.join(fp, mp3_file))
-    ).strftime('%a, %d %b %Y %H:%M:%S +0900')
+    mtime = os.path.getmtime(os.path.join(fp, mp3_file))
+    pubDate = datetime.fromtimestamp(mtime).strftime('%a, %d %b %Y %H:%M:%S +0900')
     
     episodes.append({
         'title': f"{authors} ({year}) — {title}",
@@ -82,10 +81,10 @@ for folder in sorted(os.listdir(ep_dir)):
         'sq_png_enc': quote(sq_png_file) if sq_png_file else None,
         'report_enc': quote(md_file) if md_file else None,
         'paper': paper,
-        'guid': guid, 'pubDate': pubDate,
+        'guid': guid, 'pubDate': pubDate, 'ts': mtime,
     })
 
-episodes.sort(key=lambda x: x['pubDate'], reverse=True)
+episodes.sort(key=lambda x: x['ts'], reverse=True)
 
 # feed.xml
 rss = ET.Element('rss', {
