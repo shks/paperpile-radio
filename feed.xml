@@ -10,7 +10,7 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Mon, 13 Jul 2026 09:52:50 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 11:10:49 +0900</lastBuildDate>
     <item>
       <title>Heirani Moghaddam et al. (2021) — Explicit processes in visuomotor adaptation</title>
       <description>本資料は、視覚運動適応（visuomotor adaptation）における「明示的プロセス（意識的なプロセス）」と「暗示的プロセス（無意識的なプロセス）」の評価手法を比較した研究（Heirani Moghaddam et al., 2021）の内容をまとめたものである。 この研究の核心的な問いは、現在広く用いられている2つの評価手法、**プロセス解離手続（PDP）**と**言語報告フレームワーク</description>
@@ -139,6 +139,42 @@
       <guid isPermaLink="false">051ec38927cb0bf502022449e590d565</guid>
       <pubDate>Sat, 11 Jul 2026 12:30:47 +0900</pubDate>
       <enclosure url="https://shks.github.io/paperpile-radio/episodes/Glickman%20and%20Sharot%20%282025%29%20%E2%80%94%20How%20human%20AI%20feedback%20loops/Glickman_and_Sharot_2025_How_human_AI_feedback_loops_radio.mp3" length="4037491" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Prescott et al. (2024) — Understanding the sense of self through robotics</title>
+      <description>本文書は、Tony J. Prescottらによる2024年のレビュー論文「Understanding the sense of self through robotics（ロボット工学を通じた自己の理解）」に基づき、自己意識の科学的解明におけるロボット工学の役割を網羅的にまとめたものである。 自己（セルフ）とは、身体の所有感（SoO）、エージェンシー感（SoA）、そして時間的な経験の統一性といっ</description>
+      <itunes:summary>本文書は、Tony J. Prescottらによる2024年のレビュー論文「Understanding the sense of self through robotics（ロボット工学を通じた自己の理解）」に基づき、自己意識の科学的解明におけるロボット工学の役割を網羅的にまとめたものである。 自己（セルフ）とは、身体の所有感（SoO）、エージェンシー感（SoA）、そして時間的な経験の統一性といっ</itunes:summary>
+      <guid isPermaLink="false">db1c7689899f4c8f1e023e3f360294f1</guid>
+      <pubDate>Mon, 13 Jul 2026 11:10:24 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Prescott%20et%20al.%20%282024%29%20%E2%80%94%20Understanding%20the%20sense%20of%20self%20through%20robotics/Prescott_radio.mp3" length="5453537" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Prescott%20et%20al.%20%282024%29%20%E2%80%94%20Understanding%20the%20sense%20of%20self%20through%20robotics/Prescott_infographic.png"/>
+    </item>
+    <item>
+      <title>Kieliba et al. (2021) — Robotic hand augmentation drives changes in neural body representation</title>
+      <description>本報告書は、Kielibaら（2021年）による研究「Robotic hand augmentation drives changes in neural body representation（ロボットによる身体拡張が神経学的身体表現の変化を駆動する）」に基づき、追加のロボット指（サード・サム）の統合が人間の運動能力および脳内表現にどのような影響を与えるかを分析したものである。 研究では、5日間</description>
+      <itunes:summary>本報告書は、Kielibaら（2021年）による研究「Robotic hand augmentation drives changes in neural body representation（ロボットによる身体拡張が神経学的身体表現の変化を駆動する）」に基づき、追加のロボット指（サード・サム）の統合が人間の運動能力および脳内表現にどのような影響を与えるかを分析したものである。 研究では、5日間</itunes:summary>
+      <guid isPermaLink="false">57fc4d940f185bf128bd6124fa6369e3</guid>
+      <pubDate>Mon, 13 Jul 2026 11:06:30 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Kieliba%20et%20al.%20%282021%29%20%E2%80%94%20Robotic%20hand%20augmentation%20drives%20changes%20in%20neural%20body%20representation/Kieliba_radio.mp3" length="3067408" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Kieliba%20et%20al.%20%282021%29%20%E2%80%94%20Robotic%20hand%20augmentation%20drives%20changes%20in%20neural%20body%20representation/Kieliba_infographic.png"/>
+    </item>
+    <item>
+      <title>Kawahara et al. (2021) — Semi-autonomous avatar</title>
+      <description>本文書は、京都大学の研究チーム（河原達也教授ら）による、一人のオペレーターが複数のリモートロボットやエージェントを同時に操作する「半自律型アバター」フレームワークに関する研究をまとめたものである。 現代社会においてリモート対話の需要（インタビュー、カウンセリング、コンサルティング等）は増加しているが、熟練した専門家の数は限られている。本研究が提案するシステムは、自律型対話システムと人間による遠隔操</description>
+      <itunes:summary>本文書は、京都大学の研究チーム（河原達也教授ら）による、一人のオペレーターが複数のリモートロボットやエージェントを同時に操作する「半自律型アバター」フレームワークに関する研究をまとめたものである。 現代社会においてリモート対話の需要（インタビュー、カウンセリング、コンサルティング等）は増加しているが、熟練した専門家の数は限られている。本研究が提案するシステムは、自律型対話システムと人間による遠隔操</itunes:summary>
+      <guid isPermaLink="false">242323d589bb5f6050d35f2cf4511c6c</guid>
+      <pubDate>Mon, 13 Jul 2026 10:56:22 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Kawahara%20et%20al.%20%282021%29%20%E2%80%94%20Semi-autonomous%20avatar/Kawahara_radio.mp3" length="5209553" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Kawahara%20et%20al.%20%282021%29%20%E2%80%94%20Semi-autonomous%20avatar/Kawahara_et_al_2021_semi_autonomous_avatar_infographic.png"/>
+    </item>
+    <item>
+      <title>Dafarra et al. (2024) — iCub3 avatar system</title>
+      <description>本資料は、イタリア工科大学（IIT）が開発したヒューマノイドロボット「iCub3」および、人間が遠隔地からロボットを自身の身体のように操ることを可能にする「アバターシステム」についての包括的な分析結果をまとめたものである。 このシステムは、移動、操作、音声、表情の伝達に加え、視覚、聴覚、触覚、重量感といった多角的な感覚フィードバックを統合している。ベネチアでの遠隔展示会訪問、リミニでの公開イベント</description>
+      <itunes:summary>本資料は、イタリア工科大学（IIT）が開発したヒューマノイドロボット「iCub3」および、人間が遠隔地からロボットを自身の身体のように操ることを可能にする「アバターシステム」についての包括的な分析結果をまとめたものである。 このシステムは、移動、操作、音声、表情の伝達に加え、視覚、聴覚、触覚、重量感といった多角的な感覚フィードバックを統合している。ベネチアでの遠隔展示会訪問、リミニでの公開イベント</itunes:summary>
+      <guid isPermaLink="false">7c5731e4cf5f5ddbae7b3c10f29c0218</guid>
+      <pubDate>Mon, 13 Jul 2026 10:56:17 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Dafarra%20et%20al.%20%282024%29%20%E2%80%94%20iCub3%20avatar%20system/Dafarra_radio.mp3" length="5186461" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Dafarra%20et%20al.%20%282024%29%20%E2%80%94%20iCub3%20avatar%20system/Dafarra_et_al_2024_iCub3_avatar_system_infographic.png"/>
     </item>
     <item>
       <title>Cash et al. (2026) — Is AI making us stupid</title>
