@@ -10,7 +10,43 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 03:30:58 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 04:42:09 +0900</lastBuildDate>
+    <item>
+      <title>Kumar et al. (2024) — Shared functional specialization in LLMs</title>
+      <description>本文書は、Kumarら（2024年）による研究「トランスフォーマー型言語モデルとヒトの脳における共通の機能的分化（Shared functional specialization in transformer-based language models and the human brain）」の詳細な分析をまとめたものである。 この研究は、近年の自然言語処理（NLP）に革命をもたらしたトランスフ</description>
+      <itunes:summary>本文書は、Kumarら（2024年）による研究「トランスフォーマー型言語モデルとヒトの脳における共通の機能的分化（Shared functional specialization in transformer-based language models and the human brain）」の詳細な分析をまとめたものである。 この研究は、近年の自然言語処理（NLP）に革命をもたらしたトランスフ</itunes:summary>
+      <guid isPermaLink="false">13657b4c7fd6549ac462b010f35c8eeb</guid>
+      <pubDate>Wed, 15 Jul 2026 04:37:56 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Kumar%20et%20al.%20%282024%29%20%E2%80%94%20Shared%20functional%20specialization%20in%20LLMs/Kumar%20et%20al.%202024%20-%20Shared%20functional%20specialization%20in%20LLMs_radio.mp3" length="4411460" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Kumar%20et%20al.%20%282024%29%20%E2%80%94%20Shared%20functional%20specialization%20in%20LLMs/kumar_2024_llm_brain_infographic.png"/>
+    </item>
+    <item>
+      <title>Mei et al. (2024) — AI chatbots Turing test</title>
+      <description>本文書は、Qiaozhu Mei、Yutong Xie、Walter Yuan、およびMatthew O. Jacksonによる研究報告「AIチャットボットが行動面で人間に類似しているかどうかのチューリングテスト（A Turing test of whether AI chatbots are behaviorally similar to humans）」に基づき、その主要な知見、分析、および洞</description>
+      <itunes:summary>本文書は、Qiaozhu Mei、Yutong Xie、Walter Yuan、およびMatthew O. Jacksonによる研究報告「AIチャットボットが行動面で人間に類似しているかどうかのチューリングテスト（A Turing test of whether AI chatbots are behaviorally similar to humans）」に基づき、その主要な知見、分析、および洞</itunes:summary>
+      <guid isPermaLink="false">6d6a62af7004b735d8abc0ae72f64650</guid>
+      <pubDate>Wed, 15 Jul 2026 04:37:56 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Mei%20et%20al.%20%282024%29%20%E2%80%94%20AI%20chatbots%20Turing%20test/Mei%20et%20al.%202024%20-%20AI%20chatbots%20Turing%20test_radio.mp3" length="4548237" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Mei%20et%20al.%20%282024%29%20%E2%80%94%20AI%20chatbots%20Turing%20test/mei_2024_ai_chatbots_infographic.png"/>
+    </item>
+    <item>
+      <title>Yao et al. (2023) — PromptVC voice conversion</title>
+      <description>本資料は、自然言語プロンプトを用いて音声のスタイル（音色、感情、リズムなど）を柔軟に制御する新しい声質変換（Voice Conversion: VC）手法「PromptVC」に関する研究報告書である。 従来のスイル声質変換は、事前定義されたカテゴリラベルや参照音声に依存しており、スタイルの多様性や直感的な操作性に課題があった。PromptVCは、**潜在拡散モデル（Latent Diffusion</description>
+      <itunes:summary>本資料は、自然言語プロンプトを用いて音声のスタイル（音色、感情、リズムなど）を柔軟に制御する新しい声質変換（Voice Conversion: VC）手法「PromptVC」に関する研究報告書である。 従来のスイル声質変換は、事前定義されたカテゴリラベルや参照音声に依存しており、スタイルの多様性や直感的な操作性に課題があった。PromptVCは、**潜在拡散モデル（Latent Diffusion</itunes:summary>
+      <guid isPermaLink="false">16cde4dd4dbfffdaaa01b2cffcde7519</guid>
+      <pubDate>Wed, 15 Jul 2026 04:37:56 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Yao%20et%20al.%20%282023%29%20%E2%80%94%20PromptVC%20voice%20conversion/Yao%20et%20al.%202023%20-%20PromptVC%20voice%20conversion_radio.mp3" length="4390876" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Yao%20et%20al.%20%282023%29%20%E2%80%94%20PromptVC%20voice%20conversion/Yao_et_al_2023_PromptVC_infographic.png"/>
+    </item>
+    <item>
+      <title>Keating and Cook (2023) — Inside Out model of emotion recognition</title>
+      <description>本ドキュメントは、Connor Tom KeatingおよびJennifer Louise Cookによる研究論文「The inside out model of emotion recognition: how the shape of one’s internal emotional landscape influences the recognition of others’ emotion</description>
+      <itunes:summary>本ドキュメントは、Connor Tom KeatingおよびJennifer Louise Cookによる研究論文「The inside out model of emotion recognition: how the shape of one’s internal emotional landscape influences the recognition of others’ emotion</itunes:summary>
+      <guid isPermaLink="false">9fa0bd37cac3249f9d984a5f97b0d775</guid>
+      <pubDate>Wed, 15 Jul 2026 04:37:56 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Keating%20and%20Cook%20%282023%29%20%E2%80%94%20Inside%20Out%20model%20of%20emotion%20recognition/Keating%20and%20Cook%202023%20-%20The%20inside%20out%20model%20of%20emotion%20recognition_radio.mp3" length="4591705" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Keating%20and%20Cook%20%282023%29%20%E2%80%94%20Inside%20Out%20model%20of%20emotion%20recognition/Keating_Cook_2023_Inside_Out_infographic.png"/>
+    </item>
     <item>
       <title>Gonzalez-Rodriguez et al. (2024) — DOP schizotypy</title>
       <description>本報告書は、2024年にGonzález-Rodríguezらによって発表された研究に基づき、動的な感情表情認識における「異質な結果手続き（Differential Outcomes Procedure: DOP）」の効果と、統合失調質パーソナリティ（スキゾタイピー）特性がそのパフォーマンスに与える影響を分析したものである。 研究の結果、DOPは特定の感情（恐れと驚き）が低い強度で示された際の認識</description>
