@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 07:00:15 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 08:19:39 +0900</lastBuildDate>
+    <item>
+      <title>Yoshimura et al. (2024) — Synlogue with Aizuchi-bot</title>
+      <description>このブリーフィング・ドキュメントは、吉村らによる研究論文「Synlogue with Aizuchi-bot: Investigating the Co-Adaptive and Open-Ended Interaction Paradigm (2024)」に基づき、新しいコミュニケーション・パラダイムである「Synlogue（共話）」の概念、実験的知見、およびヒューマン・コンピュータ・インタラク</description>
+      <itunes:summary>このブリーフィング・ドキュメントは、吉村らによる研究論文「Synlogue with Aizuchi-bot: Investigating the Co-Adaptive and Open-Ended Interaction Paradigm (2024)」に基づき、新しいコミュニケーション・パラダイムである「Synlogue（共話）」の概念、実験的知見、およびヒューマン・コンピュータ・インタラク</itunes:summary>
+      <guid isPermaLink="false">c604997cff7d04afb851195b3fc61987</guid>
+      <pubDate>Wed, 15 Jul 2026 08:14:12 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Yoshimura%20et%20al.%20%282024%29%20%E2%80%94%20Synlogue%20with%20Aizuchi-bot/yoshimura2024_radio.mp3" length="4408326" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Yoshimura%20et%20al.%20%282024%29%20%E2%80%94%20Synlogue%20with%20Aizuchi-bot/Yoshimura%20et%20al.%202024_infographic.png"/>
+    </item>
+    <item>
+      <title>Tunçgenç et al. (2023) — Mimicry and social affiliation</title>
+      <description/>
+      <itunes:summary/>
+      <guid isPermaLink="false">c3dfba0f6ca30e21b8b52c51d11a4abe</guid>
+      <pubDate>Wed, 15 Jul 2026 08:14:09 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Tun%C3%A7gen%C3%A7%20et%20al.%20%282023%29%20%E2%80%94%20Mimicry%20and%20social%20affiliation/tuncgenc2023_radio.mp3" length="5019173" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Tun%C3%A7gen%C3%A7%20et%20al.%20%282023%29%20%E2%80%94%20Mimicry%20and%20social%20affiliation/tuncgenc2023_infographic.png"/>
+    </item>
     <item>
       <title>Yao et al. (2023) — Editing Large Language Models</title>
       <description>本ドキュメントは、Yaoら（2023年）による研究「Editing Large Language Models: Problems, Methods, and Opportunities」に基づき、大規模言語モデル（LLM）の知識を効率的に修正・更新する手法である「モデル編集」の現状、課題、および評価に関する包括的な概要をまとめたものである。 大規模言語モデル（LLM）は優れたテキスト生成能力を持</description>
