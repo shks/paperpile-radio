@@ -10,7 +10,23 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 09:53:52 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 11:13:47 +0900</lastBuildDate>
+    <item>
+      <title>Bernasconi et al. (2022) — Neuroscience robotics for hallucinations</title>
+      <description>本文書は、Bernasconiら（2022年）による研究に基づき、ロボット工学と認知神経科学を統合して「存在幻覚（Presence Hallucination: PH）」を実験的に誘導・評価する新しい手法についてまとめたものである。幻覚は精神疾患や神経変性疾患において頻繁に見られる重要な症状であるが、その主観的かつ予測不能な性質から、科学的な解明が困難であった。 本研究で開発された「ロボット誘導存</description>
+      <itunes:summary>本文書は、Bernasconiら（2022年）による研究に基づき、ロボット工学と認知神経科学を統合して「存在幻覚（Presence Hallucination: PH）」を実験的に誘導・評価する新しい手法についてまとめたものである。幻覚は精神疾患や神経変性疾患において頻繁に見られる重要な症状であるが、その主観的かつ予測不能な性質から、科学的な解明が困難であった。 本研究で開発された「ロボット誘導存</itunes:summary>
+      <guid isPermaLink="false">a8776f8961e5008a58ab97b6d2ac10f3</guid>
+      <pubDate>Tue, 14 Jul 2026 11:11:24 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Bernasconi%20et%20al.%20%282022%29%20%E2%80%94%20Neuroscience%20robotics%20for%20hallucinations/bernasconi_2022_radio.mp3" length="3889325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Albert et al. (2024) — Numerosity estimation of virtual humans</title>
+      <description>本文書は、Albertら（2024年）による研究に基づき、パーキンソン病（PD）における「実在感幻覚（Presence Hallucination: PH）」を定量的に評価するための新しいデジタル指標についてまとめたものである。 パーキンソン病患者の約半数が経験する幻覚は、認知症のリスクや死亡率の低下に関連する極めて重要な非運動症状である。しかし、従来の評価方法は患者の主観的な自己報告に依存してお</description>
+      <itunes:summary>本文書は、Albertら（2024年）による研究に基づき、パーキンソン病（PD）における「実在感幻覚（Presence Hallucination: PH）」を定量的に評価するための新しいデジタル指標についてまとめたものである。 パーキンソン病患者の約半数が経験する幻覚は、認知症のリスクや死亡率の低下に関連する極めて重要な非運動症状である。しかし、従来の評価方法は患者の主観的な自己報告に依存してお</itunes:summary>
+      <guid isPermaLink="false">051dd5c0848545d625bfb47adf1bef44</guid>
+      <pubDate>Tue, 14 Jul 2026 11:11:20 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Albert%20et%20al.%20%282024%29%20%E2%80%94%20Numerosity%20estimation%20of%20virtual%20humans/albert_2024_radio.mp3" length="5398471" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Dijkstra and Fleming (2023) — Subjective signal strength distinguishes reality from imagination</title>
       <description>本文書は、Nadine DijkstraおよびStephen M. Fleming（2023年）による研究に基づき、人間がどのようにして内部で生成された「想像（イメージ）」と外部からの「現実（知覚）」を区別しているのか、その計算論的および神経科学的なメカニズムを解説するものである。 長年、心理学においては「想像が現実の知覚を抑制する（パーキー効果）」という説が有力であったが、本研究は最新の計算モデ</description>
