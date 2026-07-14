@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 04:42:09 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 05:51:14 +0900</lastBuildDate>
+    <item>
+      <title>Yao et al. (2023) — Editing Large Language Models</title>
+      <description>本ドキュメントは、Yaoら（2023年）による研究「Editing Large Language Models: Problems, Methods, and Opportunities」に基づき、大規模言語モデル（LLM）の知識を効率的に修正・更新する手法である「モデル編集」の現状、課題、および評価に関する包括的な概要をまとめたものである。 大規模言語モデル（LLM）は優れたテキスト生成能力を持</description>
+      <itunes:summary>本ドキュメントは、Yaoら（2023年）による研究「Editing Large Language Models: Problems, Methods, and Opportunities」に基づき、大規模言語モデル（LLM）の知識を効率的に修正・更新する手法である「モデル編集」の現状、課題、および評価に関する包括的な概要をまとめたものである。 大規模言語モデル（LLM）は優れたテキスト生成能力を持</itunes:summary>
+      <guid isPermaLink="false">69b852dfe6ead3917f8ee99ba6a9bda1</guid>
+      <pubDate>Wed, 15 Jul 2026 05:47:45 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Yao%20et%20al.%20%282023%29%20%E2%80%94%20Editing%20Large%20Language%20Models/yao_et_al_2023_radio.mp3" length="5383842" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Yao%20et%20al.%20%282023%29%20%E2%80%94%20Editing%20Large%20Language%20Models/Yao%20et%20al.%202023%20-%20Editing%20Large%20Language%20Models_infographic.png"/>
+    </item>
+    <item>
+      <title>Yanagida et al. (2023) — Influence of personal traits on impressions of one's own voice</title>
+      <description/>
+      <itunes:summary/>
+      <guid isPermaLink="false">0b0e023904dadc753a7c40d618473f35</guid>
+      <pubDate>Wed, 15 Jul 2026 05:47:39 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Yanagida%20et%20al.%20%282023%29%20%E2%80%94%20Influence%20of%20personal%20traits%20on%20impressions%20of%20one%27s%20own%20voice/yanagida_et_al_2023_radio.mp3" length="3464051" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Yanagida%20et%20al.%20%282023%29%20%E2%80%94%20Influence%20of%20personal%20traits%20on%20impressions%20of%20one%27s%20own%20voice/yanagida_et_al_2023_infographic.png"/>
+    </item>
     <item>
       <title>Kumar et al. (2024) — Shared functional specialization in LLMs</title>
       <description>本文書は、Kumarら（2024年）による研究「トランスフォーマー型言語モデルとヒトの脳における共通の機能的分化（Shared functional specialization in transformer-based language models and the human brain）」の詳細な分析をまとめたものである。 この研究は、近年の自然言語処理（NLP）に革命をもたらしたトランスフ</description>
