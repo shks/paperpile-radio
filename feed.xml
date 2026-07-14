@@ -10,7 +10,7 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 13:38:22 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 14:44:57 +0900</lastBuildDate>
     <item>
       <title>Nagai et al. (2024) — EMS intentional binding</title>
       <description>本研究は、電気筋肉刺激（EMS）を用いた運動支援において、ユーザーの「運動主体感（Sense of Agency: SoA）」を損なうことなく、いかに運動能力を拡張（加速）できるかという課題に取り組んだものである。従来のEMS利用では、強制的な運動介入がユーザーに「自分で動かしている」という感覚を失わせ、運動学習や適応を妨げる懸念があった。 研究チームは、運動主体感を測定するために、従来の明示的指</description>
@@ -29,8 +29,8 @@
     </item>
     <item>
       <title>Bernasconi et al. (2022) — Neuroscience robotics for hallucinations</title>
-      <description>本文書は、Bernasconiら（2022年）による研究に基づき、ロボット工学と認知神経科学を統合して「存在幻覚（Presence Hallucination: PH）」を実験的に誘導・評価する新しい手法についてまとめたものである。幻覚は精神疾患や神経変性疾患において頻繁に見られる重要な症状であるが、その主観的かつ予測不能な性質から、科学的な解明が困難であった。 本研究で開発された「ロボット誘導存</description>
-      <itunes:summary>本文書は、Bernasconiら（2022年）による研究に基づき、ロボット工学と認知神経科学を統合して「存在幻覚（Presence Hallucination: PH）」を実験的に誘導・評価する新しい手法についてまとめたものである。幻覚は精神疾患や神経変性疾患において頻繁に見られる重要な症状であるが、その主観的かつ予測不能な性質から、科学的な解明が困難であった。 本研究で開発された「ロボット誘導存</itunes:summary>
+      <description>本文書は、Bernasconiら（2022年）による研究に基づき、ロボット技術と認知神経科学を統合して「実在感幻覚（Presence Hallucination: PH）」を実験的に誘導・評価する新しい手法についてまとめたものである。 実在感幻覚（PH）とは、周囲に誰もいないにもかかわらず、誰かが近くにいるという鮮明な感覚を抱く現象であり、パーキンソン病、レビー小体型認知症（DLB）、統合失調症な</description>
+      <itunes:summary>本文書は、Bernasconiら（2022年）による研究に基づき、ロボット技術と認知神経科学を統合して「実在感幻覚（Presence Hallucination: PH）」を実験的に誘導・評価する新しい手法についてまとめたものである。 実在感幻覚（PH）とは、周囲に誰もいないにもかかわらず、誰かが近くにいるという鮮明な感覚を抱く現象であり、パーキンソン病、レビー小体型認知症（DLB）、統合失調症な</itunes:summary>
       <guid isPermaLink="false">a8776f8961e5008a58ab97b6d2ac10f3</guid>
       <pubDate>Tue, 14 Jul 2026 11:11:24 +0900</pubDate>
       <enclosure url="https://shks.github.io/paperpile-radio/episodes/Bernasconi%20et%20al.%20%282022%29%20%E2%80%94%20Neuroscience%20robotics%20for%20hallucinations/bernasconi_2022_radio.mp3" length="3889325" type="audio/mpeg"/>
