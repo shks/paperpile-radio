@@ -10,7 +10,23 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 12:23:13 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 13:38:22 +0900</lastBuildDate>
+    <item>
+      <title>Nagai et al. (2024) — EMS intentional binding</title>
+      <description>本研究は、電気筋肉刺激（EMS）を用いた運動支援において、ユーザーの「運動主体感（Sense of Agency: SoA）」を損なうことなく、いかに運動能力を拡張（加速）できるかという課題に取り組んだものである。従来のEMS利用では、強制的な運動介入がユーザーに「自分で動かしている」という感覚を失わせ、運動学習や適応を妨げる懸念があった。 研究チームは、運動主体感を測定するために、従来の明示的指</description>
+      <itunes:summary>本研究は、電気筋肉刺激（EMS）を用いた運動支援において、ユーザーの「運動主体感（Sense of Agency: SoA）」を損なうことなく、いかに運動能力を拡張（加速）できるかという課題に取り組んだものである。従来のEMS利用では、強制的な運動介入がユーザーに「自分で動かしている」という感覚を失わせ、運動学習や適応を妨げる懸念があった。 研究チームは、運動主体感を測定するために、従来の明示的指</itunes:summary>
+      <guid isPermaLink="false">b5cd0dbc89784d96f8af70ea33e6beaa</guid>
+      <pubDate>Tue, 14 Jul 2026 13:38:03 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Nagai%20et%20al.%20%282024%29%20%E2%80%94%20EMS%20intentional%20binding/Nagai%20et%20al.%202024_radio.mp3" length="3847424" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Blanke et al. (2014) — Neurological robot induction apparition</title>
+      <description/>
+      <itunes:summary/>
+      <guid isPermaLink="false">db4303e2271dde121a32f971d699cca6</guid>
+      <pubDate>Tue, 14 Jul 2026 13:28:29 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Blanke%20et%20al.%20%282014%29%20%E2%80%94%20Neurological%20robot%20induction%20apparition/Blanke%20et%20al.%202014_radio.mp3" length="4547401" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Bernasconi et al. (2022) — Neuroscience robotics for hallucinations</title>
       <description>本文書は、Bernasconiら（2022年）による研究に基づき、ロボット工学と認知神経科学を統合して「存在幻覚（Presence Hallucination: PH）」を実験的に誘導・評価する新しい手法についてまとめたものである。幻覚は精神疾患や神経変性疾患において頻繁に見られる重要な症状であるが、その主観的かつ予測不能な性質から、科学的な解明が困難であった。 本研究で開発された「ロボット誘導存</description>
