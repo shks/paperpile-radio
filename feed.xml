@@ -10,7 +10,7 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 05:51:14 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 07:00:15 +0900</lastBuildDate>
     <item>
       <title>Yao et al. (2023) — Editing Large Language Models</title>
       <description>本ドキュメントは、Yaoら（2023年）による研究「Editing Large Language Models: Problems, Methods, and Opportunities」に基づき、大規模言語モデル（LLM）の知識を効率的に修正・更新する手法である「モデル編集」の現状、課題、および評価に関する包括的な概要をまとめたものである。 大規模言語モデル（LLM）は優れたテキスト生成能力を持</description>
@@ -166,6 +166,7 @@
       <guid isPermaLink="false">a31ce31fc427e4bed9b82dd9a689ed44</guid>
       <pubDate>Tue, 14 Jul 2026 08:32:58 +0900</pubDate>
       <enclosure url="https://shks.github.io/paperpile-radio/episodes/Floegel%20et%20al.%20%282023%29%20%E2%80%94%20How%20the%20conception%20of%20control%20influences%20our%20understanding%20of%20actions/Floegel%20et%20al.%202023%20%E2%80%94%20How%20the%20conception%20of%20control%20influences%20our%20understanding%20of%20actions_radio.mp3" length="4381785" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Floegel%20et%20al.%20%282023%29%20%E2%80%94%20How%20the%20conception%20of%20control%20influences%20our%20understanding%20of%20actions/Floegel%20et%20al.%202023_infographic.png"/>
     </item>
     <item>
       <title>Ganesh and Miyawaki (2021) — Can we perceive robots as parts of our body</title>
