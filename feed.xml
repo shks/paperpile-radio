@@ -10,7 +10,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 11:46:34 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 13:01:46 +0900</lastBuildDate>
+    <item>
+      <title>Low et al. (2026) — Habermolt</title>
+      <description>本文書は、Joseph Low氏らによる研究報告「HABERMOLT: Delegating Deliberation to AI Representatives」（2026年5月28日公開）の内容を統合し、分析したものである。 熟議民主主義（Deliberative democracy）は、より良い集団的決定を導く可能性がある一方で、人間の注意持続時間や帯域幅（bandwidth）という物理的制</description>
+      <itunes:summary>本文書は、Joseph Low氏らによる研究報告「HABERMOLT: Delegating Deliberation to AI Representatives」（2026年5月28日公開）の内容を統合し、分析したものである。 熟議民主主義（Deliberative democracy）は、より良い集団的決定を導く可能性がある一方で、人間の注意持続時間や帯域幅（bandwidth）という物理的制</itunes:summary>
+      <guid isPermaLink="false">a43d2b49800d217db7e0e6b38a57e0eb</guid>
+      <pubDate>Wed, 15 Jul 2026 13:01:04 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Low%20et%20al.%20%282026%29%20%E2%80%94%20Habermolt/low_et_al_2026_radio.mp3" length="3992770" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Grießbach et al. (2026) — Bridging the divide in motor learning research</title>
+      <description>本文書は、運動学習研究の分野において長年存在する「基礎研究（メカニズムの解明）」と「応用研究（スキルの最適化）」の間の分断を分析し、その統合に向けた戦略を提示するものである。 運動学習は、子供の最初の一歩から外科医の精密な手技に至るまで、人間行動のあらゆる側面に不可欠な要素である。しかし、歴史的経緯により、この分野は計算論的神経科学を背景とする「基礎志向コミュニティ」と、実験心理学や運動科学を背景</description>
+      <itunes:summary>本文書は、運動学習研究の分野において長年存在する「基礎研究（メカニズムの解明）」と「応用研究（スキルの最適化）」の間の分断を分析し、その統合に向けた戦略を提示するものである。 運動学習は、子供の最初の一歩から外科医の精密な手技に至るまで、人間行動のあらゆる側面に不可欠な要素である。しかし、歴史的経緯により、この分野は計算論的神経科学を背景とする「基礎志向コミュニティ」と、実験心理学や運動科学を背景</itunes:summary>
+      <guid isPermaLink="false">3b4e96c7d5a59f772e05e0c868d62a71</guid>
+      <pubDate>Wed, 15 Jul 2026 13:01:00 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Grie%C3%9Fbach%20et%20al.%20%282026%29%20%E2%80%94%20Bridging%20the%20divide%20in%20motor%20learning%20research/griessbach_et_al_2026_radio.mp3" length="5352600" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Grie%C3%9Fbach%20et%20al.%20%282026%29%20%E2%80%94%20Bridging%20the%20divide%20in%20motor%20learning%20research/griessbach_et_al_2026_infographic.png"/>
+    </item>
     <item>
       <title>Shimizu et al. (2023) — Morphing Identity</title>
       <description>本文書は、清水海氏（ソニーコンピュータサイエンス研究所）らによる研究「Morphing Identity」に関するブリーフィング・ドキュメントである。この研究は、2人のユーザーの顔画像をリアルタイムで合成（モーフィング）し、徐々に入れ替えていくインタラクティブなシステムを通じて、自己と他者のアイデンティティの境界を探索するものである。 従来の研究が静的な状況での顔の所有感に焦点を当てていたのに対し</description>
