@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 01:28:57 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 02:38:30 +0900</lastBuildDate>
+    <item>
+      <title>Murata et al. (2021) — Interpersonal physiological synchrony</title>
+      <description>本報告書は、協力的な共同作業（ジェンガ）中の対人間における生理学的同期が、本人および第三者の感情認識にどのような影響を与えるかを調査した研究（Murata et al. 2021）をまとめたものである。 研究の結果、プレイヤーの主観的な「興奮」は、自身の心拍数だけでなく、パートナー（アドバイザー）との心拍同期の強まりとも関連していることが明らかになった。また、この生理学的同期は、傍観者（第三者）が</description>
+      <itunes:summary>本報告書は、協力的な共同作業（ジェンガ）中の対人間における生理学的同期が、本人および第三者の感情認識にどのような影響を与えるかを調査した研究（Murata et al. 2021）をまとめたものである。 研究の結果、プレイヤーの主観的な「興奮」は、自身の心拍数だけでなく、パートナー（アドバイザー）との心拍同期の強まりとも関連していることが明らかになった。また、この生理学的同期は、傍観者（第三者）が</itunes:summary>
+      <guid isPermaLink="false">8328d95ddc50bd80e39cd0282c9d99db</guid>
+      <pubDate>Thu, 16 Jul 2026 02:34:38 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Murata%20et%20al.%20%282021%29%20%E2%80%94%20Interpersonal%20physiological%20synchrony/murata_et_al_2021_radio.mp3" length="4372068" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Murata%20et%20al.%20%282021%29%20%E2%80%94%20Interpersonal%20physiological%20synchrony/Murata_et_al_2021_infographic.png"/>
+    </item>
+    <item>
+      <title>Goupil et al. (2021) — Vocal signals only impact speakers' own emotions</title>
+      <description>本文書は、Louise Goupil氏らによる研究論文「Vocal signals only impact speakers’ own emotions when they are self-attributed（音声信号は、自己に帰属する場合にのみ話し手自身の感情に影響を与える）」に基づき、自己の声の知覚が感情体験の形成にどのように寄与するか、またその効果を左右する境界条件についてまとめたもので</description>
+      <itunes:summary>本文書は、Louise Goupil氏らによる研究論文「Vocal signals only impact speakers’ own emotions when they are self-attributed（音声信号は、自己に帰属する場合にのみ話し手自身の感情に影響を与える）」に基づき、自己の声の知覚が感情体験の形成にどのように寄与するか、またその効果を左右する境界条件についてまとめたもので</itunes:summary>
+      <guid isPermaLink="false">2e51393828794072a2d813548130da3b</guid>
+      <pubDate>Thu, 16 Jul 2026 02:34:37 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Goupil%20et%20al.%20%282021%29%20%E2%80%94%20Vocal%20signals%20only%20impact%20speakers%27%20own%20emotions/goupil_et_al_2021_radio.mp3" length="4354095" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Goupil%20et%20al.%20%282021%29%20%E2%80%94%20Vocal%20signals%20only%20impact%20speakers%27%20own%20emotions/goupil_et_al_2021_infographic.png"/>
+    </item>
     <item>
       <title>Di Natale et al. (2024) — Computer-generated faces</title>
       <description/>
