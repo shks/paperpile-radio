@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 09:28:08 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 10:38:05 +0900</lastBuildDate>
+    <item>
+      <title>Kim et al. (2022) — Motor learning without movement</title>
+      <description>本報告書は、Kimら（2022年）による研究「運動を伴わない運動学習（Motor learning without movement）」に基づき、人間の潜在的運動システムが、物理的な運動を実行することなく、計画された運動を洗練させるプロセスを詳述するものである。 伝統的に、運動学習の主要な原動力である「感覚予測誤差（SPE）」の算出には、運動の実行が不可欠であると考えられてきた。しかし、本研究は一</description>
+      <itunes:summary>本報告書は、Kimら（2022年）による研究「運動を伴わない運動学習（Motor learning without movement）」に基づき、人間の潜在的運動システムが、物理的な運動を実行することなく、計画された運動を洗練させるプロセスを詳述するものである。 伝統的に、運動学習の主要な原動力である「感覚予測誤差（SPE）」の算出には、運動の実行が不可欠であると考えられてきた。しかし、本研究は一</itunes:summary>
+      <guid isPermaLink="false">3494eaa5f5cfcab236dbfee71a3eafcb</guid>
+      <pubDate>Wed, 15 Jul 2026 10:31:08 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Kim%20et%20al.%20%282022%29%20%E2%80%94%20Motor%20learning%20without%20movement/Kim%20et%20al%202022_radio.mp3" length="4329018" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Kim%20et%20al.%20%282022%29%20%E2%80%94%20Motor%20learning%20without%20movement/kim2022_motor_infographic.png"/>
+    </item>
+    <item>
+      <title>Avraham et al. (2022) — Contextual effects in sensorimotor adaptation</title>
+      <description>本ドキュメントは、Avrahamら（2022年）による研究「Contextual effects in sensorimotor adaptation adhere to associative learning rules」の分析をまとめたものである。この研究は、小脳依存的な学習の2つの主要な形態である「センサー運動適応（Sensorimotor Adaptation）」と「連合学習（特に遅延瞬</description>
+      <itunes:summary>本ドキュメントは、Avrahamら（2022年）による研究「Contextual effects in sensorimotor adaptation adhere to associative learning rules」の分析をまとめたものである。この研究は、小脳依存的な学習の2つの主要な形態である「センサー運動適応（Sensorimotor Adaptation）」と「連合学習（特に遅延瞬</itunes:summary>
+      <guid isPermaLink="false">0080c952c878ed1d52ec0804e41fe1a3</guid>
+      <pubDate>Wed, 15 Jul 2026 10:31:04 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Avraham%20et%20al.%20%282022%29%20%E2%80%94%20Contextual%20effects%20in%20sensorimotor%20adaptation/Avraham%20et%20al%202022_radio.mp3" length="4245844" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Avraham%20et%20al.%20%282022%29%20%E2%80%94%20Contextual%20effects%20in%20sensorimotor%20adaptation/avraham2022_contextual_infographic.png"/>
+    </item>
     <item>
       <title>Yoshimura et al. (2024) — Synlogue with Aizuchi-bot</title>
       <description>このブリーフィング・ドキュメントは、吉村らによる研究論文「Synlogue with Aizuchi-bot: Investigating the Co-Adaptive and Open-Ended Interaction Paradigm (2024)」に基づき、新しいコミュニケーション・パラダイムである「Synlogue（共話）」の概念、実験的知見、およびヒューマン・コンピュータ・インタラク</description>
