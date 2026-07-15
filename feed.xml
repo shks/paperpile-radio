@@ -10,7 +10,23 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 13:01:46 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 14:18:26 +0900</lastBuildDate>
+    <item>
+      <title>Sayin et al. (2015) — Sound and safe</title>
+      <description>本報告書は、Eda Sayin氏ら（2015年）による研究論文「“Sound and Safe”: The Effect of Ambient Sound on the Perceived Safety of Public Spaces」に基づき、公共空間における環境音が利用者の安全知覚、社会的実在感、および消費行動にどのような影響を及ぼすかを詳細に分析したものである。 ---</description>
+      <itunes:summary>本報告書は、Eda Sayin氏ら（2015年）による研究論文「“Sound and Safe”: The Effect of Ambient Sound on the Perceived Safety of Public Spaces」に基づき、公共空間における環境音が利用者の安全知覚、社会的実在感、および消費行動にどのような影響を及ぼすかを詳細に分析したものである。 ---</itunes:summary>
+      <guid isPermaLink="false">c2d84b6011dba67a7d6be42d8bf2681e</guid>
+      <pubDate>Wed, 15 Jul 2026 14:17:31 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Sayin%20et%20al.%20%282015%29%20%E2%80%94%20Sound%20and%20safe/Sayin%20et%20al.%202015_radio.mp3" length="3752025" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Behrens et al. (2013) — What is the most interesting part of the brain</title>
+      <description>本ドキュメントは、Behrensら（2013年）による研究に基づき、神経科学分野における「脳領域の流行」と学術的な成功（ジャーナルのインパクトファクター）の相関関係を分析したものである。 数千件の脳機能イメージング研究を対象としたメタ分析の結果、脳の活動部位や研究テーマには明確な「人気の差」が存在し、それが掲載誌のインパクトファクターと統計的に有意に相関していることが明らかになった。具体的には、前</description>
+      <itunes:summary>本ドキュメントは、Behrensら（2013年）による研究に基づき、神経科学分野における「脳領域の流行」と学術的な成功（ジャーナルのインパクトファクター）の相関関係を分析したものである。 数千件の脳機能イメージング研究を対象としたメタ分析の結果、脳の活動部位や研究テーマには明確な「人気の差」が存在し、それが掲載誌のインパクトファクターと統計的に有意に相関していることが明らかになった。具体的には、前</itunes:summary>
+      <guid isPermaLink="false">de9b0f26d56bd76087f21c60839af44f</guid>
+      <pubDate>Wed, 15 Jul 2026 14:17:31 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Behrens%20et%20al.%20%282013%29%20%E2%80%94%20What%20is%20the%20most%20interesting%20part%20of%20the%20brain/Behrens%20et%20al.%202013_radio.mp3" length="4483454" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Low et al. (2026) — Habermolt</title>
       <description>本文書は、Joseph Low氏らによる研究報告「HABERMOLT: Delegating Deliberation to AI Representatives」（2026年5月28日公開）の内容を統合し、分析したものである。 熟議民主主義（Deliberative democracy）は、より良い集団的決定を導く可能性がある一方で、人間の注意持続時間や帯域幅（bandwidth）という物理的制</description>
