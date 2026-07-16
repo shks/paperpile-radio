@@ -10,7 +10,7 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 22:11:20 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 23:22:37 +0900</lastBuildDate>
     <item>
       <title>Blattmann et al. (2023) — Align your Latents</title>
       <description>本文書は、Blattmannら（2023年）による研究論文「Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models」に基づき、潜在拡散モデル（LDM）をビデオ生成に応用した革新的な手法「Video LDM」の主要な洞察、技術的ブレークスルー、および実用的な応用についてまとめたブリーフィング・ド</description>
