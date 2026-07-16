@@ -10,7 +10,23 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 23:22:37 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 00:31:49 +0900</lastBuildDate>
+    <item>
+      <title>Lombardi et al. (2021) — Mixture of Volumetric Primitives</title>
+      <description/>
+      <itunes:summary/>
+      <guid isPermaLink="false">9af55ce46010be7f412c5418c2af2cff</guid>
+      <pubDate>Fri, 17 Jul 2026 00:29:06 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Lombardi%20et%20al.%20%282021%29%20%E2%80%94%20Mixture%20of%20Volumetric%20Primitives/Lombardi%20et%20al.%202021%20-%20MVP_radio.mp3" length="5000365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bi et al. (2021) — Deep Relightable Appearance Models</title>
+      <description/>
+      <itunes:summary/>
+      <guid isPermaLink="false">1ec037a9e75f65ad5342a6b71936f96b</guid>
+      <pubDate>Fri, 17 Jul 2026 00:29:02 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Bi%20et%20al.%20%282021%29%20%E2%80%94%20Deep%20Relightable%20Appearance%20Models/Bi%20et%20al.%202021%20-%20DRAM_radio.mp3" length="5158144" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Blattmann et al. (2023) — Align your Latents</title>
       <description>本文書は、Blattmannら（2023年）による研究論文「Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models」に基づき、潜在拡散モデル（LDM）をビデオ生成に応用した革新的な手法「Video LDM」の主要な洞察、技術的ブレークスルー、および実用的な応用についてまとめたブリーフィング・ド</description>
