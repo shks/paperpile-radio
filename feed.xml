@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 20:52:52 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 22:11:20 +0900</lastBuildDate>
+    <item>
+      <title>Blattmann et al. (2023) — Align your Latents</title>
+      <description>本文書は、Blattmannら（2023年）による研究論文「Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models」に基づき、潜在拡散モデル（LDM）をビデオ生成に応用した革新的な手法「Video LDM」の主要な洞察、技術的ブレークスルー、および実用的な応用についてまとめたブリーフィング・ド</description>
+      <itunes:summary>本文書は、Blattmannら（2023年）による研究論文「Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models」に基づき、潜在拡散モデル（LDM）をビデオ生成に応用した革新的な手法「Video LDM」の主要な洞察、技術的ブレークスルー、および実用的な応用についてまとめたブリーフィング・ド</itunes:summary>
+      <guid isPermaLink="false">4890178cfc1f96366cbd72d441ee0ff2</guid>
+      <pubDate>Thu, 16 Jul 2026 22:10:51 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Blattmann%20et%20al.%20%282023%29%20%E2%80%94%20Align%20your%20Latents/Blattmann%20et%20al.%202023%20-%20Align%20your%20Latents_radio.mp3" length="4434135" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Blattmann%20et%20al.%20%282023%29%20%E2%80%94%20Align%20your%20Latents/Blattmann%20et%20al.%202023%20-%20Align%20your%20Latents_infographic.png"/>
+    </item>
+    <item>
+      <title>Wang et al. (2023) — StyleAvatar</title>
+      <description>本文書は、清華大学の研究チームによって発表された論文「StyleAvatar: Real-time Photo-realistic Portrait Avatar from a Single Video」の内容に基づき、その革新的な手法、技術的詳細、および成果をまとめたブリーフィング・ドキュメントである。 ---</description>
+      <itunes:summary>本文書は、清華大学の研究チームによって発表された論文「StyleAvatar: Real-time Photo-realistic Portrait Avatar from a Single Video」の内容に基づき、その革新的な手法、技術的詳細、および成果をまとめたブリーフィング・ドキュメントである。 ---</itunes:summary>
+      <guid isPermaLink="false">169af1a49ce30304da7aae893dbd21b2</guid>
+      <pubDate>Thu, 16 Jul 2026 22:10:47 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Wang%20et%20al.%20%282023%29%20%E2%80%94%20StyleAvatar/Wang%20et%20al.%202023%20-%20StyleAvatar_radio.mp3" length="5109243" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Wang%20et%20al.%20%282023%29%20%E2%80%94%20StyleAvatar/Wang%20et%20al.%202023%20-%20StyleAvatar_infographic.png"/>
+    </item>
     <item>
       <title>Azevedo et al. (2023) — Re-cognizing the new self</title>
       <description>本文書は、Azevedoら（2023年）による研究報告「Re-cognizing the new self」に基づき、顔面移植手術を受けた患者の自己認識における神経認知的な変化を分析したものである。本研究は、深刻な顔面外傷を負い、その後に部分的な顔面移植を受けた25歳の男性を対象とした、世界初の縦断的な調査である。 主要な発見として、移植手術は単なる身体的な修復に留まらず、受容者の自己アイデンティ</description>
