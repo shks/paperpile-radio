@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Sat, 18 Jul 2026 03:59:09 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 05:05:31 +0900</lastBuildDate>
+    <item>
+      <title>Wang et al. (2020) — New measures of agency</title>
+      <description>本ドキュメントは、Shiyun Wang氏ら（2020年）による研究論文「New measures of agency from an adaptive sensorimotor task」に基づき、自己主体感を測定するための新しいオンライン・モーション・トラッキング・タスクの有効性と、その臨床的応用の可能性についてまとめたものである。 ---</description>
+      <itunes:summary>本ドキュメントは、Shiyun Wang氏ら（2020年）による研究論文「New measures of agency from an adaptive sensorimotor task」に基づき、自己主体感を測定するための新しいオンライン・モーション・トラッキング・タスクの有効性と、その臨床的応用の可能性についてまとめたものである。 ---</itunes:summary>
+      <guid isPermaLink="false">36bb2b8a30f17207092a2e71e372a52d</guid>
+      <pubDate>Sat, 18 Jul 2026 05:03:01 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Wang%20et%20al.%20%282020%29%20%E2%80%94%20New%20measures%20of%20agency/Wang_et_al_2020_radio.mp3" length="4414072" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Wang%20et%20al.%20%282020%29%20%E2%80%94%20New%20measures%20of%20agency/Wang_et_al_2020_infographic.png"/>
+    </item>
+    <item>
+      <title>Yebra et al. (2019) — Action boosts episodic memory encoding</title>
+      <description>本資料は、人間が環境と相互作用する際に行う「行動」が、その瞬間に提示された情報の記憶（エピソード記憶）の形成にどのような影響を与えるかを分析した研究結果（Yebra et al. 2019）をまとめたものである。 全7件の実験（参加者総数296名）を通じて、自発的な行動（Go反応）が、その行動自体とは無関係な刺激の記憶符号化を促進することが明らかになった。この現象は「行動誘発性記憶促進（AIME:</description>
+      <itunes:summary>本資料は、人間が環境と相互作用する際に行う「行動」が、その瞬間に提示された情報の記憶（エピソード記憶）の形成にどのような影響を与えるかを分析した研究結果（Yebra et al. 2019）をまとめたものである。 全7件の実験（参加者総数296名）を通じて、自発的な行動（Go反応）が、その行動自体とは無関係な刺激の記憶符号化を促進することが明らかになった。この現象は「行動誘発性記憶促進（AIME:</itunes:summary>
+      <guid isPermaLink="false">9c609d7e33fe0f5b4ddddb12c06b367f</guid>
+      <pubDate>Sat, 18 Jul 2026 05:02:57 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Yebra%20et%20al.%20%282019%29%20%E2%80%94%20Action%20boosts%20episodic%20memory%20encoding/Yebra_et_al_2019_radio.mp3" length="4576241" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Yebra%20et%20al.%20%282019%29%20%E2%80%94%20Action%20boosts%20episodic%20memory%20encoding/Yebra_et_al_2019_infographic.png"/>
+    </item>
     <item>
       <title>Lombardi et al. (2021) — Mixture of Volumetric Primitives</title>
       <description/>
