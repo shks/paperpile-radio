@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Sat, 18 Jul 2026 07:22:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 08:29:28 +0900</lastBuildDate>
+    <item>
+      <title>Danry et al. (2023) — Don't Just Tell Me, Ask Me</title>
+      <description>本ドキュメントは、AIシステムが単に答えや理由を提示する（教える）のではなく、ユーザーに「問いかける」ことで、人間の論理的思考と批判的判断力をどのように向上させ得るかを分析した研究論文「Don’t Just Tell Me, Ask Me: AI Systems that Intelligently Frame Explanations as Questions Improve Human Log</description>
+      <itunes:summary>本ドキュメントは、AIシステムが単に答えや理由を提示する（教える）のではなく、ユーザーに「問いかける」ことで、人間の論理的思考と批判的判断力をどのように向上させ得るかを分析した研究論文「Don’t Just Tell Me, Ask Me: AI Systems that Intelligently Frame Explanations as Questions Improve Human Log</itunes:summary>
+      <guid isPermaLink="false">8afbd40130422bdef260d5fc290a5cd2</guid>
+      <pubDate>Sat, 18 Jul 2026 08:26:01 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Danry%20et%20al.%20%282023%29%20%E2%80%94%20Don%27t%20Just%20Tell%20Me%2C%20Ask%20Me/Danry_et_al_2023_radio.mp3" length="3866755" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Danry%20et%20al.%20%282023%29%20%E2%80%94%20Don%27t%20Just%20Tell%20Me%2C%20Ask%20Me/Danry_et_al_2023_infographic.png"/>
+    </item>
+    <item>
+      <title>Schaffner et al. (2023) — Sensory perception relies on fitness-maximizing codes</title>
+      <description>本文書は、Schaffnerら（2023年）による研究論文「Sensory perception relies on fitness-maximizing codes」に基づき、生物および人工知能における感覚情報の符号化（エンコーディング）の基本原理を詳述するものである。 長年、神経科学や行動科学では、生物の感覚システムは生物学的限界の範囲内で「可能な限り正確に」外界を再現するように進化してきたと</description>
+      <itunes:summary>本文書は、Schaffnerら（2023年）による研究論文「Sensory perception relies on fitness-maximizing codes」に基づき、生物および人工知能における感覚情報の符号化（エンコーディング）の基本原理を詳述するものである。 長年、神経科学や行動科学では、生物の感覚システムは生物学的限界の範囲内で「可能な限り正確に」外界を再現するように進化してきたと</itunes:summary>
+      <guid isPermaLink="false">51cd6719734814ea680b49f070c70c35</guid>
+      <pubDate>Sat, 18 Jul 2026 08:25:58 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Schaffner%20et%20al.%20%282023%29%20%E2%80%94%20Sensory%20perception%20relies%20on%20fitness-maximizing%20codes/Schaffner_et_al_2023_radio.mp3" length="4253994" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Schaffner%20et%20al.%20%282023%29%20%E2%80%94%20Sensory%20perception%20relies%20on%20fitness-maximizing%20codes/Schaffner_et_al_2023_infographic.png"/>
+    </item>
     <item>
       <title>Wang et al. (2020) — New measures of agency</title>
       <description>本ドキュメントは、Shiyun Wang氏ら（2020年）による研究論文「New measures of agency from an adaptive sensorimotor task」に基づき、自己主体感を測定するための新しいオンライン・モーション・トラッキング・タスクの有効性と、その臨床的応用の可能性についてまとめたものである。 ---</description>
