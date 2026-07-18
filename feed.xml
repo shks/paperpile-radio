@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Sat, 18 Jul 2026 09:34:22 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 10:49:52 +0900</lastBuildDate>
+    <item>
+      <title>Niwa et al. (2023) — Investigating Effects of Facial Self-Similarity Levels on the Impression of Virtual Agents in Serious Non-Serious Contexts</title>
+      <description>本ドキュメントは、AIエージェントの顔の造形において、ユーザー自身の顔の特徴をどの程度取り入れるべきか、またそれが意思決定の文脈（深刻な状況か、日常的な状況か）によってどのように印象を左右するかを調査した研究報告（Niwa et al., 2023）に基づき、その主要な知見をまとめたものである。 近年、意思決定を支援するAIエージェントの活用が広がっているが、その効果を最大化するためには、ユーザー</description>
+      <itunes:summary>本ドキュメントは、AIエージェントの顔の造形において、ユーザー自身の顔の特徴をどの程度取り入れるべきか、またそれが意思決定の文脈（深刻な状況か、日常的な状況か）によってどのように印象を左右するかを調査した研究報告（Niwa et al., 2023）に基づき、その主要な知見をまとめたものである。 近年、意思決定を支援するAIエージェントの活用が広がっているが、その効果を最大化するためには、ユーザー</itunes:summary>
+      <guid isPermaLink="false">3e881ef6ec9a8a10dec28475ff779fb7</guid>
+      <pubDate>Sat, 18 Jul 2026 10:49:18 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Niwa%20et%20al.%20%282023%29%20%E2%80%94%20Investigating%20Effects%20of%20Facial%20Self-Similarity%20Levels%20on%20the%20Impression%20of%20Virtual%20Agents%20in%20Serious%20Non-Serious%20Contexts/Niwa_et_al_2023_radio.mp3" length="4042298" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Niwa%20et%20al.%20%282023%29%20%E2%80%94%20Investigating%20Effects%20of%20Facial%20Self-Similarity%20Levels%20on%20the%20Impression%20of%20Virtual%20Agents%20in%20Serious%20Non-Serious%20Contexts/Niwa_et_al_2023_infographic.png"/>
+    </item>
+    <item>
+      <title>Kondo and Sugimoto (2023) — Effects of the Number of Bodies on Ownership of Multiple Bodies</title>
+      <description>本報告書は、慶應義塾大学の近藤亮太氏および杉本麻樹氏による研究「Effects of the Number of Bodies on Ownership of Multiple Bodies（複数身体の所有感に対する身体数の影響）」に基づき、バーチャルリアリティ（VR）における複数身体の所有感と身体の数の相関関係について詳述するものである。 VR技術は、自己の本来の身体ではない身体や、複数の身体に</description>
+      <itunes:summary>本報告書は、慶應義塾大学の近藤亮太氏および杉本麻樹氏による研究「Effects of the Number of Bodies on Ownership of Multiple Bodies（複数身体の所有感に対する身体数の影響）」に基づき、バーチャルリアリティ（VR）における複数身体の所有感と身体の数の相関関係について詳述するものである。 VR技術は、自己の本来の身体ではない身体や、複数の身体に</itunes:summary>
+      <guid isPermaLink="false">59a477c52c44c29b179b3c797fa3f398</guid>
+      <pubDate>Sat, 18 Jul 2026 10:48:55 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Kondo%20and%20Sugimoto%20%282023%29%20%E2%80%94%20Effects%20of%20the%20Number%20of%20Bodies%20on%20Ownership%20of%20Multiple%20Bodies/Kondo_and_Sugimoto_2023_radio.mp3" length="3519222" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Kondo%20and%20Sugimoto%20%282023%29%20%E2%80%94%20Effects%20of%20the%20Number%20of%20Bodies%20on%20Ownership%20of%20Multiple%20Bodies/Kondo_and_Sugimoto_2023_infographic.png"/>
+    </item>
     <item>
       <title>Danry et al. (2023) — Don't Just Tell Me, Ask Me</title>
       <description>本ドキュメントは、AIシステムが単に答えや理由を提示する（教える）のではなく、ユーザーに「問いかける」ことで、人間の論理的思考と批判的判断力をどのように向上させ得るかを分析した研究論文「Don’t Just Tell Me, Ask Me: AI Systems that Intelligently Frame Explanations as Questions Improve Human Log</description>
