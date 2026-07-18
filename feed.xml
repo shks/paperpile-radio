@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Sat, 18 Jul 2026 20:58:07 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 22:05:48 +0900</lastBuildDate>
+    <item>
+      <title>Ayase et al. (2023) — Eye size recognition of self and others</title>
+      <description>本ドキュメントは、慶應義塾大学の綾瀬いずみ氏、森将輝氏、加藤貴昭氏による研究論文「Eye size recognition of self and others among people with self-face dissatisfaction（自己顔不満を持つ人々における自己および他者の目の大きさ認識）」に基づき、その主要な知見、分析、および実用的な洞察をまとめたものである。 本研究は、自己</description>
+      <itunes:summary>本ドキュメントは、慶應義塾大学の綾瀬いずみ氏、森将輝氏、加藤貴昭氏による研究論文「Eye size recognition of self and others among people with self-face dissatisfaction（自己顔不満を持つ人々における自己および他者の目の大きさ認識）」に基づき、その主要な知見、分析、および実用的な洞察をまとめたものである。 本研究は、自己</itunes:summary>
+      <guid isPermaLink="false">d248550104c34dd1514dc8a562a50f42</guid>
+      <pubDate>Sat, 18 Jul 2026 22:02:33 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Ayase%20et%20al.%20%282023%29%20%E2%80%94%20Eye%20size%20recognition%20of%20self%20and%20others/Ayase_et_al_2023_radio.mp3" length="4048985" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Ayase%20et%20al.%20%282023%29%20%E2%80%94%20Eye%20size%20recognition%20of%20self%20and%20others/Ayase_et_al_2023_infographic.png"/>
+    </item>
+    <item>
+      <title>Wen and Haggard (2020) — Prediction error and regularity detection</title>
+      <description>本ドキュメントは、Wen WenおよびPatrick Haggardによる研究「Prediction error and regularity detection underlie two dissociable mechanisms for computing the sense of agency (2020)」の深い分析に基づき、エージェンシー感（自己流動感）の背後にある計算メカニズムをまと</description>
+      <itunes:summary>本ドキュメントは、Wen WenおよびPatrick Haggardによる研究「Prediction error and regularity detection underlie two dissociable mechanisms for computing the sense of agency (2020)」の深い分析に基づき、エージェンシー感（自己流動感）の背後にある計算メカニズムをまと</itunes:summary>
+      <guid isPermaLink="false">f695ebf34d8f1863bb79eff2f3eccbee</guid>
+      <pubDate>Sat, 18 Jul 2026 22:02:29 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Wen%20and%20Haggard%20%282020%29%20%E2%80%94%20Prediction%20error%20and%20regularity%20detection/Wen_Haggard_2020_radio.mp3" length="5393769" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Wen%20and%20Haggard%20%282020%29%20%E2%80%94%20Prediction%20error%20and%20regularity%20detection/Wen_and_Haggard_2020_infographic.png"/>
+    </item>
     <item>
       <title>Okazawa et al. (2021) — Linear Integration of Sensory Evidence</title>
       <description>本資料は、Okazawaら（2021年）の研究に基づき、人間が複雑な視覚対象（特に顔）をどのようにカテゴリ化するかについての計算メカニズムをまとめたものである。本研究は、従来の「物体認識は主に瞬間的な感覚処理である」という見解に対し、認識プロセスが空間的および時間的な証拠の**線形統合（Linear Integration）**に基づいていることを実証した。 主な結論として、顔のカテゴリ化は、まず</description>
