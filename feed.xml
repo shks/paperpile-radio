@@ -10,7 +10,43 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Sun, 19 Jul 2026 03:46:34 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 05:03:31 +0900</lastBuildDate>
+    <item>
+      <title>Verberne et al. (2015) — Trusting a Virtual Driver</title>
+      <description>本ドキュメントは、Verberneら（2015年）による研究論文「Trusting a Virtual Driver That Looks, Acts, and Thinks Like You（あなたのように見え、振る舞い、考えるバーチャル・ドライバーへの信頼）」に基づき、バーチャル・エージェントに対する類似性が自動運転車への信頼にどのような影響を与えるかを詳細に分析したものである。 ---</description>
+      <itunes:summary>本ドキュメントは、Verberneら（2015年）による研究論文「Trusting a Virtual Driver That Looks, Acts, and Thinks Like You（あなたのように見え、振る舞い、考えるバーチャル・ドライバーへの信頼）」に基づき、バーチャル・エージェントに対する類似性が自動運転車への信頼にどのような影響を与えるかを詳細に分析したものである。 ---</itunes:summary>
+      <guid isPermaLink="false">bcc595eb96cf47392d704df1985cbfce</guid>
+      <pubDate>Sun, 19 Jul 2026 05:02:50 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Verberne%20et%20al.%20%282015%29%20%E2%80%94%20Trusting%20a%20Virtual%20Driver/Verberne%20et%20al.%20%282015%29%20%E2%80%94%20Trusting%20a%20Virtual%20Driver_radio.mp3" length="5382066" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Verberne%20et%20al.%20%282015%29%20%E2%80%94%20Trusting%20a%20Virtual%20Driver/Verberne%20et%20al.%20%282015%29%20%E2%80%94%20Trusting%20a%20Virtual%20Driver_infographic.png"/>
+    </item>
+    <item>
+      <title>Bailenson et al. (2001) — Intelligent agents who wear your face</title>
+      <description>本文書は、カリフォルニア大学サンタバーバラ校の研究チーム（Bailenson et al., 2001）による研究論文「Intelligent agents who wear your face: Users' reactions to the virtual self」の内容をまとめたブリーフィング・ドキュメントである。本研究は、ユーザー自身の顔を模したフォトリアルな3Dモデル（バーチャルな自己</description>
+      <itunes:summary>本文書は、カリフォルニア大学サンタバーバラ校の研究チーム（Bailenson et al., 2001）による研究論文「Intelligent agents who wear your face: Users' reactions to the virtual self」の内容をまとめたブリーフィング・ドキュメントである。本研究は、ユーザー自身の顔を模したフォトリアルな3Dモデル（バーチャルな自己</itunes:summary>
+      <guid isPermaLink="false">cff7783e2b0280b8b15f853c392aa28b</guid>
+      <pubDate>Sun, 19 Jul 2026 05:02:17 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Bailenson%20et%20al.%20%282001%29%20%E2%80%94%20Intelligent%20agents%20who%20wear%20your%20face/Bailenson%20et%20al.%20%282001%29%20%E2%80%94%20Intelligent%20agents%20who%20wear%20your%20face_radio.mp3" length="3868531" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Bailenson%20et%20al.%20%282001%29%20%E2%80%94%20Intelligent%20agents%20who%20wear%20your%20face/Bailenson%20et%20al.%20%282001%29%20%E2%80%94%20Intelligent%20agents%20who%20wear%20your%20face_infographic.png"/>
+    </item>
+    <item>
+      <title>Fox and Bailenson (2009) — Virtual Self-Modeling</title>
+      <description>本文書は、スタンフォード大学のJesse Fox氏とJeremy N. Bailenson氏による研究「Virtual Self-Modeling: The Effects of Vicarious Reinforcement and Identification on Exercise Behaviors（仮想自己モデリング：代理強化と同一視が運動行動に与える影響）」に基づき、没入型仮想環境技術</description>
+      <itunes:summary>本文書は、スタンフォード大学のJesse Fox氏とJeremy N. Bailenson氏による研究「Virtual Self-Modeling: The Effects of Vicarious Reinforcement and Identification on Exercise Behaviors（仮想自己モデリング：代理強化と同一視が運動行動に与える影響）」に基づき、没入型仮想環境技術</itunes:summary>
+      <guid isPermaLink="false">4907b8384649854eecf3d991dfe6a23d</guid>
+      <pubDate>Sun, 19 Jul 2026 04:51:32 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Fox%20and%20Bailenson%20%282009%29%20%E2%80%94%20Virtual%20Self-Modeling/Fox%20and%20Bailenson%20%282009%29%20%E2%80%94%20Virtual%20Self-Modeling_radio.mp3" length="3733948" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Fox%20and%20Bailenson%20%282009%29%20%E2%80%94%20Virtual%20Self-Modeling/Fox%20and%20Bailenson%20%282009%29%20%E2%80%94%20Virtual%20Self-Modeling_infographic.png"/>
+    </item>
+    <item>
+      <title>Yokoi et al. (2014) — Lateralized sensitivity of motor memories</title>
+      <description>本文書は、Yokoi et al. (2014) による研究「Lateralized sensitivity of motor memories to the kinematics of the opposite arm reveals functional specialization during bimanual actions（両手動作中の反対腕の運動学に対する運動記憶の側性化した感度：非</description>
+      <itunes:summary>本文書は、Yokoi et al. (2014) による研究「Lateralized sensitivity of motor memories to the kinematics of the opposite arm reveals functional specialization during bimanual actions（両手動作中の反対腕の運動学に対する運動記憶の側性化した感度：非</itunes:summary>
+      <guid isPermaLink="false">4ca499603cfdf497b5fddc587be44877</guid>
+      <pubDate>Sun, 19 Jul 2026 04:51:28 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Yokoi%20et%20al.%20%282014%29%20%E2%80%94%20Lateralized%20sensitivity%20of%20motor%20memories/Yokoi%20et%20al.%20%282014%29%20%E2%80%94%20Lateralized%20sensitivity%20of%20motor%20memories_radio.mp3" length="3451617" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Yokoi%20et%20al.%20%282014%29%20%E2%80%94%20Lateralized%20sensitivity%20of%20motor%20memories/Yokoi%20et%20al.%20%282014%29%20%E2%80%94%20Lateralized%20sensitivity%20of%20motor%20memories_infographic.png"/>
+    </item>
     <item>
       <title>Lanfranco et al. (2022) — Quantifying body ownership information processing</title>
       <description>本ドキュメントは、Lanfrancoら（2022年）による研究「ラバーハンド錯覚（RHI）における身体所有感の情報処理と知覚バイアスの定量化」の主要な知見をまとめたものである。 従来、身体的錯覚の研究は主観的なアンケートや評価尺度に大きく依存しており、錯覚が感覚情報処理にどの程度依存しているかを直接テストすることは困難であった。本研究は、**信号検出理論（SDT）**の枠組みを導入することで、身体</description>
