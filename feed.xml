@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Sat, 18 Jul 2026 11:59:17 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 13:09:31 +0900</lastBuildDate>
+    <item>
+      <title>Rangel et al. (2008) — Neurobiology of value-based decision making</title>
+      <description>本資料は、価値に基づく意思決定の計算基盤と神経生物学的実装を研究する学際的視点「ニューロエコノミクス（神経経済学）」に関する包括的ブリーフィングである。意思決定は、動物が複数の選択肢から主観的価値に基づいて選択を行う際に発生する普遍的なプロセスであり、ミツバチの採餌から人間の株式取引まで多岐にわたる。 本報告の中心となるのは、意思決定を5つの計算段階に分解し、3つの独立した評価システム（パブロフ型</description>
+      <itunes:summary>本資料は、価値に基づく意思決定の計算基盤と神経生物学的実装を研究する学際的視点「ニューロエコノミクス（神経経済学）」に関する包括的ブリーフィングである。意思決定は、動物が複数の選択肢から主観的価値に基づいて選択を行う際に発生する普遍的なプロセスであり、ミツバチの採餌から人間の株式取引まで多岐にわたる。 本報告の中心となるのは、意思決定を5つの計算段階に分解し、3つの独立した評価システム（パブロフ型</itunes:summary>
+      <guid isPermaLink="false">552e25d3739ba988efc6ef72088c68db</guid>
+      <pubDate>Sat, 18 Jul 2026 13:05:31 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Rangel%20et%20al.%20%282008%29%20%E2%80%94%20Neurobiology%20of%20value-based%20decision%20making/Rangel%20et%20al.%202008%20-%20Neurobiology%20of%20value-based%20decision%20making_radio.mp3" length="4761710" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Rangel%20et%20al.%20%282008%29%20%E2%80%94%20Neurobiology%20of%20value-based%20decision%20making/Rangel%20et%20al.%202008%20-%20Neurobiology%20of%20value-based%20decision%20making_infographic.png"/>
+    </item>
+    <item>
+      <title>Geldard and Sherrick (1972) — The cutaneous rabbit</title>
+      <description>「皮膚兎錯覚（Cutaneous Rabbit Illusion）」は、皮膚上の離れた地点を連続的に刺激した際に、実際には刺激されていない中間地点で「幻の」接触感覚が生じる知覚現象である。1972年にGeldardとSherrickによって報告されたこの現象は、機械的および電気的なパルス刺激の両方で発生し、観察者はまるで小さな兎が皮膚の上を跳ねているかのような、離散的で均等な間隔の連続した衝撃を経</description>
+      <itunes:summary>「皮膚兎錯覚（Cutaneous Rabbit Illusion）」は、皮膚上の離れた地点を連続的に刺激した際に、実際には刺激されていない中間地点で「幻の」接触感覚が生じる知覚現象である。1972年にGeldardとSherrickによって報告されたこの現象は、機械的および電気的なパルス刺激の両方で発生し、観察者はまるで小さな兎が皮膚の上を跳ねているかのような、離散的で均等な間隔の連続した衝撃を経</itunes:summary>
+      <guid isPermaLink="false">9a15fd4e90963f3b7c9ff99163426ef6</guid>
+      <pubDate>Sat, 18 Jul 2026 13:05:26 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Geldard%20and%20Sherrick%20%281972%29%20%E2%80%94%20The%20cutaneous%20rabbit/Geldard%20and%20Sherrick%201972%20-%20The%20cutaneous%20rabbit_radio.mp3" length="4745723" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Geldard%20and%20Sherrick%20%281972%29%20%E2%80%94%20The%20cutaneous%20rabbit/Geldard%20and%20Sherrick%201972%20-%20The%20cutaneous%20rabbit_infographic.png"/>
+    </item>
     <item>
       <title>Niwa et al. (2023) — Investigating Effects of Facial Self-Similarity Levels on the Impression of Virtual Agents in Serious Non-Serious Contexts</title>
       <description>本ドキュメントは、AIエージェントの顔の造形において、ユーザー自身の顔の特徴をどの程度取り入れるべきか、またそれが意思決定の文脈（深刻な状況か、日常的な状況か）によってどのように印象を左右するかを調査した研究報告（Niwa et al., 2023）に基づき、その主要な知見をまとめたものである。 近年、意思決定を支援するAIエージェントの活用が広がっているが、その効果を最大化するためには、ユーザー</description>
