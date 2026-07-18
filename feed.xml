@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Sun, 19 Jul 2026 06:12:50 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 07:22:48 +0900</lastBuildDate>
+    <item>
+      <title>Nakano and Yamamoto (2022) — You trust a face like yours</title>
+      <description>本報告書は、中野珠実氏と山本拓人氏による研究（2022年）「You trust a face like yours（自分の顔に似た顔を信頼する）」に基づき、見知らぬ人の顔の類似性が信頼性の判断に与える影響を分析したものである。本研究は、最新の深層学習技術を用いて、現実世界の自然な顔における自己類似性と信頼感の相関を明らかにしている。 見知らぬ人の顔から信頼性を評価することは、社会生活において極めて</description>
+      <itunes:summary>本報告書は、中野珠実氏と山本拓人氏による研究（2022年）「You trust a face like yours（自分の顔に似た顔を信頼する）」に基づき、見知らぬ人の顔の類似性が信頼性の判断に与える影響を分析したものである。本研究は、最新の深層学習技術を用いて、現実世界の自然な顔における自己類似性と信頼感の相関を明らかにしている。 見知らぬ人の顔から信頼性を評価することは、社会生活において極めて</itunes:summary>
+      <guid isPermaLink="false">1a7b535293199ec6f78583f8205d1c7f</guid>
+      <pubDate>Sun, 19 Jul 2026 07:16:07 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Nakano%20and%20Yamamoto%20%282022%29%20%E2%80%94%20You%20trust%20a%20face%20like%20yours/Nakano%20and%20Yamamoto%202022_radio.mp3" length="4838301" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Nakano%20and%20Yamamoto%20%282022%29%20%E2%80%94%20You%20trust%20a%20face%20like%20yours/Nakano%20and%20Yamamoto%202022_infographic.png"/>
+    </item>
+    <item>
+      <title>Nass et al. (1998) — When my face is the interface</title>
+      <description>本文書は、コンピュータ・インターフェースにおいてユーザー自身の顔（セルフイメージ）を表示することが、ユーザーの心理や認知、および評価の受け止め方にどのような影響を与えるかを調査した研究「When my face is the interface（Nass et al., 1998）」に基づき、その主要な知見と示唆をまとめたものである。 本研究は、コンピュータ画面上のオーディオ・ビジュアル・イメージ</description>
+      <itunes:summary>本文書は、コンピュータ・インターフェースにおいてユーザー自身の顔（セルフイメージ）を表示することが、ユーザーの心理や認知、および評価の受け止め方にどのような影響を与えるかを調査した研究「When my face is the interface（Nass et al., 1998）」に基づき、その主要な知見と示唆をまとめたものである。 本研究は、コンピュータ画面上のオーディオ・ビジュアル・イメージ</itunes:summary>
+      <guid isPermaLink="false">54f731cb8af331a019b2622d2e559e19</guid>
+      <pubDate>Sun, 19 Jul 2026 07:16:04 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Nass%20et%20al.%20%281998%29%20%E2%80%94%20When%20my%20face%20is%20the%20interface/Nass%20et%20al%201998_radio.mp3" length="3181302" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Nass%20et%20al.%20%281998%29%20%E2%80%94%20When%20my%20face%20is%20the%20interface/Nass%20et%20al%201998_infographic.png"/>
+    </item>
     <item>
       <title>Verberne et al. (2015) — Trusting a Virtual Driver</title>
       <description>本ドキュメントは、Verberneら（2015年）による研究論文「Trusting a Virtual Driver That Looks, Acts, and Thinks Like You（あなたのように見え、振る舞い、考えるバーチャル・ドライバーへの信頼）」に基づき、バーチャル・エージェントに対する類似性が自動運転車への信頼にどのような影響を与えるかを詳細に分析したものである。 ---</description>
