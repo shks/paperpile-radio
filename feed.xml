@@ -10,7 +10,7 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Mon, 20 Jul 2026 01:44:20 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 03:01:22 +0900</lastBuildDate>
     <item>
       <title>Kokkinara and McDonnell (2015) — Animation realism affects perceived character appeal of a self-virtual face</title>
       <description>この報告書は、仮想空間（VR）においてユーザー自身を表現する「自己仮想顔（Self-Virtual Face）」の、外見の写実性とアニメーションの正確性が、ユーザーの所有感、主体性（エージェンシー）、およびキャラクターへの魅力にどのような影響を与えるかを分析した研究成果をまとめたものである。 ---</description>
@@ -440,17 +440,17 @@
     </item>
     <item>
       <title>Shimizu et al. (2023) — Morphing Identity</title>
-      <description>本文書は、清水海氏（ソニーコンピュータサイエンス研究所）らによる研究「Morphing Identity」に関するブリーフィング・ドキュメントである。この研究は、2人のユーザーの顔画像をリアルタイムで合成（モーフィング）し、徐々に入れ替えていくインタラクティブなシステムを通じて、自己と他者のアイデンティティの境界を探索するものである。 従来の研究が静的な状況での顔の所有感に焦点を当てていたのに対し</description>
-      <itunes:summary>本文書は、清水海氏（ソニーコンピュータサイエンス研究所）らによる研究「Morphing Identity」に関するブリーフィング・ドキュメントである。この研究は、2人のユーザーの顔画像をリアルタイムで合成（モーフィング）し、徐々に入れ替えていくインタラクティブなシステムを通じて、自己と他者のアイデンティティの境界を探索するものである。 従来の研究が静的な状況での顔の所有感に焦点を当てていたのに対し</itunes:summary>
+      <description>本文書は、ソニーコンピュータサイエンス研究所の研究チーム（Kye Shimizu氏、Santa Naruse氏、Jun Nishida氏、Shunichi Kasahara氏）によって発表された、リアルタイム対人顔モーフィングシステム「Morphing Identity」に関するブリーフィングである。 この研究は、2人のユーザーの顔画像をリアルタイムで混合・入れ替えを行うことで、自己と他者のアイデ</description>
+      <itunes:summary>本文書は、ソニーコンピュータサイエンス研究所の研究チーム（Kye Shimizu氏、Santa Naruse氏、Jun Nishida氏、Shunichi Kasahara氏）によって発表された、リアルタイム対人顔モーフィングシステム「Morphing Identity」に関するブリーフィングである。 この研究は、2人のユーザーの顔画像をリアルタイムで混合・入れ替えを行うことで、自己と他者のアイデ</itunes:summary>
       <guid isPermaLink="false">f6104a76fc23bd22556d26e73af7bf05</guid>
       <pubDate>Wed, 15 Jul 2026 11:42:41 +0900</pubDate>
       <enclosure url="https://shks.github.io/paperpile-radio/episodes/Shimizu%20et%20al.%20%282023%29%20%E2%80%94%20Morphing%20Identity/shimizu2023_radio.mp3" length="4142921" type="audio/mpeg"/>
-      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Shimizu%20et%20al.%20%282023%29%20%E2%80%94%20Morphing%20Identity/Shimizu%20et%20al%202023_infographic.png"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Shimizu%20et%20al.%20%282023%29%20%E2%80%94%20Morphing%20Identity/Shimizu_et_al_2023_Morphing_Identity_infographic.png"/>
     </item>
     <item>
       <title>Kawamura et al. (2023) — SyncArms</title>
-      <description>本文書は、複数のロボットアームを同期させ、異なる物理環境で並列操作を可能にする革新的なシステム「SyncArms」についての概要をまとめたものである。 従来の多体系操作では、環境ごとにオブジェクトの配置が異なる場合、すべての環境で同時にタスクを完了させることが困難であった。これに対し、自動制御で配置の差異を補完する手法は、ユーザーの意図した動きとロボットの視覚的な動きの間に「視覚運動の不一致（vi</description>
-      <itunes:summary>本文書は、複数のロボットアームを同期させ、異なる物理環境で並列操作を可能にする革新的なシステム「SyncArms」についての概要をまとめたものである。 従来の多体系操作では、環境ごとにオブジェクトの配置が異なる場合、すべての環境で同時にタスクを完了させることが困難であった。これに対し、自動制御で配置の差異を補完する手法は、ユーザーの意図した動きとロボットの視覚的な動きの間に「視覚運動の不一致（vi</itunes:summary>
+      <description>本資料は、複数のロボットアームを同期させ、異なる環境下で並列操作を行うためのシステム「SyncArms」に関する調査報告である。本システムは、ユーザーの視線を利用して「注視している環境」と「注視していない環境」を判別し、非注視環境の動作を自動補正することで、身体的違和感を抑えつつ効率的な並列作業を実現する。 ---</description>
+      <itunes:summary>本資料は、複数のロボットアームを同期させ、異なる環境下で並列操作を行うためのシステム「SyncArms」に関する調査報告である。本システムは、ユーザーの視線を利用して「注視している環境」と「注視していない環境」を判別し、非注視環境の動作を自動補正することで、身体的違和感を抑えつつ効率的な並列作業を実現する。 ---</itunes:summary>
       <guid isPermaLink="false">72bf861d972bc00a4b75c71d309053e6</guid>
       <pubDate>Wed, 15 Jul 2026 11:42:36 +0900</pubDate>
       <enclosure url="https://shks.github.io/paperpile-radio/episodes/Kawamura%20et%20al.%20%282023%29%20%E2%80%94%20SyncArms/kawamura2023_radio.mp3" length="4050030" type="audio/mpeg"/>
