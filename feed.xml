@@ -10,7 +10,61 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Mon, 20 Jul 2026 06:47:32 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 08:04:10 +0900</lastBuildDate>
+    <item>
+      <title>Hernandez-Ortega et al. (2021) — Introduction to Presentation Attack Detection in Face Biometrics</title>
+      <description>本資料は、顔バイオメトリクス認証における「プレゼンテーション攻撃検知（PAD）」の現状、脆弱性、および最新技術について詳述したものである。顔認証システム（FRS）は、スマートフォン認証、入国審査、監視システムなど、社会の多種多様な領域で急速に普及している。しかし、その利便性の裏で、写真やビデオ、3Dマスクなどの「プレゼンテーション攻撃（PA）」に対する脆弱性が深刻な脅威となっている。 歴史的にFR</description>
+      <itunes:summary>本資料は、顔バイオメトリクス認証における「プレゼンテーション攻撃検知（PAD）」の現状、脆弱性、および最新技術について詳述したものである。顔認証システム（FRS）は、スマートフォン認証、入国審査、監視システムなど、社会の多種多様な領域で急速に普及している。しかし、その利便性の裏で、写真やビデオ、3Dマスクなどの「プレゼンテーション攻撃（PA）」に対する脆弱性が深刻な脅威となっている。 歴史的にFR</itunes:summary>
+      <guid isPermaLink="false">c75aaaa130eae56aa712cb9c62ef3327</guid>
+      <pubDate>Mon, 20 Jul 2026 08:03:47 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Hernandez-Ortega%20et%20al.%20%282021%29%20%E2%80%94%20Introduction%20to%20Presentation%20Attack%20Detection%20in%20Face%20Biometrics/Hernandez-Ortega%20et%20al.%202021_radio.mp3" length="4913638" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Hernandez-Ortega%20et%20al.%20%282021%29%20%E2%80%94%20Introduction%20to%20Presentation%20Attack%20Detection%20in%20Face%20Biometrics/Hernandez-Ortega%20et%20al.%202021_infographic.png"/>
+    </item>
+    <item>
+      <title>Chang and Tsao (2017) — The Code for Facial Identity in the Primate Brain</title>
+      <description>本報告書は、ChangおよびTsao（2017年）の研究に基づき、霊長類の脳が複雑な顔のアイデンティティをどのように処理し、符号化しているかについて、そのメカニズムと主要な発見をまとめたものである。 ---</description>
+      <itunes:summary>本報告書は、ChangおよびTsao（2017年）の研究に基づき、霊長類の脳が複雑な顔のアイデンティティをどのように処理し、符号化しているかについて、そのメカニズムと主要な発見をまとめたものである。 ---</itunes:summary>
+      <guid isPermaLink="false">e9abff25bb1e07286d120864e36eb8ee</guid>
+      <pubDate>Mon, 20 Jul 2026 08:03:05 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Chang%20and%20Tsao%20%282017%29%20%E2%80%94%20The%20Code%20for%20Facial%20Identity%20in%20the%20Primate%20Brain/Chang%20and%20Tsao%202017_radio.mp3" length="4103633" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Chang%20and%20Tsao%20%282017%29%20%E2%80%94%20The%20Code%20for%20Facial%20Identity%20in%20the%20Primate%20Brain/Chang%20and%20Tsao%202017_infographic.png"/>
+    </item>
+    <item>
+      <title>Onagawa and Kudo (2021) — Sensorimotor strategy selection under time constraints</title>
+      <description>このブリーフィング・ドキュメントは、OnagawaおよびKudoによる2021年の研究論文「Sensorimotor strategy selection under time constraints in the presence of two motor targets with different values（異なる価値を持つ2つの運動ターゲットが存在する時間制約下での感覚運動戦略の選択）</description>
+      <itunes:summary>このブリーフィング・ドキュメントは、OnagawaおよびKudoによる2021年の研究論文「Sensorimotor strategy selection under time constraints in the presence of two motor targets with different values（異なる価値を持つ2つの運動ターゲットが存在する時間制約下での感覚運動戦略の選択）</itunes:summary>
+      <guid isPermaLink="false">2b3873e2827b64a2db6aee048aab12c0</guid>
+      <pubDate>Mon, 20 Jul 2026 07:52:27 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Onagawa%20and%20Kudo%20%282021%29%20%E2%80%94%20Sensorimotor%20strategy%20selection%20under%20time%20constraints/Onagawa%20and%20Kudo%202021_radio.mp3" length="4431627" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Onagawa%20and%20Kudo%20%282021%29%20%E2%80%94%20Sensorimotor%20strategy%20selection%20under%20time%20constraints/Onagawa%20and%20Kudo%202021_infographic.png"/>
+    </item>
+    <item>
+      <title>Idei et al. (2022) — Emergence of sensory attenuation based upon the free-energy principle</title>
+      <description>本ドキュメントは、Hayato Ideiら（2022年）による研究「Emergence of sensory attenuation based upon the free-energy principle」に基づき、脳が自己由来の感覚刺激を減衰させる「感覚減衰」のメカニズムが、学習を通じてどのように創発されるかを分析したブリーフィング・レポートである。 ---</description>
+      <itunes:summary>本ドキュメントは、Hayato Ideiら（2022年）による研究「Emergence of sensory attenuation based upon the free-energy principle」に基づき、脳が自己由来の感覚刺激を減衰させる「感覚減衰」のメカニズムが、学習を通じてどのように創発されるかを分析したブリーフィング・レポートである。 ---</itunes:summary>
+      <guid isPermaLink="false">ee66369e9adfafd88131151a8cc4822d</guid>
+      <pubDate>Mon, 20 Jul 2026 07:52:24 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Idei%20et%20al.%20%282022%29%20%E2%80%94%20Emergence%20of%20sensory%20attenuation%20based%20upon%20the%20free-energy%20principle/Idei%20et%20al.%202022_radio.mp3" length="4811447" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Idei%20et%20al.%20%282022%29%20%E2%80%94%20Emergence%20of%20sensory%20attenuation%20based%20upon%20the%20free-energy%20principle/Idei%20et%20al.%202022_infographic.png"/>
+    </item>
+    <item>
+      <title>Fribourg et al. (2021) — Mirror, mirror on my phone</title>
+      <description>本報告書は、スマートフォンアプリ（SnapchatやInstagram等）で広く普及している拡張現実（AR）フィルタが、ユーザーの「自己顔認識」にどのような影響を与えるかを調査した研究（Fribourg et al. 2021）をまとめたものである。 従来、顔の造作と知覚（信頼性、支配性、魅力など）に関する研究は「他者の顔」を対象としたものが中心であった。しかし、本研究はARフィルタを用いた自己顔</description>
+      <itunes:summary>本報告書は、スマートフォンアプリ（SnapchatやInstagram等）で広く普及している拡張現実（AR）フィルタが、ユーザーの「自己顔認識」にどのような影響を与えるかを調査した研究（Fribourg et al. 2021）をまとめたものである。 従来、顔の造作と知覚（信頼性、支配性、魅力など）に関する研究は「他者の顔」を対象としたものが中心であった。しかし、本研究はARフィルタを用いた自己顔</itunes:summary>
+      <guid isPermaLink="false">f1e10088bbb9f69e2b5c1e52fc2db8b9</guid>
+      <pubDate>Mon, 20 Jul 2026 07:52:21 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Fribourg%20et%20al.%20%282021%29%20%E2%80%94%20Mirror%2C%20mirror%20on%20my%20phone/Fribourg%20et%20al.%202021_radio.mp3" length="3904685" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Fribourg%20et%20al.%20%282021%29%20%E2%80%94%20Mirror%2C%20mirror%20on%20my%20phone/Fribourg%20et%20al.%202021_infographic.png"/>
+    </item>
+    <item>
+      <title>Jublie and Kumar (2022) — Attentional Bias for Self-Face</title>
+      <description>本ドキュメントは、Aditi Jublie氏およびDevpriya Kumar氏による研究論文「Attentional Bias for Self-Face: Investigation using Drift Diffusion Modelling (2022)」に基づき、自己顔（Self-face）が人間の注意メカニズムに与える影響とその根底にある心理的プロセスを分析したものです。 ---</description>
+      <itunes:summary>本ドキュメントは、Aditi Jublie氏およびDevpriya Kumar氏による研究論文「Attentional Bias for Self-Face: Investigation using Drift Diffusion Modelling (2022)」に基づき、自己顔（Self-face）が人間の注意メカニズムに与える影響とその根底にある心理的プロセスを分析したものです。 ---</itunes:summary>
+      <guid isPermaLink="false">db563fdca78f9f1f38cf446946ea017e</guid>
+      <pubDate>Mon, 20 Jul 2026 07:52:18 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Jublie%20and%20Kumar%20%282022%29%20%E2%80%94%20Attentional%20Bias%20for%20Self-Face/Jublie%20and%20Kumar%202022_radio.mp3" length="4359633" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Jublie%20and%20Kumar%20%282022%29%20%E2%80%94%20Attentional%20Bias%20for%20Self-Face/Jublie%20and%20Kumar%202022_infographic.png"/>
+    </item>
     <item>
       <title>Kohatsu et al. (2022) — Predictability and sense of agency</title>
       <description>本ドキュメントは、2022年に発表された研究論文「The role of predictability and sense of agency in time estimation（時間推定における予測可能性と主体感の役割）」に基づき、心理的要因が時間の知覚にどのように影響を及ぼすかを詳細にまとめたものである。 本研究は、時間の経過に対する人間の知覚が、主体感（Sense of Agency: S</description>
