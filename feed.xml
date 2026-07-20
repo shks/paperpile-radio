@@ -10,7 +10,16 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Tue, 21 Jul 2026 01:47:46 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 02:57:24 +0900</lastBuildDate>
+    <item>
+      <title>Iwasaki et al. (2022) — Embodiment modifies attention allotment</title>
+      <description>本ドキュメントは、岩崎ら（2022年）による研究「Embodiment modifies attention allotment for the benefit of dual task performance（身体化は二重課題のパフォーマンス向上のために注意配分を修正する）」に基づき、身体化（エンボディメント）が人間の注意配分とタスク遂行能力に与える影響を分析したものである。 この研究は、仮想現</description>
+      <itunes:summary>本ドキュメントは、岩崎ら（2022年）による研究「Embodiment modifies attention allotment for the benefit of dual task performance（身体化は二重課題のパフォーマンス向上のために注意配分を修正する）」に基づき、身体化（エンボディメント）が人間の注意配分とタスク遂行能力に与える影響を分析したものである。 この研究は、仮想現</itunes:summary>
+      <guid isPermaLink="false">4ea3deb36d1080ab7308b94af8bacec6</guid>
+      <pubDate>Tue, 21 Jul 2026 02:51:23 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Iwasaki%20et%20al.%20%282022%29%20%E2%80%94%20Embodiment%20modifies%20attention%20allotment/Iwasaki%20et%20al.%202022_radio.mp3" length="4775189" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Iwasaki%20et%20al.%20%282022%29%20%E2%80%94%20Embodiment%20modifies%20attention%20allotment/Iwasaki%20et%20al.%202022_infographic.png"/>
+    </item>
     <item>
       <title>Maister et al. (2013) — Mirror-touch synaesthesia changes representations of self-identity</title>
       <description>本報告書は、ミラータッチ共感覚（MTS）を持つ個人において、他者が触れられる様子を観察することが、自己の身体的アイデンティティ（自己顔認識）のメンタル表象にどのような影響を与えるかを分析した研究資料に基づき作成された。 本研究は、他者が触れられるのを見て自分の体に触覚を感じる「ミラータッチ共感覚（MTS）」が、単なる感覚的な現象に留まらず、自己と他者の境界という高次の認知プロセスにまで影響を及ぼし</description>
@@ -1093,6 +1102,7 @@
       <guid isPermaLink="false">cb4afe7a52e4d5b04421f5ab1321497e</guid>
       <pubDate>Thu, 09 Jul 2026 14:02:11 +0900</pubDate>
       <enclosure url="https://shks.github.io/paperpile-radio/episodes/Eden%20et%20al.%20%282022%29%20%E2%80%94%20Principles%20of%20human%20movement%20augmentation/Eden_et_al_2022_Principles_of_human_movement_augmentation_radio.mp3" length="5570043" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Eden%20et%20al.%20%282022%29%20%E2%80%94%20Principles%20of%20human%20movement%20augmentation/Eden%20et%20al.%202022_infographic.png"/>
     </item>
   </channel>
 </rss>
