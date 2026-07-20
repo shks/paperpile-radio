@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Mon, 20 Jul 2026 08:04:10 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 09:23:21 +0900</lastBuildDate>
+    <item>
+      <title>Mazzurega et al. (2011) — Self-other bodily merging</title>
+      <description>本ドキュメントは、Mazzuregaら（2011年）による研究論文「Self-other bodily merging in the context of synchronous but arbitrary-related multisensory inputs（同期しているが任意に関連付けられた多感覚入力の文脈における自己と他者の身体的融合）」に基づき、多感覚統合が自己の身体表現と社会的知覚に与</description>
+      <itunes:summary>本ドキュメントは、Mazzuregaら（2011年）による研究論文「Self-other bodily merging in the context of synchronous but arbitrary-related multisensory inputs（同期しているが任意に関連付けられた多感覚入力の文脈における自己と他者の身体的融合）」に基づき、多感覚統合が自己の身体表現と社会的知覚に与</itunes:summary>
+      <guid isPermaLink="false">8c27a78bfb72084e9ac09c948d68463f</guid>
+      <pubDate>Mon, 20 Jul 2026 09:22:46 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Mazzurega%20et%20al.%20%282011%29%20%E2%80%94%20Self-other%20bodily%20merging/Mazzurega_et_al_2011_radio.mp3" length="4737364" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Mazzurega%20et%20al.%20%282011%29%20%E2%80%94%20Self-other%20bodily%20merging/Mazzurega_et_al_2011_infographic.png"/>
+    </item>
+    <item>
+      <title>Botvinick and Cohen (1998) — Rubber hands feel touch that eyes see</title>
+      <description>本ドキュメントは、マシュー・ボトヴィニク（Matthew Botvinick）とジョナサン・コーエン（Jonathan Cohen）による1998年の研究「Rubber hands ‘feel’ touch that eyes see（ラバーハンドは目が捉えた接触を『感じる』）」の内容を網羅的に分析したブリーフィング・ドキュメントである。本研究は、視覚、触覚、および固有感覚（プロプリオセプション）</description>
+      <itunes:summary>本ドキュメントは、マシュー・ボトヴィニク（Matthew Botvinick）とジョナサン・コーエン（Jonathan Cohen）による1998年の研究「Rubber hands ‘feel’ touch that eyes see（ラバーハンドは目が捉えた接触を『感じる』）」の内容を網羅的に分析したブリーフィング・ドキュメントである。本研究は、視覚、触覚、および固有感覚（プロプリオセプション）</itunes:summary>
+      <guid isPermaLink="false">1b39ece98586356dfcf3dd56b358b636</guid>
+      <pubDate>Mon, 20 Jul 2026 09:22:42 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Botvinick%20and%20Cohen%20%281998%29%20%E2%80%94%20Rubber%20hands%20feel%20touch%20that%20eyes%20see/Botvinick_and_Cohen_1998_radio.mp3" length="4495157" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Botvinick%20and%20Cohen%20%281998%29%20%E2%80%94%20Rubber%20hands%20feel%20touch%20that%20eyes%20see/Botvinick_and_Cohen_1998_infographic.png"/>
+    </item>
     <item>
       <title>Hernandez-Ortega et al. (2021) — Introduction to Presentation Attack Detection in Face Biometrics</title>
       <description>本資料は、顔バイオメトリクス認証における「プレゼンテーション攻撃検知（PAD）」の現状、脆弱性、および最新技術について詳述したものである。顔認証システム（FRS）は、スマートフォン認証、入国審査、監視システムなど、社会の多種多様な領域で急速に普及している。しかし、その利便性の裏で、写真やビデオ、3Dマスクなどの「プレゼンテーション攻撃（PA）」に対する脆弱性が深刻な脅威となっている。 歴史的にFR</description>
