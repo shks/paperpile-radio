@@ -10,7 +10,34 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Tue, 21 Jul 2026 04:11:54 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 05:23:58 +0900</lastBuildDate>
+    <item>
+      <title>Lanfranco et al. (2022) — Quantifying body ownership information processing and perceptual bias in the rubber hand illusion</title>
+      <description>本ドキュメントは、Lanfrancoら（2022年）による研究「ラバーハンド錯覚（RHI）における身体所有感の情報処理と知覚バイアスの定量化」の主要な知見をまとめたものである。 従来、身体的錯覚の研究は主観的なアンケートや評価尺度に大きく依存しており、錯覚が感覚情報処理にどの程度依存しているかを直接テストすることは困難であった。本研究は、**信号検出理論（SDT）**の枠組みを導入することで、身体</description>
+      <itunes:summary>本ドキュメントは、Lanfrancoら（2022年）による研究「ラバーハンド錯覚（RHI）における身体所有感の情報処理と知覚バイアスの定量化」の主要な知見をまとめたものである。 従来、身体的錯覚の研究は主観的なアンケートや評価尺度に大きく依存しており、錯覚が感覚情報処理にどの程度依存しているかを直接テストすることは困難であった。本研究は、**信号検出理論（SDT）**の枠組みを導入することで、身体</itunes:summary>
+      <guid isPermaLink="false">40bfd841725f6868446ab49e5efc3473</guid>
+      <pubDate>Tue, 21 Jul 2026 05:19:49 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Lanfranco%20et%20al.%20%282022%29%20%E2%80%94%20Quantifying%20body%20ownership%20information%20processing%20and%20perceptual%20bias%20in%20the%20rubber%20hand%20illusion/Lanfranco_et_al_2022_Quantifying_body_radio.mp3" length="5324283" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Lanfranco%20et%20al.%20%282022%29%20%E2%80%94%20Quantifying%20body%20ownership%20information%20processing%20and%20perceptual%20bias%20in%20the%20rubber%20hand%20illusion/Lanfranco_et_al_2022_Quantifying_body_infographic.png"/>
+    </item>
+    <item>
+      <title>Feuchtner and Mueller (2018) — Ownershift</title>
+      <description>本資料は、バーチャルリアリティ（VR）環境における長時間の頭上操作に伴う身体的負担を軽減するための革新的なインタラクション技術「Ownershift（オーナーシフト）」に関するブリーフィング・ドキュメントである。 従来のVRインタラクションでは、頭上のオブジェクトを操作する際、ユーザーは物理的に腕を上げ続ける必要があり、これは「ゴリラ腕（Gorilla Arm）」と呼ばれる深刻な疲労を引き起こす要</description>
+      <itunes:summary>本資料は、バーチャルリアリティ（VR）環境における長時間の頭上操作に伴う身体的負担を軽減するための革新的なインタラクション技術「Ownershift（オーナーシフト）」に関するブリーフィング・ドキュメントである。 従来のVRインタラクションでは、頭上のオブジェクトを操作する際、ユーザーは物理的に腕を上げ続ける必要があり、これは「ゴリラ腕（Gorilla Arm）」と呼ばれる深刻な疲労を引き起こす要</itunes:summary>
+      <guid isPermaLink="false">88a494b89865816f00b47a3a907ab97a</guid>
+      <pubDate>Tue, 21 Jul 2026 05:19:46 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Feuchtner%20and%20Mueller%20%282018%29%20%E2%80%94%20Ownershift/Feuchtner_Mueller_2018_Ownershift_radio.mp3" length="4057344" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Feuchtner%20and%20Mueller%20%282018%29%20%E2%80%94%20Ownershift/Feuchtner_Mueller_2018_Ownershift_infographic.png"/>
+    </item>
+    <item>
+      <title>Ahuja et al. (2021) — CoolMoves</title>
+      <description>本ドキュメントは、VR（バーチャル・リアリティ）におけるアバターの動きを、プロのパフォーマーのような洗練された動作へとリアルタイムで強調・様式化するシステム「CoolMoves」について詳述したものである。 現在の消費者向けVRシステムは、ヘッドセットとハンドコントローラーという限定的な入力（三点追跡）に依存しており、全身の表現力や「スタイリッシュさ」において、従来のコンソールゲームのような高度な</description>
+      <itunes:summary>本ドキュメントは、VR（バーチャル・リアリティ）におけるアバターの動きを、プロのパフォーマーのような洗練された動作へとリアルタイムで強調・様式化するシステム「CoolMoves」について詳述したものである。 現在の消費者向けVRシステムは、ヘッドセットとハンドコントローラーという限定的な入力（三点追跡）に依存しており、全身の表現力や「スタイリッシュさ」において、従来のコンソールゲームのような高度な</itunes:summary>
+      <guid isPermaLink="false">5b2dc647671a1a819efa3d6d6507886f</guid>
+      <pubDate>Tue, 21 Jul 2026 05:19:43 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Ahuja%20et%20al.%20%282021%29%20%E2%80%94%20CoolMoves/Ahuja_et_al_2021_CoolMoves_radio.mp3" length="4910608" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Ahuja%20et%20al.%20%282021%29%20%E2%80%94%20CoolMoves/Ahuja_et_al_2021_CoolMoves_infographic.png"/>
+    </item>
     <item>
       <title>Spampinato and Celnik (2021) — Multiple Motor Learning Processes in Humans</title>
       <description>本ドキュメントは、Danny SpampinatoおよびPablo Celnikによる研究レビュー「Multiple Motor Learning Processes in Humans: Defining Their Neurophysiological Bases (2021)」に基づき、ヒトが新しい運動行動を獲得・修正する際の神経生理学的メカニズムをまとめたものである。 ---</description>
