@@ -10,7 +10,23 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 00:50:16 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 02:02:29 +0900</lastBuildDate>
+    <item>
+      <title>Dotan et al. (2019) — Track It to Crack It - Dissecting Processing Stages with Finger Tracking</title>
+      <description>本資料は、Dotanら（2019年）による研究「Track It to Crack It: Dissecting Processing Stages with Finger Tracking」に基づき、認知科学における新たな行動測定手法である「指軌跡トラッキング」の有効性と応用可能性について概説するものである。 長年、心理学における主要な指標であった反応時間（RT）は、試行全体をまとめた総括的な指</description>
+      <itunes:summary>本資料は、Dotanら（2019年）による研究「Track It to Crack It: Dissecting Processing Stages with Finger Tracking」に基づき、認知科学における新たな行動測定手法である「指軌跡トラッキング」の有効性と応用可能性について概説するものである。 長年、心理学における主要な指標であった反応時間（RT）は、試行全体をまとめた総括的な指</itunes:summary>
+      <guid isPermaLink="false">bb05d058cd729b3df68e7bcdc9352ad7</guid>
+      <pubDate>Wed, 22 Jul 2026 01:53:04 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Dotan%20et%20al.%20%282019%29%20%E2%80%94%20Track%20It%20to%20Crack%20It%20-%20Dissecting%20Processing%20Stages%20with%20Finger%20Tracking/Dotan_radio.mp3" length="5111124" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genay et al. (2021) — Being an Avatar 'for Real' - a Survey on Virtual Embodiment in Augmented Reality</title>
+      <description>本ドキュメントは、拡張現実（AR）環境における自己アバターの知覚、実装、および心理的影響に関する包括的な調査結果をまとめたものである。バーチャル・エンボディメント（身体化）がARにおいてどのように達成され、測定され、そして将来どのような可能性を秘めているかを、技術的および心理学的観点から分析する。 拡張現実（AR）技術の進展に伴い、物理空間に統合されたバーチャル・アバターを自己の身体として知覚する</description>
+      <itunes:summary>本ドキュメントは、拡張現実（AR）環境における自己アバターの知覚、実装、および心理的影響に関する包括的な調査結果をまとめたものである。バーチャル・エンボディメント（身体化）がARにおいてどのように達成され、測定され、そして将来どのような可能性を秘めているかを、技術的および心理学的観点から分析する。 拡張現実（AR）技術の進展に伴い、物理空間に統合されたバーチャル・アバターを自己の身体として知覚する</itunes:summary>
+      <guid isPermaLink="false">c59cbafee4795ce41f38a4db43d89352</guid>
+      <pubDate>Wed, 22 Jul 2026 01:52:59 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Genay%20et%20al.%20%282021%29%20%E2%80%94%20Being%20an%20Avatar%20%27for%20Real%27%20-%20a%20Survey%20on%20Virtual%20Embodiment%20in%20Augmented%20Reality/Genay_radio.mp3" length="3164061" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Healey et al. (1996) — High-speed visual estimation</title>
       <description>本ドキュメントは、Healey、Booth、およびEnns（1996年）による研究「High-Speed Visual Estimation Using Preattentive Processing（予備注意処理を用いた高速視覚的推定）」に基づき、人間の認知能力をデータ可視化ツールの設計にどのように活用できるかを分析したものである。 ---</description>
