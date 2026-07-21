@@ -10,7 +10,7 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 04:17:04 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 05:27:14 +0900</lastBuildDate>
     <item>
       <title>Zhao and Zhang (2022) — Thin-Plate Spline Motion Model for Image Animation</title>
       <description>本文書は、清華大学の研究チーム（ZhaoおよびZhang、2022年）によって提案された、教師なし学習による画像アニメーションの新しいフレームワーク「薄板スプライン（TPS）モーションモデル」に関する詳細な分析をまとめたものである。 画像アニメーションは、ソース画像の静止オブジェクトを、駆動ビデオ（ドライビングビデオ）の動きに基づいて動かす技術である。従来の教師なし手法には、ソースと駆動画像の間に</description>
