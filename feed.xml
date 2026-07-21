@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 05:27:14 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 06:36:31 +0900</lastBuildDate>
+    <item>
+      <title>Kilteni et al. (2012) — Extending body space in VR</title>
+      <description>本報告書は、Kilteniら（2012年）による研究に基づき、没入型バーチャルリアリティ（VR）において、人間の身体表現がどこまで劇的に変容し得るかを分析したものである。本研究は、自身の身体比率とは著しく異なる「非常に長い腕」に対して、人間が身体所有感（Body Ownership）を抱く可能性とその限界を明らかにしている。 ---</description>
+      <itunes:summary>本報告書は、Kilteniら（2012年）による研究に基づき、没入型バーチャルリアリティ（VR）において、人間の身体表現がどこまで劇的に変容し得るかを分析したものである。本研究は、自身の身体比率とは著しく異なる「非常に長い腕」に対して、人間が身体所有感（Body Ownership）を抱く可能性とその限界を明らかにしている。 ---</itunes:summary>
+      <guid isPermaLink="false">8c9a39752bdfb9bcc8febd86884c37ce</guid>
+      <pubDate>Wed, 22 Jul 2026 06:32:32 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Kilteni%20et%20al.%20%282012%29%20%E2%80%94%20Extending%20body%20space%20in%20VR/Kilteni_2012_radio.mp3" length="5038817" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Kilteni%20et%20al.%20%282012%29%20%E2%80%94%20Extending%20body%20space%20in%20VR/Kilteni_2012_infographic.png"/>
+    </item>
+    <item>
+      <title>Just et al. (2016) — Upper limb movement profiles in VR stroke rehab</title>
+      <description>本報告書は、Oculus Riftヘッドマウントディスプレイ（HMD）を用いた仮想現実（VR）環境における上肢の到達動作（リーチング）と、現実世界での動作を比較分析した研究成果をまとめたものである。 VR技術は、患者の動機付けやリハビリテーションへの参加率を向上させる手段として注目されているが、仮想ターゲットへの動作が現実の動作とどのように異なるかは十分に解明されていなかった。本研究の分析により、</description>
+      <itunes:summary>本報告書は、Oculus Riftヘッドマウントディスプレイ（HMD）を用いた仮想現実（VR）環境における上肢の到達動作（リーチング）と、現実世界での動作を比較分析した研究成果をまとめたものである。 VR技術は、患者の動機付けやリハビリテーションへの参加率を向上させる手段として注目されているが、仮想ターゲットへの動作が現実の動作とどのように異なるかは十分に解明されていなかった。本研究の分析により、</itunes:summary>
+      <guid isPermaLink="false">9d557ff0dab760110fd93c5b79ddfffa</guid>
+      <pubDate>Wed, 22 Jul 2026 06:32:27 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Just%20et%20al.%20%282016%29%20%E2%80%94%20Upper%20limb%20movement%20profiles%20in%20VR%20stroke%20rehab/Just_2016_radio.mp3" length="4372486" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Just%20et%20al.%20%282016%29%20%E2%80%94%20Upper%20limb%20movement%20profiles%20in%20VR%20stroke%20rehab/Just_2016_infographic.png"/>
+    </item>
     <item>
       <title>Zhao and Zhang (2022) — Thin-Plate Spline Motion Model for Image Animation</title>
       <description>本文書は、清華大学の研究チーム（ZhaoおよびZhang、2022年）によって提案された、教師なし学習による画像アニメーションの新しいフレームワーク「薄板スプライン（TPS）モーションモデル」に関する詳細な分析をまとめたものである。 画像アニメーションは、ソース画像の静止オブジェクトを、駆動ビデオ（ドライビングビデオ）の動きに基づいて動かす技術である。従来の教師なし手法には、ソースと駆動画像の間に</description>
