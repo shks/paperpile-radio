@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 06:38:34 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 07:46:18 +0900</lastBuildDate>
+    <item>
+      <title>Kishore et al. (2016) — Multi-Destination Beaming</title>
+      <description>本文書は、Sameer Kishoreらによる研究（2016年）「Multi-Destination Beaming: Apparently Being in Three Places at Once through Robotic and Virtual Embodiment」に基づき、一人の人間が物理的に離れた複数の場所に同時に存在し、相互作用を行うシステムの有効性を分析したものである。 この</description>
+      <itunes:summary>本文書は、Sameer Kishoreらによる研究（2016年）「Multi-Destination Beaming: Apparently Being in Three Places at Once through Robotic and Virtual Embodiment」に基づき、一人の人間が物理的に離れた複数の場所に同時に存在し、相互作用を行うシステムの有効性を分析したものである。 この</itunes:summary>
+      <guid isPermaLink="false">4dbe74053dfb86e08fc11e28be613dec</guid>
+      <pubDate>Wed, 22 Jul 2026 07:43:58 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Kishore%20et%20al.%20%282016%29%20%E2%80%94%20Multi-Destination%20Beaming/Kishore_radio.mp3" length="4573942" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Kishore%20et%20al.%20%282016%29%20%E2%80%94%20Multi-Destination%20Beaming/Kishore_2016_infographic.png"/>
+    </item>
+    <item>
+      <title>Brashers-Krug et al. (1996) — Consolidation in human motor memory</title>
+      <description>本報告書は、提供された学術資料に基づき、ヒトの運動学習における記憶の定着（コンソリデーション）プロセスと、ニコチンが脳内の報酬系に与える神経生物学的な影響という、神経科学における2つの重要な側面をまとめたものである。 ---</description>
+      <itunes:summary>本報告書は、提供された学術資料に基づき、ヒトの運動学習における記憶の定着（コンソリデーション）プロセスと、ニコチンが脳内の報酬系に与える神経生物学的な影響という、神経科学における2つの重要な側面をまとめたものである。 ---</itunes:summary>
+      <guid isPermaLink="false">0a3d0c29c8386587131e113a8f51d1b0</guid>
+      <pubDate>Wed, 22 Jul 2026 07:43:54 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Brashers-Krug%20et%20al.%20%281996%29%20%E2%80%94%20Consolidation%20in%20human%20motor%20memory/Brashers-Krug_radio.mp3" length="3772505" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Brashers-Krug%20et%20al.%20%281996%29%20%E2%80%94%20Consolidation%20in%20human%20motor%20memory/Brashers-Krug_infographic.png"/>
+    </item>
     <item>
       <title>Kilteni et al. (2012) — Extending body space in VR</title>
       <description>本報告書は、Kilteniら（2012年）による研究に基づき、没入型バーチャルリアリティ（VR）において、人間の身体表現がどこまで劇的に変容し得るかを分析したものである。本研究は、自身の身体比率とは著しく異なる「非常に長い腕」に対して、人間が身体所有感（Body Ownership）を抱く可能性とその限界を明らかにしている。 ---</description>
