@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 02:02:29 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 03:10:37 +0900</lastBuildDate>
+    <item>
+      <title>Zhao and Zhang (2022) — Thin-Plate Spline Motion Model for Image Animation</title>
+      <description>本文書は、清華大学の研究チーム（ZhaoおよびZhang、2022年）によって提案された、教師なし学習による画像アニメーションの新しいフレームワーク「薄板スプライン（TPS）モーションモデル」に関する詳細な分析をまとめたものである。 画像アニメーションは、ソース画像の静止オブジェクトを、駆動ビデオ（ドライビングビデオ）の動きに基づいて動かす技術である。従来の教師なし手法には、ソースと駆動画像の間に</description>
+      <itunes:summary>本文書は、清華大学の研究チーム（ZhaoおよびZhang、2022年）によって提案された、教師なし学習による画像アニメーションの新しいフレームワーク「薄板スプライン（TPS）モーションモデル」に関する詳細な分析をまとめたものである。 画像アニメーションは、ソース画像の静止オブジェクトを、駆動ビデオ（ドライビングビデオ）の動きに基づいて動かす技術である。従来の教師なし手法には、ソースと駆動画像の間に</itunes:summary>
+      <guid isPermaLink="false">f70fbc0fda6aad720bbaf2953e8b6726</guid>
+      <pubDate>Wed, 22 Jul 2026 03:08:00 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Zhao%20and%20Zhang%20%282022%29%20%E2%80%94%20Thin-Plate%20Spline%20Motion%20Model%20for%20Image%20Animation/Zhao_radio.mp3" length="4062255" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Zhao%20and%20Zhang%20%282022%29%20%E2%80%94%20Thin-Plate%20Spline%20Motion%20Model%20for%20Image%20Animation/Zhao_infographic.png"/>
+    </item>
+    <item>
+      <title>Yoshida (2014) — Application of saliency map to the analysis of visual search</title>
+      <description>本ドキュメントは、吉田正俊氏による解説論文「サリエンシー・マップの視覚探索解析への応用」（2014年）に基づき、サリエンシー・マップの定義、計算論的モデル、脳内メカニズム、および盲視モデル動物や臨床研究への応用に関する主要な知見をまとめたものである。 ---</description>
+      <itunes:summary>本ドキュメントは、吉田正俊氏による解説論文「サリエンシー・マップの視覚探索解析への応用」（2014年）に基づき、サリエンシー・マップの定義、計算論的モデル、脳内メカニズム、および盲視モデル動物や臨床研究への応用に関する主要な知見をまとめたものである。 ---</itunes:summary>
+      <guid isPermaLink="false">47299fdcf568cc0a317642d863d05f29</guid>
+      <pubDate>Wed, 22 Jul 2026 03:08:00 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Yoshida%20%282014%29%20%E2%80%94%20Application%20of%20saliency%20map%20to%20the%20analysis%20of%20visual%20search/Yoshida_radio.mp3" length="4496724" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Yoshida%20%282014%29%20%E2%80%94%20Application%20of%20saliency%20map%20to%20the%20analysis%20of%20visual%20search/Yoshida_infographic.png"/>
+    </item>
     <item>
       <title>Dotan et al. (2019) — Track It to Crack It - Dissecting Processing Stages with Finger Tracking</title>
       <description>本資料は、Dotanら（2019年）による研究「Track It to Crack It: Dissecting Processing Stages with Finger Tracking」に基づき、認知科学における新たな行動測定手法である「指軌跡トラッキング」の有効性と応用可能性について概説するものである。 長年、心理学における主要な指標であった反応時間（RT）は、試行全体をまとめた総括的な指</description>
