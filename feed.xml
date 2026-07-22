@@ -10,7 +10,16 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 12:11:33 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 13:18:36 +0900</lastBuildDate>
+    <item>
+      <title>Furlanetto et al. (2013) — The bilocated mind</title>
+      <description>本報告書は、人間が同時に複数の場所に自己を局在化させる現象「精神的バイロケーション（Mental Bilocation）」についての包括的な分析である。従来の認知科学や現象学（フッサール等）では、自己は身体に拘束され、単一の場所に存在すると考えられてきた。しかし、近年の神経学、認知神経科学、実験心理学のエビデンスは、自己の空間的統一性が一時的に停止し、自己が2つの場所に分散して知覚される「精神的バ</description>
+      <itunes:summary>本報告書は、人間が同時に複数の場所に自己を局在化させる現象「精神的バイロケーション（Mental Bilocation）」についての包括的な分析である。従来の認知科学や現象学（フッサール等）では、自己は身体に拘束され、単一の場所に存在すると考えられてきた。しかし、近年の神経学、認知神経科学、実験心理学のエビデンスは、自己の空間的統一性が一時的に停止し、自己が2つの場所に分散して知覚される「精神的バ</itunes:summary>
+      <guid isPermaLink="false">a1bac0e9b4823d4a7884fc6d02b6a081</guid>
+      <pubDate>Wed, 22 Jul 2026 13:15:45 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Furlanetto%20et%20al.%20%282013%29%20%E2%80%94%20The%20bilocated%20mind/Furlanetto_et_al_2013_bilocated_mind_radio.mp3" length="3298017" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Furlanetto%20et%20al.%20%282013%29%20%E2%80%94%20The%20bilocated%20mind/Furlanetto_et_al_2013_bilocated_mind_infographic.png"/>
+    </item>
     <item>
       <title>Kishore et al. (2016) — Multi-Destination Beaming</title>
       <description>本文書は、Sameer Kishoreらによる研究（2016年）「Multi-Destination Beaming: Apparently Being in Three Places at Once through Robotic and Virtual Embodiment」に基づき、一人の人間が物理的に離れた複数の場所に同時に存在し、相互作用を行うシステムの有効性を分析したものである。 この</description>
