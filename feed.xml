@@ -10,7 +10,16 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 20:03:16 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 21:17:08 +0900</lastBuildDate>
+    <item>
+      <title>Krakauer et al. (1999) — Independent learning of internal models</title>
+      <description/>
+      <itunes:summary/>
+      <guid isPermaLink="false">571e75e152460a54776e6b0a6532a60c</guid>
+      <pubDate>Wed, 22 Jul 2026 21:13:23 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Krakauer%20et%20al.%20%281999%29%20%E2%80%94%20Independent%20learning%20of%20internal%20models/Krakauer%20et%20al.%20%281999%29_radio.mp3" length="4135607" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Krakauer%20et%20al.%20%281999%29%20%E2%80%94%20Independent%20learning%20of%20internal%20models/Krakauer%20et%20al.%20%281999%29_infographic.png"/>
+    </item>
     <item>
       <title>Krakauer et al. (1999) — Independent learning of internal models for kinematic and dynamic control of reaching</title>
       <description>このドキュメントは、Krakauerら（1999年）による研究「Independent learning of internal models for kinematic and dynamic control of reaching（リーチングの運動学的および力学的制御のための内部モデルの独立した学習）」に基づき、運動学習のメカニズム、特に運動学と力学の学習がいかに独立して処理されるかを詳細に解</description>
