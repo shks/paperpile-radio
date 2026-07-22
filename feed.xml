@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 18:54:38 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 20:03:16 +0900</lastBuildDate>
+    <item>
+      <title>Krakauer et al. (1999) — Independent learning of internal models for kinematic and dynamic control of reaching</title>
+      <description>このドキュメントは、Krakauerら（1999年）による研究「Independent learning of internal models for kinematic and dynamic control of reaching（リーチングの運動学的および力学的制御のための内部モデルの独立した学習）」に基づき、運動学習のメカニズム、特に運動学と力学の学習がいかに独立して処理されるかを詳細に解</description>
+      <itunes:summary>このドキュメントは、Krakauerら（1999年）による研究「Independent learning of internal models for kinematic and dynamic control of reaching（リーチングの運動学的および力学的制御のための内部モデルの独立した学習）」に基づき、運動学習のメカニズム、特に運動学と力学の学習がいかに独立して処理されるかを詳細に解</itunes:summary>
+      <guid isPermaLink="false">c6e8c09c4d722f672c62ed13f31658d3</guid>
+      <pubDate>Wed, 22 Jul 2026 19:59:58 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Krakauer%20et%20al.%20%281999%29%20%E2%80%94%20Independent%20learning%20of%20internal%20models%20for%20kinematic%20and%20dynamic%20control%20of%20reaching/Krakauer%20et%20al.%201999_radio.mp3" length="4135607" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Krakauer%20et%20al.%20%281999%29%20%E2%80%94%20Independent%20learning%20of%20internal%20models%20for%20kinematic%20and%20dynamic%20control%20of%20reaching/Krakauer%20et%20al.%201999%20-%20Independent%20learning%20of%20internal%20models%20for%20kinematic%20and%20dynamic%20control%20of%20reaching_infographic.png"/>
+    </item>
+    <item>
+      <title>Osu et al. (2004) — Random presentation enables subjects to adapt to two opposing forces on the hand</title>
+      <description>本報告書は、人間が相反する2つの運動課題を同時に学習できるかという、運動制御理論における重要な知見をまとめたものである。従来の研究では、相反する力場（force field）や視覚運動回転の同時学習は、ワーキングメモリ内の干渉によって困難であると考えられてきた。 しかし、大須理英子氏らの研究（2004年）は、**「ランダムかつ頻繁な切り替え」**と**「文脈情報（キュー）」**を組み合わせることで</description>
+      <itunes:summary>本報告書は、人間が相反する2つの運動課題を同時に学習できるかという、運動制御理論における重要な知見をまとめたものである。従来の研究では、相反する力場（force field）や視覚運動回転の同時学習は、ワーキングメモリ内の干渉によって困難であると考えられてきた。 しかし、大須理英子氏らの研究（2004年）は、**「ランダムかつ頻繁な切り替え」**と**「文脈情報（キュー）」**を組み合わせることで</itunes:summary>
+      <guid isPermaLink="false">413155515b8377d8829cf9909894ade7</guid>
+      <pubDate>Wed, 22 Jul 2026 19:58:15 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Osu%20et%20al.%20%282004%29%20%E2%80%94%20Random%20presentation%20enables%20subjects%20to%20adapt%20to%20two%20opposing%20forces%20on%20the%20hand/Osu%20et%20al.%202004_radio.mp3" length="3777834" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Osu%20et%20al.%20%282004%29%20%E2%80%94%20Random%20presentation%20enables%20subjects%20to%20adapt%20to%20two%20opposing%20forces%20on%20the%20hand/Osu%20et%20al.%202004%20-%20Random%20presentation%20enables%20subjects%20to%20adapt%20to%20two%20opposing%20forces%20on%20the%20hand_infographic.png"/>
+    </item>
     <item>
       <title>Karniel and Mussa-Ivaldi (2002) — Does the motor control system use multiple models</title>
       <description>本文書は、KarnielおよびMussa-Ivaldi（2002年）による研究に基づき、可変的な環境において人間の運動制御システムが複数の内部モデルを構築し、それらを文脈に応じて切り替えて（コンテキスト・スイッチング）対処しているかという仮説を検証した結果をまとめたものである。 ---</description>
