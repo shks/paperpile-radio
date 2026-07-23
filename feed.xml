@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 15:07:06 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 16:14:23 +0900</lastBuildDate>
+    <item>
+      <title>Kelly and Garavan (2005) — Human functional neuroimaging of brain changes associated with practice</title>
+      <description>本文書は、A. M. Clare KellyおよびHugh Garavanによる論文「Human Functional Neuroimaging of Brain Changes Associated with Practice（練習に関連する脳の変化のヒト機能的神経画像）」に基づき、練習が脳の機能的解剖学に与える影響、およびその変化を規定する要因についてまとめたものである。 経験に依存した脳の変</description>
+      <itunes:summary>本文書は、A. M. Clare KellyおよびHugh Garavanによる論文「Human Functional Neuroimaging of Brain Changes Associated with Practice（練習に関連する脳の変化のヒト機能的神経画像）」に基づき、練習が脳の機能的解剖学に与える影響、およびその変化を規定する要因についてまとめたものである。 経験に依存した脳の変</itunes:summary>
+      <guid isPermaLink="false">5ebd22199d66cd2f6f2ae1e701c9dbe7</guid>
+      <pubDate>Thu, 23 Jul 2026 16:11:33 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Kelly%20and%20Garavan%20%282005%29%20%E2%80%94%20Human%20functional%20neuroimaging%20of%20brain%20changes%20associated%20with%20practice/Kelly%20and%20Garavan%202005_radio.mp3" length="5251663" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Kelly%20and%20Garavan%20%282005%29%20%E2%80%94%20Human%20functional%20neuroimaging%20of%20brain%20changes%20associated%20with%20practice/Kelly%20and%20Garavan%202005_infographic.png"/>
+    </item>
+    <item>
+      <title>Kristjánsson and Egeth (2020) — How feature integration theory integrated cognitive psychology, neurophysiology, and psychophysics</title>
+      <description>本文書は、アン・トライスマン（Anne Treisman）が提唱した「特徴統合理論（Feature Integration Theory: FIT）」の成立背景、理論的構造、およびその学術的影響について分析したものである。FITは1980年に最も有名な形で提唱されたが、それは理論的空白の中に突如現れたものではない。1950年代から70年代にかけて認知心理学、神経生理学、視覚精神物理学の各分野で並行</description>
+      <itunes:summary>本文書は、アン・トライスマン（Anne Treisman）が提唱した「特徴統合理論（Feature Integration Theory: FIT）」の成立背景、理論的構造、およびその学術的影響について分析したものである。FITは1980年に最も有名な形で提唱されたが、それは理論的空白の中に突如現れたものではない。1950年代から70年代にかけて認知心理学、神経生理学、視覚精神物理学の各分野で並行</itunes:summary>
+      <guid isPermaLink="false">8c28844038e93f44e07730be40eb7362</guid>
+      <pubDate>Thu, 23 Jul 2026 16:11:27 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Kristj%C3%A1nsson%20and%20Egeth%20%282020%29%20%E2%80%94%20How%20feature%20integration%20theory%20integrated%20cognitive%20psychology%2C%20neurophysiology%2C%20and%20psychophysics/Kristj%C3%A1nsson%20and%20Egeth%202020_radio.mp3" length="5035578" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Kristj%C3%A1nsson%20and%20Egeth%20%282020%29%20%E2%80%94%20How%20feature%20integration%20theory%20integrated%20cognitive%20psychology%2C%20neurophysiology%2C%20and%20psychophysics/Kristj%C3%A1nsson%20and%20Egeth%202020_infographic.png"/>
+    </item>
     <item>
       <title>Räihä and Špakov (2009) — Disambiguating ninja cursors with eye gaze</title>
       <description/>
