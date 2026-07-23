@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 11:35:01 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 12:46:26 +0900</lastBuildDate>
+    <item>
+      <title>Alzahabi and Cain (2021) — Ensemble perception during multiple-object tracking</title>
+      <description>本ドキュメントは、Reem AlzahabiおよびMatthew S. Cainの研究（2021年）に基づき、動的な環境下で人間が複数のオブジェクトを「群れ（アンサンブル）」としてどのように知覚し、追跡するかについての主要な知見をまとめたものである。 ---</description>
+      <itunes:summary>本ドキュメントは、Reem AlzahabiおよびMatthew S. Cainの研究（2021年）に基づき、動的な環境下で人間が複数のオブジェクトを「群れ（アンサンブル）」としてどのように知覚し、追跡するかについての主要な知見をまとめたものである。 ---</itunes:summary>
+      <guid isPermaLink="false">9c0cacc61fe1045af1c9fcda9a5220c2</guid>
+      <pubDate>Thu, 23 Jul 2026 12:38:54 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Alzahabi%20and%20Cain%20%282021%29%20%E2%80%94%20Ensemble%20perception%20during%20multiple-object%20tracking/Alzahabi_and_Cain_2021_radio.mp3" length="4477498" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Alzahabi%20and%20Cain%20%282021%29%20%E2%80%94%20Ensemble%20perception%20during%20multiple-object%20tracking/Alzahabi_and_Cain_2021_infographic.png"/>
+    </item>
+    <item>
+      <title>Quinn et al. (2011) — On the costs of multiple trajectory pointing methods</title>
+      <description>本文書は、Quinnら（2011年）による研究「On the costs of multiple trajectory pointing methods（複数軌道ポインティング手法のコストについて）」に基づき、ポインティング作業を効率化するために考案された「複数軌道」手法がユーザーのパフォーマンスに与える影響を分析したものである。 フィッツの法則に基づき、ターゲットまでの距離を短縮する手法として「</description>
+      <itunes:summary>本文書は、Quinnら（2011年）による研究「On the costs of multiple trajectory pointing methods（複数軌道ポインティング手法のコストについて）」に基づき、ポインティング作業を効率化するために考案された「複数軌道」手法がユーザーのパフォーマンスに与える影響を分析したものである。 フィッツの法則に基づき、ターゲットまでの距離を短縮する手法として「</itunes:summary>
+      <guid isPermaLink="false">e29323185f545dd8c4883595f339fa28</guid>
+      <pubDate>Thu, 23 Jul 2026 12:38:50 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Quinn%20et%20al.%20%282011%29%20%E2%80%94%20On%20the%20costs%20of%20multiple%20trajectory%20pointing%20methods/Quinn_et_al__2011_radio.mp3" length="4198406" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Quinn%20et%20al.%20%282011%29%20%E2%80%94%20On%20the%20costs%20of%20multiple%20trajectory%20pointing%20methods/Quinn_et_al__2011_infographic.png"/>
+    </item>
     <item>
       <title>Tramper and Medendorp (2015) — Parallel updating and weighting of multiple spatial maps</title>
       <description>このドキュメントは、J. J. TramperおよびW. P. Medendorpによる研究論文「Parallel updating and weighting of multiple spatial maps for visual stability during whole body motion（全身運動中の視覚的安定性のための複数空間マップの並列更新と重み付け）」の主要な知見、分析、および</description>
