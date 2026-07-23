@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 12:46:26 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 13:54:48 +0900</lastBuildDate>
+    <item>
+      <title>Räihä and Špakov (2009) — Disambiguating ninja cursors with eye gaze</title>
+      <description/>
+      <itunes:summary/>
+      <guid isPermaLink="false">51550c6cfb19172250e350dbe21de1de</guid>
+      <pubDate>Thu, 23 Jul 2026 13:50:52 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/R%C3%A4ih%C3%A4%20and%20%C5%A0pakov%20%282009%29%20%E2%80%94%20Disambiguating%20ninja%20cursors%20with%20eye%20gaze/R%C3%A4ih%C3%A4%20and%20%C5%A0pakov%202009%20-%20Disambiguating%20ninja%20cursors%20with%20eye%20gaze_radio.mp3" length="5414144" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/R%C3%A4ih%C3%A4%20and%20%C5%A0pakov%20%282009%29%20%E2%80%94%20Disambiguating%20ninja%20cursors%20with%20eye%20gaze/R%C3%A4ih%C3%A4_and_%C5%A0pakov_2009_infographic.png"/>
+    </item>
+    <item>
+      <title>Kobayashi and Igarashi (2008) — Ninja cursors</title>
+      <description>本文書は、東京大学の小林正朋氏と五十嵐健夫氏によって2008年に発表された研究論文「Ninja Cursors: Using Multiple Cursors to Assist Target Acquisition on Large Screens」に基づき、その主要な概念、技術的設計、実験結果、および実用化に向けた洞察をまとめたブリーフィング・ドキュメントである。 ---</description>
+      <itunes:summary>本文書は、東京大学の小林正朋氏と五十嵐健夫氏によって2008年に発表された研究論文「Ninja Cursors: Using Multiple Cursors to Assist Target Acquisition on Large Screens」に基づき、その主要な概念、技術的設計、実験結果、および実用化に向けた洞察をまとめたブリーフィング・ドキュメントである。 ---</itunes:summary>
+      <guid isPermaLink="false">cf7191e8da3b58b48982eb85b1c019d3</guid>
+      <pubDate>Thu, 23 Jul 2026 13:50:47 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Kobayashi%20and%20Igarashi%20%282008%29%20%E2%80%94%20Ninja%20cursors/Kobayashi%20and%20Igarashi%202008%20-%20Ninja%20cursors_radio.mp3" length="5766902" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Kobayashi%20and%20Igarashi%20%282008%29%20%E2%80%94%20Ninja%20cursors/Kobayashi_and_Igarashi_2008_infographic.png"/>
+    </item>
     <item>
       <title>Alzahabi and Cain (2021) — Ensemble perception during multiple-object tracking</title>
       <description>本ドキュメントは、Reem AlzahabiおよびMatthew S. Cainの研究（2021年）に基づき、動的な環境下で人間が複数のオブジェクトを「群れ（アンサンブル）」としてどのように知覚し、追跡するかについての主要な知見をまとめたものである。 ---</description>
