@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Fri, 24 Jul 2026 17:39:41 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 18:49:28 +0900</lastBuildDate>
+    <item>
+      <title>Just and Buchweitz (2017) — What Brain Imaging Reveals About the Nature of Multitasking</title>
+      <description>本文書は、Marcel Adam Just氏とAugusto Buchweitz氏による研究「脳画像解析が明らかにするマルチタスクの性質（What Brain Imaging Reveals About the Nature of Multitasking）」に基づき、マルチタスクの神経科学的メカニズム、その限界、およびトレーニングの効果をまとめたものである。 現代のデジタル技術の普及により、マル</description>
+      <itunes:summary>本文書は、Marcel Adam Just氏とAugusto Buchweitz氏による研究「脳画像解析が明らかにするマルチタスクの性質（What Brain Imaging Reveals About the Nature of Multitasking）」に基づき、マルチタスクの神経科学的メカニズム、その限界、およびトレーニングの効果をまとめたものである。 現代のデジタル技術の普及により、マル</itunes:summary>
+      <guid isPermaLink="false">5b3dc17a0b1989074f83013f74568d9f</guid>
+      <pubDate>Fri, 24 Jul 2026 18:44:42 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Just%20and%20Buchweitz%20%282017%29%20%E2%80%94%20What%20Brain%20Imaging%20Reveals%20About%20the%20Nature%20of%20Multitasking/just_buchweitz_2017_radio.mp3" length="4577912" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Just%20and%20Buchweitz%20%282017%29%20%E2%80%94%20What%20Brain%20Imaging%20Reveals%20About%20the%20Nature%20of%20Multitasking/just_buchweitz_2017_infographic.png"/>
+    </item>
+    <item>
+      <title>Dux et al. (2009) — Training Improves Multitasking Performance</title>
+      <description>本ドキュメントは、Duxら（2009年）の研究論文「Training Improves Multitasking Performance by Increasing the Speed of Information Processing in Human Prefrontal Cortex（訓練はヒト前頭前野における情報処理速度を向上させることでマルチタスク・パフォーマンスを改善する）」に基づき、</description>
+      <itunes:summary>本ドキュメントは、Duxら（2009年）の研究論文「Training Improves Multitasking Performance by Increasing the Speed of Information Processing in Human Prefrontal Cortex（訓練はヒト前頭前野における情報処理速度を向上させることでマルチタスク・パフォーマンスを改善する）」に基づき、</itunes:summary>
+      <guid isPermaLink="false">d35ae9b2c9138e0780ff8b62efe0ceee</guid>
+      <pubDate>Fri, 24 Jul 2026 18:44:38 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Dux%20et%20al.%20%282009%29%20%E2%80%94%20Training%20Improves%20Multitasking%20Performance/dux_2009_radio.mp3" length="3849201" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Dux%20et%20al.%20%282009%29%20%E2%80%94%20Training%20Improves%20Multitasking%20Performance/dux_2009_infographic.png"/>
+    </item>
     <item>
       <title>Reipschläger et al. (2022) — AvatAR</title>
       <description>本文書は、複雑な人間活動データ（ヒューマン・モーション・データ）を分析するための没入型環境「AvatAR」に関する詳細な概要である。従来のデスクトップベースの2Dまたは3D軌跡プロットは、全体的な位置情報の把握には適しているが、個人の詳細な行動、姿勢、および周囲の環境との相互作用を理解するには限界があった。 AvatARは、拡張現実（AR）ヘッドマウントディスプレイ（HMD）とタブレット端末を組み</description>
