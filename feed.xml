@@ -10,7 +10,69 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Fri, 24 Jul 2026 20:59:47 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 00:23:50 +0900</lastBuildDate>
+    <item>
+      <title>Schjerlund et al. (2022) — OVRlap</title>
+      <description>本報告書は、大規模な仮想現実（VR）環境内での操作効率を向上させる革新的なインタラクション手法「OVRlap」に関する調査・分析をまとめたものである。従来、遠く離れた複数の場所を同時に把握することは不可能とされていたが、OVRlapは複数地点の視点を一人称視点（FPV）で重畳（オーバーラップ）させることにより、この制約を解消する。 20名の参加者を対象とした実証研究の結果、OVRlapは従来の「地</description>
+      <itunes:summary>本報告書は、大規模な仮想現実（VR）環境内での操作効率を向上させる革新的なインタラクション手法「OVRlap」に関する調査・分析をまとめたものである。従来、遠く離れた複数の場所を同時に把握することは不可能とされていたが、OVRlapは複数地点の視点を一人称視点（FPV）で重畳（オーバーラップ）させることにより、この制約を解消する。 20名の参加者を対象とした実証研究の結果、OVRlapは従来の「地</itunes:summary>
+      <guid isPermaLink="false">10620caf11d61b5419380f84c109e9f0</guid>
+      <pubDate>Sat, 25 Jul 2026 00:21:53 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Schjerlund%20et%20al.%20%282022%29%20%E2%80%94%20OVRlap/Schjerlund_2022_radio.mp3" length="4779369" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Janaka et al. (2022) — Paracentral and near-peripheral visualizations</title>
+      <description>本ドキュメントは、対面での社会的なやり取り（ソーシャル・インタラクション）において、光学的透過型ヘッドマウントディスプレイ（OHMD：スマートグラス）を介したセカンダリ情報（通知など）の提示が、いかにユーザーの注意をそらし、アイコンタクトの質を低下させるかという問題、およびその解決策を提示した研究論文「Janaka et al. 2022」に基づき作成されたものである。 OHMDは、主要なタスクを</description>
+      <itunes:summary>本ドキュメントは、対面での社会的なやり取り（ソーシャル・インタラクション）において、光学的透過型ヘッドマウントディスプレイ（OHMD：スマートグラス）を介したセカンダリ情報（通知など）の提示が、いかにユーザーの注意をそらし、アイコンタクトの質を低下させるかという問題、およびその解決策を提示した研究論文「Janaka et al. 2022」に基づき作成されたものである。 OHMDは、主要なタスクを</itunes:summary>
+      <guid isPermaLink="false">560876a662ad8c3bd022643da1058d24</guid>
+      <pubDate>Sat, 25 Jul 2026 00:21:50 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Janaka%20et%20al.%20%282022%29%20%E2%80%94%20Paracentral%20and%20near-peripheral%20visualizations/Janaka_2022_radio.mp3" length="4622634" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Janaka%20et%20al.%20%282022%29%20%E2%80%94%20Paracentral%20and%20near-peripheral%20visualizations/Janaka_2022_infographic.png"/>
+    </item>
+    <item>
+      <title>Küçüktabak et al. (2021) — Human-machine-human interaction in motor control and rehabilitation</title>
+      <description>本文書は、Küçüktabakら（2021年）によるレビュー論文「Human-machine-human interaction in motor control and rehabilitation: a review」に基づき、人間同士の相互作用が機械（ロボットやセンサーデバイス）を介した際、運動制御やリハビリテーションにどのような影響を及ぼすかを詳細に分析したものである。 ---</description>
+      <itunes:summary>本文書は、Küçüktabakら（2021年）によるレビュー論文「Human-machine-human interaction in motor control and rehabilitation: a review」に基づき、人間同士の相互作用が機械（ロボットやセンサーデバイス）を介した際、運動制御やリハビリテーションにどのような影響を及ぼすかを詳細に分析したものである。 ---</itunes:summary>
+      <guid isPermaLink="false">97ccb66bc7148bcf058ae7c99f71ff30</guid>
+      <pubDate>Sat, 25 Jul 2026 00:21:47 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/K%C3%BC%C3%A7%C3%BCktabak%20et%20al.%20%282021%29%20%E2%80%94%20Human-machine-human%20interaction%20in%20motor%20control%20and%20rehabilitation/Kucuktobak_2021_radio.mp3" length="5095346" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/K%C3%BC%C3%A7%C3%BCktabak%20et%20al.%20%282021%29%20%E2%80%94%20Human-machine-human%20interaction%20in%20motor%20control%20and%20rehabilitation/Kucuktobak_2021_infographic.png"/>
+    </item>
+    <item>
+      <title>Cherry (1953) — Some Experiments on the Recognition of Speech, with One and with Two Ears</title>
+      <description>本文書は、1953年にE. Colin Cherryによって発表された記念碑的な論文「Some Experiments on the Recognition of Speech, with One and with Two Ears（音声認識に関するいくつかの実験：一耳および両耳による認識）」の分析結果をまとめたブリーフィング・ドキュメントである。本研究は、複数の音声が同時に存在する環境下で、人間</description>
+      <itunes:summary>本文書は、1953年にE. Colin Cherryによって発表された記念碑的な論文「Some Experiments on the Recognition of Speech, with One and with Two Ears（音声認識に関するいくつかの実験：一耳および両耳による認識）」の分析結果をまとめたブリーフィング・ドキュメントである。本研究は、複数の音声が同時に存在する環境下で、人間</itunes:summary>
+      <guid isPermaLink="false">c4742df0d27a35543ee348c3df752e2e</guid>
+      <pubDate>Sat, 25 Jul 2026 00:21:43 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Cherry%20%281953%29%20%E2%80%94%20Some%20Experiments%20on%20the%20Recognition%20of%20Speech%2C%20with%20One%20and%20with%20Two%20Ears/Cherry_1953_radio.mp3" length="4173015" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Cherry%20%281953%29%20%E2%80%94%20Some%20Experiments%20on%20the%20Recognition%20of%20Speech%2C%20with%20One%20and%20with%20Two%20Ears/Cherry_1953_infographic.png"/>
+    </item>
+    <item>
+      <title>Cherry (1953) — Some Experiments on the Recognition of Speech</title>
+      <description>本文書は、1953年にE. Colin Cherryによって発表された記念碑的な論文「Some Experiments on the Recognition of Speech, with One and with Two Ears（音声認識に関するいくつかの実験：一耳および両耳による認識）」の分析結果をまとめたブリーフィング・ドキュメントである。本研究は、複数の音声が同時に存在する環境下で、人間</description>
+      <itunes:summary>本文書は、1953年にE. Colin Cherryによって発表された記念碑的な論文「Some Experiments on the Recognition of Speech, with One and with Two Ears（音声認識に関するいくつかの実験：一耳および両耳による認識）」の分析結果をまとめたブリーフィング・ドキュメントである。本研究は、複数の音声が同時に存在する環境下で、人間</itunes:summary>
+      <guid isPermaLink="false">98312426e654a844b4efe78f3569c4f5</guid>
+      <pubDate>Fri, 24 Jul 2026 23:13:53 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Cherry%20%281953%29%20%E2%80%94%20Some%20Experiments%20on%20the%20Recognition%20of%20Speech/Cherry_1953_radio.mp3" length="5298788" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Cherry%20%281953%29%20%E2%80%94%20Some%20Experiments%20on%20the%20Recognition%20of%20Speech/Cherry_1953_infographic.png"/>
+    </item>
+    <item>
+      <title>Pashler (1994) — Graded capacity-sharing in dual-task interference</title>
+      <description>本資料は、Harold Pashler（1994年）による研究「二重課題干渉における段階的リソース共有（Graded Capacity-Sharing in Dual-Task Interference?）」に基づき、人間が二つの選択反応課題を同時に実行する際に生じる干渉の本質を分析したものである。 長年、心理学における議論の焦点は、二重課題干渉の原因が「リソースの段階的な共有（メンタル・キャパシ</description>
+      <itunes:summary>本資料は、Harold Pashler（1994年）による研究「二重課題干渉における段階的リソース共有（Graded Capacity-Sharing in Dual-Task Interference?）」に基づき、人間が二つの選択反応課題を同時に実行する際に生じる干渉の本質を分析したものである。 長年、心理学における議論の焦点は、二重課題干渉の原因が「リソースの段階的な共有（メンタル・キャパシ</itunes:summary>
+      <guid isPermaLink="false">a6fe3cb94fb7b929cfadde20c59c416e</guid>
+      <pubDate>Fri, 24 Jul 2026 22:07:29 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Pashler%20%281994%29%20%E2%80%94%20Graded%20capacity-sharing%20in%20dual-task%20interference/pashler_1994_radio.mp3" length="4073540" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Pashler%20%281994%29%20%E2%80%94%20Graded%20capacity-sharing%20in%20dual-task%20interference/Pashler_1994_infographic.png"/>
+    </item>
+    <item>
+      <title>Garner and Dux (2015) — Training conquers multitasking costs</title>
+      <description>本資料は、K. G. GarnerおよびPaul E. Duxによる研究論文（2015年）「Training conquers multitasking costs by dividing task representations in the frontoparietal-subcortical system」に基づき、脳が訓練を通じてどのようにマルチタスクの限界を克服するかについての詳細な分析</description>
+      <itunes:summary>本資料は、K. G. GarnerおよびPaul E. Duxによる研究論文（2015年）「Training conquers multitasking costs by dividing task representations in the frontoparietal-subcortical system」に基づき、脳が訓練を通じてどのようにマルチタスクの限界を克服するかについての詳細な分析</itunes:summary>
+      <guid isPermaLink="false">12236cd32f203e90fdedff8e16c6dc21</guid>
+      <pubDate>Fri, 24 Jul 2026 22:07:24 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Garner%20and%20Dux%20%282015%29%20%E2%80%94%20Training%20conquers%20multitasking%20costs/garner_dux_2015_radio.mp3" length="4820120" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Garner%20and%20Dux%20%282015%29%20%E2%80%94%20Training%20conquers%20multitasking%20costs/garner_dux_2015_infographic.png"/>
+    </item>
     <item>
       <title>Sigman and Dehaene (2008) — Brain mechanisms of serial and parallel processing during dual-task performance</title>
       <description>本文書は、Mariano SigmanおよびStanislas Dehaene（2008年）の研究に基づき、人間が二つの課題を同時に実行する際の脳内メカニズムを分析したものである。心理学的不応期（PRP）として知られる現象、すなわち「人間は通常、二つの課題を同時に遂行できない」という制約に対し、本研究は脳波（EEG）と機能的磁気共鳴画像法（fMRI）を組み合わせた革新的な時間分解分析を用いてアプロ</description>
