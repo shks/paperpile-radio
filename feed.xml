@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Sat, 25 Jul 2026 16:46:16 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 17:56:53 +0900</lastBuildDate>
+    <item>
+      <title>Dobricki and Mohler (2015) — Self-Identification With Another's Body Alters Self-Other Face Distinction</title>
+      <description>本報告書は、Martin Dobricki氏とBetty J. Mohler氏の研究（2015年）に基づき、全身の自己知覚と顔の自己認識の間の動的な関係を分析したものである。この研究は、被験者の体幹への視覚・触覚的な同期刺激を通じて「フルボディ・イリュージョン（他者の身体を自分のものと感じる感覚）」を誘発し、それが自己と他者の顔を区別する能力にどのような影響を与えるかを調査した。 研究の結果、他者</description>
+      <itunes:summary>本報告書は、Martin Dobricki氏とBetty J. Mohler氏の研究（2015年）に基づき、全身の自己知覚と顔の自己認識の間の動的な関係を分析したものである。この研究は、被験者の体幹への視覚・触覚的な同期刺激を通じて「フルボディ・イリュージョン（他者の身体を自分のものと感じる感覚）」を誘発し、それが自己と他者の顔を区別する能力にどのような影響を与えるかを調査した。 研究の結果、他者</itunes:summary>
+      <guid isPermaLink="false">65377b58ba59e41c690bb6833c99e8fc</guid>
+      <pubDate>Sat, 25 Jul 2026 17:50:10 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Dobricki%20and%20Mohler%20%282015%29%20%E2%80%94%20Self-Identification%20With%20Another%27s%20Body%20Alters%20Self-Other%20Face%20Distinction/Dobricki_and_Mohler_2015_radio.mp3" length="4008025" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Dobricki%20and%20Mohler%20%282015%29%20%E2%80%94%20Self-Identification%20With%20Another%27s%20Body%20Alters%20Self-Other%20Face%20Distinction/Dobricki_and_Mohler_2015_infographic.png"/>
+    </item>
+    <item>
+      <title>Shahu et al. (2022) — Would Users Accept Electric Muscle Stimu</title>
+      <description>本報告書は、電気筋肉刺激（EMS）技術がユーザーの身体を直接制御することに対する受容性を調査した研究（Shahu et al. 2022）に基づき、その主要な知見をまとめたものである。EMSは、電気信号を用いて筋肉を収縮させ、身体の動きを制御する技術であり、従来の医療やスポーツの枠を超え、ヒューマン・コンピュータ・インタラクション（HCI）の分野で新たな可能性を提示している。 本研究では、113名</description>
+      <itunes:summary>本報告書は、電気筋肉刺激（EMS）技術がユーザーの身体を直接制御することに対する受容性を調査した研究（Shahu et al. 2022）に基づき、その主要な知見をまとめたものである。EMSは、電気信号を用いて筋肉を収縮させ、身体の動きを制御する技術であり、従来の医療やスポーツの枠を超え、ヒューマン・コンピュータ・インタラクション（HCI）の分野で新たな可能性を提示している。 本研究では、113名</itunes:summary>
+      <guid isPermaLink="false">9f5e7782571c6bb53ca4a0625beefdaa</guid>
+      <pubDate>Sat, 25 Jul 2026 17:50:06 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Shahu%20et%20al.%20%282022%29%20%E2%80%94%20Would%20Users%20Accept%20Electric%20Muscle%20Stimu/Shahu_et_al_2022_radio.mp3" length="4536535" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Shahu%20et%20al.%20%282022%29%20%E2%80%94%20Would%20Users%20Accept%20Electric%20Muscle%20Stimu/Shahu_et_al_2022_infographic.png"/>
+    </item>
     <item>
       <title>Schjerlund et al. (2022) — OVRlap</title>
       <description>本報告書は、大規模な仮想現実（VR）環境内での操作効率を向上させる革新的なインタラクション手法「OVRlap」に関する調査・分析をまとめたものである。従来、遠く離れた複数の場所を同時に把握することは不可能とされていたが、OVRlapは複数地点の視点を一人称視点（FPV）で重畳（オーバーラップ）させることにより、この制約を解消する。 20名の参加者を対象とした実証研究の結果、OVRlapは従来の「地</description>
