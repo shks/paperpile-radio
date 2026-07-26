@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Sun, 26 Jul 2026 10:00:04 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 11:09:38 +0900</lastBuildDate>
+    <item>
+      <title>Ma et al. (2019) — Personality assimilation across species - enfacing an ape reduces own intelligence and increases emotion attribution to apes</title>
+      <description>本ドキュメントは、2019年に『Psychological Research』誌で発表された、Ke Ma、Roberta Sellaro、Bernhard Hommelによる研究論文「Personality assimilation across species: enfacing an ape reduces own intelligence and increases emotion attr</description>
+      <itunes:summary>本ドキュメントは、2019年に『Psychological Research』誌で発表された、Ke Ma、Roberta Sellaro、Bernhard Hommelによる研究論文「Personality assimilation across species: enfacing an ape reduces own intelligence and increases emotion attr</itunes:summary>
+      <guid isPermaLink="false">836ce94b671a877e7cad88ad4afc6ca0</guid>
+      <pubDate>Sun, 26 Jul 2026 11:04:52 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Ma%20et%20al.%20%282019%29%20%E2%80%94%20Personality%20assimilation%20across%20species%20-%20enfacing%20an%20ape%20reduces%20own%20intelligence%20and%20increases%20emotion%20attribution%20to%20apes/Ma_et_al_2019_radio.mp3" length="4938298" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Ma%20et%20al.%20%282019%29%20%E2%80%94%20Personality%20assimilation%20across%20species%20-%20enfacing%20an%20ape%20reduces%20own%20intelligence%20and%20increases%20emotion%20attribution%20to%20apes/Ma_et_al_2019_infographic.png"/>
+    </item>
+    <item>
+      <title>Grewe et al. (2022) — The Open Virtual Mirror Framework for enfacement illusion</title>
+      <description>本文書は、仮想現実（VR）技術を用いた顔の自己認識（Enfacement）研究における新しいオープンソース・フレームワーク「Open Virtual Mirror Framework（OVMF）」に関する包括的なブリーフィング・ドキュメントである。Greweら（2022年）の研究に基づき、その技術的背景、構造、実験的検証、および今後の研究への示唆をまとめる。 ---</description>
+      <itunes:summary>本文書は、仮想現実（VR）技術を用いた顔の自己認識（Enfacement）研究における新しいオープンソース・フレームワーク「Open Virtual Mirror Framework（OVMF）」に関する包括的なブリーフィング・ドキュメントである。Greweら（2022年）の研究に基づき、その技術的背景、構造、実験的検証、および今後の研究への示唆をまとめる。 ---</itunes:summary>
+      <guid isPermaLink="false">278d83f0c3006208254bb57bebfd7d02</guid>
+      <pubDate>Sun, 26 Jul 2026 11:04:48 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Grewe%20et%20al.%20%282022%29%20%E2%80%94%20The%20Open%20Virtual%20Mirror%20Framework%20for%20enfacement%20illusion/Grewe_et_al_2022_radio.mp3" length="3496234" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Grewe%20et%20al.%20%282022%29%20%E2%80%94%20The%20Open%20Virtual%20Mirror%20Framework%20for%20enfacement%20illusion/Grewe_et_al_2022_infographic.png"/>
+    </item>
     <item>
       <title>Turbett et al. (2021) — Serial dependence</title>
       <description/>
