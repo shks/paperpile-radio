@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Sun, 26 Jul 2026 14:42:14 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 15:51:56 +0900</lastBuildDate>
+    <item>
+      <title>Tacikowski et al. (2020) — Perception</title>
+      <description>本資料は、Pawel Tacikowski氏らによる研究「自身の身体の知覚が自己概念に影響を与え、自己の不整合がエピソード記憶を損なう（Perception of Our Own Body Influences Self-Concept and Self-Incoherence Impairs Episodic Memory）」の主要な知見をまとめたものである。 この研究は、友人同士が身体を入れ替</description>
+      <itunes:summary>本資料は、Pawel Tacikowski氏らによる研究「自身の身体の知覚が自己概念に影響を与え、自己の不整合がエピソード記憶を損なう（Perception of Our Own Body Influences Self-Concept and Self-Incoherence Impairs Episodic Memory）」の主要な知見をまとめたものである。 この研究は、友人同士が身体を入れ替</itunes:summary>
+      <guid isPermaLink="false">2d4b100c1a6c8503b0856f86cbc62922</guid>
+      <pubDate>Sun, 26 Jul 2026 15:49:00 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Tacikowski%20et%20al.%20%282020%29%20%E2%80%94%20Perception/Tacikowski%20et%20al.%20%282020%29_radio.mp3" length="4344378" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Tacikowski%20et%20al.%20%282020%29%20%E2%80%94%20Perception/Tacikowski%20et%20al.%20%282020%29_infographic.png"/>
+    </item>
+    <item>
+      <title>Kiridoshi et al. (2022) — Spatial auditory presentation</title>
+      <description>本資料は、仮想現実（VR）環境における「社会的実在感（Social Presence）」の向上において、他者の音響情報の空間化がいかに重要な役割を果たすかを調査した研究（Kiridoshi et al. 2022）の結果をまとめたものである。 現在の遠隔通信システムでは、他者の音声が空間情報（位置情報）を伴わずに提示されることが多い。本研究では、動的なバイノーラル合成システムを用い、「社会的サイモ</description>
+      <itunes:summary>本資料は、仮想現実（VR）環境における「社会的実在感（Social Presence）」の向上において、他者の音響情報の空間化がいかに重要な役割を果たすかを調査した研究（Kiridoshi et al. 2022）の結果をまとめたものである。 現在の遠隔通信システムでは、他者の音声が空間情報（位置情報）を伴わずに提示されることが多い。本研究では、動的なバイノーラル合成システムを用い、「社会的サイモ</itunes:summary>
+      <guid isPermaLink="false">f600d9d8144717edca5d15bed04fe35e</guid>
+      <pubDate>Sun, 26 Jul 2026 15:48:57 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Kiridoshi%20et%20al.%20%282022%29%20%E2%80%94%20Spatial%20auditory%20presentation/Kiridoshi%20et%20al.%20%282022%29_radio.mp3" length="4695463" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Kiridoshi%20et%20al.%20%282022%29%20%E2%80%94%20Spatial%20auditory%20presentation/Kiridoshi%20et%20al.%20%282022%29_infographic.png"/>
+    </item>
     <item>
       <title>Will et al. (2021) — The Medusa effect reveals levels of mind perception in pictures</title>
       <description/>
