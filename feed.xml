@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Mon, 27 Jul 2026 15:08:01 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 16:15:22 +0900</lastBuildDate>
+    <item>
+      <title>Krakauer et al. (2019) — Motor Learning</title>
+      <description>本文書は、Krakauerら（2019年）による「Motor Learning」の深層分析に基づき、運動学習の定義、主要な研究パラダイム、神経科学的基盤、および将来の展望をまとめたものである。 ---</description>
+      <itunes:summary>本文書は、Krakauerら（2019年）による「Motor Learning」の深層分析に基づき、運動学習の定義、主要な研究パラダイム、神経科学的基盤、および将来の展望をまとめたものである。 ---</itunes:summary>
+      <guid isPermaLink="false">36ae56be2a087653bb3bd7939235100c</guid>
+      <pubDate>Mon, 27 Jul 2026 16:12:06 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Krakauer%20et%20al.%20%282019%29%20%E2%80%94%20Motor%20Learning/Krakauer_et_al_2019_radio.mp3" length="4959823" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Krakauer%20et%20al.%20%282019%29%20%E2%80%94%20Motor%20Learning/Krakauer_et_al_2019_infographic.png"/>
+    </item>
+    <item>
+      <title>Kirby et al. (2019) — Brain functional differences in visuo-motor task adaptation between dominant and non-dominant hand training</title>
+      <description>本資料は、視覚運動課題の習得および新しい条件への適応における、利き手（右手）と非利き手（左手）のトレーニングが脳機能に与える影響を比較した研究（Kirby et al., 2019）を分析したものである。 研究の結果、利き手と非利き手のどちらを訓練するかによって、脳の活動パターンが大幅に異なることが明らかになった。非利き手のトレーニングは、課題習得中の視覚および運動領域（左中後頭回、左中心前回）の</description>
+      <itunes:summary>本資料は、視覚運動課題の習得および新しい条件への適応における、利き手（右手）と非利き手（左手）のトレーニングが脳機能に与える影響を比較した研究（Kirby et al., 2019）を分析したものである。 研究の結果、利き手と非利き手のどちらを訓練するかによって、脳の活動パターンが大幅に異なることが明らかになった。非利き手のトレーニングは、課題習得中の視覚および運動領域（左中後頭回、左中心前回）の</itunes:summary>
+      <guid isPermaLink="false">5bfddfc55b2a3e4896d32db940ea7739</guid>
+      <pubDate>Mon, 27 Jul 2026 16:12:02 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Kirby%20et%20al.%20%282019%29%20%E2%80%94%20Brain%20functional%20differences%20in%20visuo-motor%20task%20adaptation%20between%20dominant%20and%20non-dominant%20hand%20training/Kirby_et_al_2019_radio.mp3" length="4570912" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Kirby%20et%20al.%20%282019%29%20%E2%80%94%20Brain%20functional%20differences%20in%20visuo-motor%20task%20adaptation%20between%20dominant%20and%20non-dominant%20hand%20training/Kirby_et_al_2019_infographic.png"/>
+    </item>
     <item>
       <title>Longo et al. (2022) — Distortion of mental body representations</title>
       <description>Trends in Cognitive Sciences, March 2022, Vol. 26, No. 3 * **健康な人においても身体表現の歪みは一般的である:** 身体の歪みや誤認は摂食障害や慢性疼痛などの臨床疾患において顕著な特徴ですが、疾患特有のものではなく、健康な人においても触覚の空間知覚、固有受容覚、意識的な身体イメージなどの領域で一般的に存在します。</description>
