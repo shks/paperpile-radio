@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Mon, 27 Jul 2026 12:47:57 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 13:55:24 +0900</lastBuildDate>
+    <item>
+      <title>Taylor-Clarke et al. (2004) — Keeping the world a constant size</title>
+      <description>Nature Neuroscience, 2004 * **部位による触覚距離の知覚バイアス（ウェーバーの錯覚）:** 触覚受容器の密度が高い部位（指や顔など）では、密度が低い部位（前腕や背中など）に比べて、同じ物理的距離の触覚刺激をより長く（大きく）感じる傾向があります。しかし、この知覚の差は、実際の受容器密度の違いから予測されるほどの大きさではありません。</description>
+      <itunes:summary>Nature Neuroscience, 2004 * **部位による触覚距離の知覚バイアス（ウェーバーの錯覚）:** 触覚受容器の密度が高い部位（指や顔など）では、密度が低い部位（前腕や背中など）に比べて、同じ物理的距離の触覚刺激をより長く（大きく）感じる傾向があります。しかし、この知覚の差は、実際の受容器密度の違いから予測されるほどの大きさではありません。</itunes:summary>
+      <guid isPermaLink="false">4c3a96806b0c52d5777aa146d01819ba</guid>
+      <pubDate>Mon, 27 Jul 2026 13:51:55 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Taylor-Clarke%20et%20al.%20%282004%29%20%E2%80%94%20Keeping%20the%20world%20a%20constant%20size/TaylorClarke_et_al_2004_radio.mp3" length="4905175" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Taylor-Clarke%20et%20al.%20%282004%29%20%E2%80%94%20Keeping%20the%20world%20a%20constant%20size/TaylorClarke_et_al_2004_infographic.png"/>
+    </item>
+    <item>
+      <title>Longo et al. (2022) — Distortion of mental body representations</title>
+      <description>Trends in Cognitive Sciences, March 2022, Vol. 26, No. 3 * **健康な人においても身体表現の歪みは一般的である:** 身体の歪みや誤認は摂食障害や慢性疼痛などの臨床疾患において顕著な特徴ですが、疾患特有のものではなく、健康な人においても触覚の空間知覚、固有受容覚、意識的な身体イメージなどの領域で一般的に存在します。</description>
+      <itunes:summary>Trends in Cognitive Sciences, March 2022, Vol. 26, No. 3 * **健康な人においても身体表現の歪みは一般的である:** 身体の歪みや誤認は摂食障害や慢性疼痛などの臨床疾患において顕著な特徴ですが、疾患特有のものではなく、健康な人においても触覚の空間知覚、固有受容覚、意識的な身体イメージなどの領域で一般的に存在します。</itunes:summary>
+      <guid isPermaLink="false">e3e592ca0dfd4bae7dcfea1331a29c8c</guid>
+      <pubDate>Mon, 27 Jul 2026 13:51:50 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Longo%20et%20al.%20%282022%29%20%E2%80%94%20Distortion%20of%20mental%20body%20representations/Longo_et_al_2022_radio.mp3" length="4730050" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Longo%20et%20al.%20%282022%29%20%E2%80%94%20Distortion%20of%20mental%20body%20representations/Longo_et_al_2022_infographic.png"/>
+    </item>
     <item>
       <title>Nishida et al. (2019) — Demonstrating preemptive reaction</title>
       <description>本資料は、西田氏ら（2019年）による、電気筋肉刺激（EMS）を用いて人間の反応速度を加速させつつ、自らが行動を起こしたという感覚（主体性：Sense of Agency）を維持する技術「プリエンプティブ・リアクション（先行的反応）」に関する研究をまとめたものである。 従来のハプティック・インターフェースやEMSを用いた支援システムは、反応速度を大幅に向上させる一方で、ユーザーの意図に基づかない不</description>
