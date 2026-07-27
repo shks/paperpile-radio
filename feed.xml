@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Mon, 27 Jul 2026 11:38:54 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 12:47:57 +0900</lastBuildDate>
+    <item>
+      <title>Nishida et al. (2019) — Demonstrating preemptive reaction</title>
+      <description>本資料は、西田氏ら（2019年）による、電気筋肉刺激（EMS）を用いて人間の反応速度を加速させつつ、自らが行動を起こしたという感覚（主体性：Sense of Agency）を維持する技術「プリエンプティブ・リアクション（先行的反応）」に関する研究をまとめたものである。 従来のハプティック・インターフェースやEMSを用いた支援システムは、反応速度を大幅に向上させる一方で、ユーザーの意図に基づかない不</description>
+      <itunes:summary>本資料は、西田氏ら（2019年）による、電気筋肉刺激（EMS）を用いて人間の反応速度を加速させつつ、自らが行動を起こしたという感覚（主体性：Sense of Agency）を維持する技術「プリエンプティブ・リアクション（先行的反応）」に関する研究をまとめたものである。 従来のハプティック・インターフェースやEMSを用いた支援システムは、反応速度を大幅に向上させる一方で、ユーザーの意図に基づかない不</itunes:summary>
+      <guid isPermaLink="false">aca1b3a8ac707cd757f5480631ea0fd3</guid>
+      <pubDate>Mon, 27 Jul 2026 12:42:54 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Nishida%20et%20al.%20%282019%29%20%E2%80%94%20Demonstrating%20preemptive%20reaction/Nishida_et_al_2019_radio.mp3" length="4370187" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Nishida%20et%20al.%20%282019%29%20%E2%80%94%20Demonstrating%20preemptive%20reaction/Nishida_et_al_2019_infographic.png"/>
+    </item>
+    <item>
+      <title>Cataldo et al. (2022) — Interplay of tactile and motor information in constructing spatial self-perception</title>
+      <description>本ドキュメントは、Cataldoら（2022年）による研究「Interplay of tactile and motor information in constructing spatial self-perception（空間的自己知覚の構築における触覚情報と運動情報の相互作用）」に基づき、自己触覚における身体意識の形成メカニズムを分析したものである。 ---</description>
+      <itunes:summary>本ドキュメントは、Cataldoら（2022年）による研究「Interplay of tactile and motor information in constructing spatial self-perception（空間的自己知覚の構築における触覚情報と運動情報の相互作用）」に基づき、自己触覚における身体意識の形成メカニズムを分析したものである。 ---</itunes:summary>
+      <guid isPermaLink="false">cd1b5e6e0c0cc2a64f5a32ed7ca3f5e9</guid>
+      <pubDate>Mon, 27 Jul 2026 12:42:54 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Cataldo%20et%20al.%20%282022%29%20%E2%80%94%20Interplay%20of%20tactile%20and%20motor%20information%20in%20constructing%20spatial%20self-perception/Cataldo_et_al_2022_radio.mp3" length="4205093" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Cataldo%20et%20al.%20%282022%29%20%E2%80%94%20Interplay%20of%20tactile%20and%20motor%20information%20in%20constructing%20spatial%20self-perception/Cataldo_et_al_2022_infographic.png"/>
+    </item>
     <item>
       <title>Serino et al. (2015) — Tuning of temporo-occipital activity by frontal oscillations during virtual mirror exposure causes erroneous self-recognition</title>
       <description>本資料は、Andrea Serino氏らによる研究「仮想鏡への露出中に生じる前頭部の振動による側頭後頭部活動の調整が、誤った自己認識を引き起こす（Tuning of temporo-occipital activity by frontal oscillations during virtual mirror exposure causes erroneous self-recognition）」</description>
