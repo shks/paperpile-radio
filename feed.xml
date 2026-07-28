@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Wed, 29 Jul 2026 06:42:57 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 08:00:50 +0900</lastBuildDate>
+    <item>
+      <title>Schjerlund et al. (2021) — Ninja Hands</title>
+      <description>本ドキュメントは、VR（バーチャルリアリティ）環境におけるターゲット選択の効率と身体的負担を改善するために開発されたインタラクション手法「Ninja Hands」に関する研究結果および分析をまとめたものである。 ---</description>
+      <itunes:summary>本ドキュメントは、VR（バーチャルリアリティ）環境におけるターゲット選択の効率と身体的負担を改善するために開発されたインタラクション手法「Ninja Hands」に関する研究結果および分析をまとめたものである。 ---</itunes:summary>
+      <guid isPermaLink="false">522d8ce585115a71dc2720ed6f9f09db</guid>
+      <pubDate>Wed, 29 Jul 2026 08:00:15 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Schjerlund%20et%20al.%20%282021%29%20%E2%80%94%20Ninja%20Hands/Schjerlund_et_al_2021_radio.mp3" length="3030732" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Schjerlund%20et%20al.%20%282021%29%20%E2%80%94%20Ninja%20Hands/Schjerlund_et_al_2021_infographic.png"/>
+    </item>
+    <item>
+      <title>Lotti et al. (2020) — Adaptive Model-Based Myoelectric Control</title>
+      <description>本ドキュメントは、Lottiら（2020年）による研究「Adaptive Model-Based Myoelectric Control for a Soft Wearable Arm Exosuit」に基づき、次世代のウェアラブル・ロボット制御技術、特にソフト・エクサスーツと筋骨格モデルを統合した新しいヒューマン・マシン・インターフェース（HMI）の成果と洞察をまとめたものである。 ---</description>
+      <itunes:summary>本ドキュメントは、Lottiら（2020年）による研究「Adaptive Model-Based Myoelectric Control for a Soft Wearable Arm Exosuit」に基づき、次世代のウェアラブル・ロボット制御技術、特にソフト・エクサスーツと筋骨格モデルを統合した新しいヒューマン・マシン・インターフェース（HMI）の成果と洞察をまとめたものである。 ---</itunes:summary>
+      <guid isPermaLink="false">6fb269cb2a7ea2c63cc4dc499c6e9b43</guid>
+      <pubDate>Wed, 29 Jul 2026 08:00:13 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Lotti%20et%20al.%20%282020%29%20%E2%80%94%20Adaptive%20Model-Based%20Myoelectric%20Control/Lotti_et_al_2020_radio.mp3" length="4659832" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Lotti%20et%20al.%20%282020%29%20%E2%80%94%20Adaptive%20Model-Based%20Myoelectric%20Control/Lotti_et_al_2020_infographic.png"/>
+    </item>
     <item>
       <title>Yon et al. (2019) — Action biases perceptual decisions toward expected outcomes</title>
       <description>本文書は、Daniel Yon氏らによる研究論文「Action biases perceptual decisions toward expected outcomes（行動は期待される結果へと知覚的決定をバイアスさせる）」の詳細な分析に基づき、その主要な知見、理論的背景、および示唆をまとめたブリーフィング・ドキュメントである。 ---</description>
