@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Wed, 29 Jul 2026 04:30:51 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 05:37:13 +0900</lastBuildDate>
+    <item>
+      <title>Yon et al. (2019) — Action biases perceptual decisions toward expected outcomes</title>
+      <description>本文書は、Daniel Yon氏らによる研究論文「Action biases perceptual decisions toward expected outcomes（行動は期待される結果へと知覚的決定をバイアスさせる）」の詳細な分析に基づき、その主要な知見、理論的背景、および示唆をまとめたブリーフィング・ドキュメントである。 ---</description>
+      <itunes:summary>本文書は、Daniel Yon氏らによる研究論文「Action biases perceptual decisions toward expected outcomes（行動は期待される結果へと知覚的決定をバイアスさせる）」の詳細な分析に基づき、その主要な知見、理論的背景、および示唆をまとめたブリーフィング・ドキュメントである。 ---</itunes:summary>
+      <guid isPermaLink="false">ce0a3d9708eebcf0bea1308e73265223</guid>
+      <pubDate>Wed, 29 Jul 2026 05:34:27 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Yon%20et%20al.%20%282019%29%20%E2%80%94%20Action%20biases%20perceptual%20decisions%20toward%20expected%20outcomes/Yon%20et%20al.%202019_radio.mp3" length="4030386" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Yon%20et%20al.%20%282019%29%20%E2%80%94%20Action%20biases%20perceptual%20decisions%20toward%20expected%20outcomes/Yon%20et%20al.%202019_infographic.png"/>
+    </item>
+    <item>
+      <title>Wang et al. (2021) — Task Autocorrection for Immersive Teleoperation</title>
+      <description>本報告書は、混合現実（MR）デバイスを活用したロボットアームの没入型テレオペレーションにおいて、ユーザーの意図を予測し動作を自動補正する革新的なシステムに関する研究結果をまとめたものである。 ---</description>
+      <itunes:summary>本報告書は、混合現実（MR）デバイスを活用したロボットアームの没入型テレオペレーションにおいて、ユーザーの意図を予測し動作を自動補正する革新的なシステムに関する研究結果をまとめたものである。 ---</itunes:summary>
+      <guid isPermaLink="false">a7582197a90e663612c2e076b9f1b05b</guid>
+      <pubDate>Wed, 29 Jul 2026 05:34:24 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Wang%20et%20al.%20%282021%29%20%E2%80%94%20Task%20Autocorrection%20for%20Immersive%20Teleoperation/Wang%20et%20al.%202021_radio.mp3" length="3924224" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Wang%20et%20al.%20%282021%29%20%E2%80%94%20Task%20Autocorrection%20for%20Immersive%20Teleoperation/Wang%20et%20al.%202021_infographic.png"/>
+    </item>
     <item>
       <title>Liu et al. (2019) — Review of Image Memorability Prediction</title>
       <description>本ドキュメントは、ハルビン工程大学の研究者らによる論文「Review of Image Memorability Prediction（画像記憶力予測に関するレビュー）」に基づき、画像記憶力の概念、影響要因、予測手法、および将来の展望をまとめたものである。 画像記憶力（Image Memorability）とは、画像が人の記憶に留まる確率を示す指標であり、個人の好みを超えた「画像固有かつ安定した属</description>
