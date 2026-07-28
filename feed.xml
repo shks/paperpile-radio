@@ -10,7 +10,43 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Wed, 29 Jul 2026 02:04:50 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 03:21:49 +0900</lastBuildDate>
+    <item>
+      <title>Liu et al. (2019) — Review of Image Memorability Prediction</title>
+      <description>本ドキュメントは、ハルビン工程大学の研究者らによる論文「Review of Image Memorability Prediction（画像記憶力予測に関するレビュー）」に基づき、画像記憶力の概念、影響要因、予測手法、および将来の展望をまとめたものである。 画像記憶力（Image Memorability）とは、画像が人の記憶に留まる確率を示す指標であり、個人の好みを超えた「画像固有かつ安定した属</description>
+      <itunes:summary>本ドキュメントは、ハルビン工程大学の研究者らによる論文「Review of Image Memorability Prediction（画像記憶力予測に関するレビュー）」に基づき、画像記憶力の概念、影響要因、予測手法、および将来の展望をまとめたものである。 画像記憶力（Image Memorability）とは、画像が人の記憶に留まる確率を示す指標であり、個人の好みを超えた「画像固有かつ安定した属</itunes:summary>
+      <guid isPermaLink="false">b5d698d95eea1b3fb01f29bcacbde8b9</guid>
+      <pubDate>Wed, 29 Jul 2026 03:21:12 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Liu%20et%20al.%20%282019%29%20%E2%80%94%20Review%20of%20Image%20Memorability%20Prediction/Liu_et_al_2019_radio.mp3" length="4121501" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Liu%20et%20al.%20%282019%29%20%E2%80%94%20Review%20of%20Image%20Memorability%20Prediction/Liu_et_al_2019_infographic.png"/>
+    </item>
+    <item>
+      <title>Tanaka and Watanabe (2018) — Effects of model types in observational learning on implicit sequential learning</title>
+      <description>本ドキュメントは、田中（Kanji Tanaka）および渡辺（Katsumi Watanabe）による2018年の研究「Effects of model types in observational learning on implicit sequential learning（観察学習におけるモデルのタイプが潜在的潜在的系列学習に与える影響）」に基づき、主要な知見、分析、および実用的な洞察をま</description>
+      <itunes:summary>本ドキュメントは、田中（Kanji Tanaka）および渡辺（Katsumi Watanabe）による2018年の研究「Effects of model types in observational learning on implicit sequential learning（観察学習におけるモデルのタイプが潜在的潜在的系列学習に与える影響）」に基づき、主要な知見、分析、および実用的な洞察をま</itunes:summary>
+      <guid isPermaLink="false">93a705b1f4c33ef2f9167aa40b59f756</guid>
+      <pubDate>Wed, 29 Jul 2026 03:21:09 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Tanaka%20and%20Watanabe%20%282018%29%20%E2%80%94%20Effects%20of%20model%20types%20in%20observational%20learning%20on%20implicit%20sequential%20learning/Tanaka_and_Watanabe_2018_radio.mp3" length="3578154" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Tanaka%20and%20Watanabe%20%282018%29%20%E2%80%94%20Effects%20of%20model%20types%20in%20observational%20learning%20on%20implicit%20sequential%20learning/Tanaka_and_Watanabe_2018_infographic.png"/>
+    </item>
+    <item>
+      <title>Vechev et al. (2019) — TacTiles</title>
+      <description>本文書は、ETH ZurichおよびEPFLの研究チームによって開発された革新的な触覚アクチュエータ「TacTiles」に関する詳細なブリーフィングである。VR（バーチャルリアリティ）空間における没入感を高めるためには、仮想物体との接触や表面の質感をリアルに伝える触覚フィードバックが不可欠である。 TacTilesは、従来の振動型アクチュエータの限界を克服し、小型（1cm³）、軽量（1.8g）、か</description>
+      <itunes:summary>本文書は、ETH ZurichおよびEPFLの研究チームによって開発された革新的な触覚アクチュエータ「TacTiles」に関する詳細なブリーフィングである。VR（バーチャルリアリティ）空間における没入感を高めるためには、仮想物体との接触や表面の質感をリアルに伝える触覚フィードバックが不可欠である。 TacTilesは、従来の振動型アクチュエータの限界を克服し、小型（1cm³）、軽量（1.8g）、か</itunes:summary>
+      <guid isPermaLink="false">fa2e39331db9f838f872e4f6390cf20b</guid>
+      <pubDate>Wed, 29 Jul 2026 03:10:07 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Vechev%20et%20al.%20%282019%29%20%E2%80%94%20TacTiles/Vechev_et_al_2019_radio.mp3" length="4769233" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Vechev%20et%20al.%20%282019%29%20%E2%80%94%20TacTiles/Vechev_et_al_2019_infographic.png"/>
+    </item>
+    <item>
+      <title>Heiner and Asokan (2008) — Using Salience Differentials</title>
+      <description>本ドキュメントは、Andreas Heiner氏およびN. Asokan氏（Nokia Research Center）による研究「Using Salience Differentials to Making Visual Cues Noticeable」に基づき、ユーザーインターフェース設計における視覚的メッセージの視認性を高めるための新しいアプローチをまとめたものである。 ---</description>
+      <itunes:summary>本ドキュメントは、Andreas Heiner氏およびN. Asokan氏（Nokia Research Center）による研究「Using Salience Differentials to Making Visual Cues Noticeable」に基づき、ユーザーインターフェース設計における視覚的メッセージの視認性を高めるための新しいアプローチをまとめたものである。 ---</itunes:summary>
+      <guid isPermaLink="false">d932ef06187fa3092d16b1a3fa452880</guid>
+      <pubDate>Wed, 29 Jul 2026 03:10:03 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Heiner%20and%20Asokan%20%282008%29%20%E2%80%94%20Using%20Salience%20Differentials/Heiner_and_Asokan_2008_radio.mp3" length="5199836" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Heiner%20and%20Asokan%20%282008%29%20%E2%80%94%20Using%20Salience%20Differentials/Heiner_and_Asokan_2008_infographic.png"/>
+    </item>
     <item>
       <title>Tajadura-Jiménez et al. (2015) — As Light as your Footsteps</title>
       <description>本報告書は、歩行時に発生する自身の足音の周波数特性をリアルタイムで変化させることにより、個人の身体知覚、情動、および歩行行動（歩容）にどのような影響を及ぼすかを調査した研究に基づいている。 現代社会における運動不足や身体イメージへの懸念という課題に対し、従来の目標設定や報酬に基づくアプローチとは異なる、神経科学的知見を活用した新しい手法が提案されている。研究の結果、足音の高周波成分を強調することで</description>
