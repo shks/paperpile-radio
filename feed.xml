@@ -10,7 +10,43 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Thu, 30 Jul 2026 01:13:45 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 02:29:51 +0900</lastBuildDate>
+    <item>
+      <title>Guterstam et al. (2020) — Duplication of the bodily self</title>
+      <description>本レポートは、Guterstamら（2020年）による、多感覚統合を通じて人間の健康な参加者に「二つの身体を同時に所有している」および「二つの場所に同時に存在している」という感覚（錯覚）を誘発できるかを検証した研究をまとめたものである。 本研究は、健康な人間が二つの全身を同時に所有し、さらに単一であるはずの自己位置の感覚を二つに分割できるかどうかを調査した。ヘッドマウントディスプレイ（HMD）を用</description>
+      <itunes:summary>本レポートは、Guterstamら（2020年）による、多感覚統合を通じて人間の健康な参加者に「二つの身体を同時に所有している」および「二つの場所に同時に存在している」という感覚（錯覚）を誘発できるかを検証した研究をまとめたものである。 本研究は、健康な人間が二つの全身を同時に所有し、さらに単一であるはずの自己位置の感覚を二つに分割できるかどうかを調査した。ヘッドマウントディスプレイ（HMD）を用</itunes:summary>
+      <guid isPermaLink="false">461b64d05a91895774eed8a7239472f7</guid>
+      <pubDate>Thu, 30 Jul 2026 02:29:18 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Guterstam%20et%20al.%20%282020%29%20%E2%80%94%20Duplication%20of%20the%20bodily%20self/Guterstam_2020_radio.mp3" length="4653459" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Guterstam%20et%20al.%20%282020%29%20%E2%80%94%20Duplication%20of%20the%20bodily%20self/Guterstam_2020_infographic.png"/>
+    </item>
+    <item>
+      <title>Zhang et al. (2022) — Working memory for spatial sequences</title>
+      <description>本ドキュメントは、Zhangら（2022年）による研究「Working Memory for Spatial Sequences: Developmental and Evolutionary Factors in Encoding Ordinal and Relational Structures」に基づき、ヒトの大人、子供、およびマカクザルにおける空間シーケンスの保持と符号化メカニズムを比較・</description>
+      <itunes:summary>本ドキュメントは、Zhangら（2022年）による研究「Working Memory for Spatial Sequences: Developmental and Evolutionary Factors in Encoding Ordinal and Relational Structures」に基づき、ヒトの大人、子供、およびマカクザルにおける空間シーケンスの保持と符号化メカニズムを比較・</itunes:summary>
+      <guid isPermaLink="false">cdcf3f6fb60feb2f276c5f8015dae535</guid>
+      <pubDate>Thu, 30 Jul 2026 02:29:13 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Zhang%20et%20al.%20%282022%29%20%E2%80%94%20Working%20memory%20for%20spatial%20sequences/Zhang_2022_radio.mp3" length="4332675" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Zhang%20et%20al.%20%282022%29%20%E2%80%94%20Working%20memory%20for%20spatial%20sequences/Zhang_2022_infographic.png"/>
+    </item>
+    <item>
+      <title>Andres et al. (2020) — Introducing Peripheral Awareness as a Neurological State for Human-computer Integration</title>
+      <description>本ドキュメントは、人間とコンピュータの統合（Human-Computer Integration）における新たな神経学的状態として「周辺視野意識（Peripheral Awareness）」を導入した研究報告書「Ena, the eBike」に基づく要約である。 従来、人間とコンピュータの関係は「操作（Interaction）」や「拡張（Augmentation）」の枠組みで捉えられてきたが、本研</description>
+      <itunes:summary>本ドキュメントは、人間とコンピュータの統合（Human-Computer Integration）における新たな神経学的状態として「周辺視野意識（Peripheral Awareness）」を導入した研究報告書「Ena, the eBike」に基づく要約である。 従来、人間とコンピュータの関係は「操作（Interaction）」や「拡張（Augmentation）」の枠組みで捉えられてきたが、本研</itunes:summary>
+      <guid isPermaLink="false">5d50c2bcd0bbb81b97fac7eaee48a659</guid>
+      <pubDate>Thu, 30 Jul 2026 02:16:57 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Andres%20et%20al.%20%282020%29%20%E2%80%94%20Introducing%20Peripheral%20Awareness%20as%20a%20Neurological%20State%20for%20Human-computer%20Integration/Andres_2020_radio.mp3" length="3204290" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Andres%20et%20al.%20%282020%29%20%E2%80%94%20Introducing%20Peripheral%20Awareness%20as%20a%20Neurological%20State%20for%20Human-computer%20Integration/Andres_2020_infographic.png"/>
+    </item>
+    <item>
+      <title>Farooq and Grudin (2017) — Paradigm Shift from Human Computer Interaction to Integration</title>
+      <description>本資料は、Umer Farooq氏（Facebook）とJonathan T. Grudin氏（Microsoft）による論文およびCHI 2017での議論に基づき、人間とコンピュータの関係性における歴史的な転換点を分析したものである。 長年続いてきた「人間とコンピュータの相互作用（HCI）」の時代は、人間とソフトウェアが互いに自律性を持って行動し、パートナーシップを築く「人間とコンピュータの統合</description>
+      <itunes:summary>本資料は、Umer Farooq氏（Facebook）とJonathan T. Grudin氏（Microsoft）による論文およびCHI 2017での議論に基づき、人間とコンピュータの関係性における歴史的な転換点を分析したものである。 長年続いてきた「人間とコンピュータの相互作用（HCI）」の時代は、人間とソフトウェアが互いに自律性を持って行動し、パートナーシップを築く「人間とコンピュータの統合</itunes:summary>
+      <guid isPermaLink="false">1a6682805da309081b9617ea2135904a</guid>
+      <pubDate>Thu, 30 Jul 2026 02:16:54 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Farooq%20and%20Grudin%20%282017%29%20%E2%80%94%20Paradigm%20Shift%20from%20Human%20Computer%20Interaction%20to%20Integration/Farooq_Grudin_2017_radio.mp3" length="3977514" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Farooq%20and%20Grudin%20%282017%29%20%E2%80%94%20Paradigm%20Shift%20from%20Human%20Computer%20Interaction%20to%20Integration/Farooq_Grudin_2017_infographic.png"/>
+    </item>
     <item>
       <title>Pataranutaporn et al. (2021) — Machinoia, Machine of Multiple Me</title>
       <description>本文書は、MITメディアラボの研究者らによって提案されたウェアラブル・インスタレーション「Machinoia（マキノイア）」に関する包括的な分析である。Machinoiaは、AI（人工知能）を用いてユーザーの「過去の自己」と「未来の自己」を2つの追加の頭部として具現化し、それらと対話することを可能にする共生的な拡張システムである。 このプロジェクトの核心は、身体と精神の境界が固定されたものではなく</description>
