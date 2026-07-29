@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Wed, 29 Jul 2026 18:06:22 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 19:14:40 +0900</lastBuildDate>
+    <item>
+      <title>McNamara et al. (2009) — Search task performance</title>
+      <description>本ドキュメントは、McNamaraら（2009年）による研究「Search task performance using subtle gaze direction with the presence of distractions」に基づき、画像空間変調技術である「Subtle Gaze Direction（SGD：控えめな視線誘導）」が視覚探索タスクに与える影響とその有効性についてまとめたもの</description>
+      <itunes:summary>本ドキュメントは、McNamaraら（2009年）による研究「Search task performance using subtle gaze direction with the presence of distractions」に基づき、画像空間変調技術である「Subtle Gaze Direction（SGD：控えめな視線誘導）」が視覚探索タスクに与える影響とその有効性についてまとめたもの</itunes:summary>
+      <guid isPermaLink="false">a655a71fa8c8f73d6a1dffa558058bc6</guid>
+      <pubDate>Wed, 29 Jul 2026 19:11:04 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/McNamara%20et%20al.%20%282009%29%20%E2%80%94%20Search%20task%20performance/McNamara_et_al_2009_radio.mp3" length="5741197" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/McNamara%20et%20al.%20%282009%29%20%E2%80%94%20Search%20task%20performance/McNamara_et_al_2009_infographic.png"/>
+    </item>
+    <item>
+      <title>Abekawa et al. (2021) — Gaze control during reaching</title>
+      <description>本ドキュメントは、Abekawaら（2021年）による研究論文「Gaze control during reaching is flexibly modulated to optimize task outcome（リーチ動作中の視線制御はタスクの成果を最適化するために柔軟に調整される）」に基づき、眼と手の協調制御における最新の知見をまとめたものである。 ---</description>
+      <itunes:summary>本ドキュメントは、Abekawaら（2021年）による研究論文「Gaze control during reaching is flexibly modulated to optimize task outcome（リーチ動作中の視線制御はタスクの成果を最適化するために柔軟に調整される）」に基づき、眼と手の協調制御における最新の知見をまとめたものである。 ---</itunes:summary>
+      <guid isPermaLink="false">f91302dea4f3fc36f3ded60b4b499d07</guid>
+      <pubDate>Wed, 29 Jul 2026 19:11:00 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Abekawa%20et%20al.%20%282021%29%20%E2%80%94%20Gaze%20control%20during%20reaching/Abekawa_et_al_2021_radio.mp3" length="4465481" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Abekawa%20et%20al.%20%282021%29%20%E2%80%94%20Gaze%20control%20during%20reaching/Abekawa_et_al_2021_infographic.png"/>
+    </item>
     <item>
       <title>McNamara et al. (2009) — Search task performance using subtle gaze direction</title>
       <description>本ドキュメントは、McNamaraら（2009年）による研究「Search task performance using subtle gaze direction with the presence of distractions」に基づき、画像空間変調技術である「Subtle Gaze Direction（SGD：控えめな視線誘導）」が視覚探索タスクに与える影響とその有効性についてまとめたもの</description>
