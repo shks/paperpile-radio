@@ -10,7 +10,23 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Thu, 30 Jul 2026 00:05:37 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 01:13:45 +0900</lastBuildDate>
+    <item>
+      <title>Pataranutaporn et al. (2021) — Machinoia, Machine of Multiple Me</title>
+      <description>本文書は、MITメディアラボの研究者らによって提案されたウェアラブル・インスタレーション「Machinoia（マキノイア）」に関する包括的な分析である。Machinoiaは、AI（人工知能）を用いてユーザーの「過去の自己」と「未来の自己」を2つの追加の頭部として具現化し、それらと対話することを可能にする共生的な拡張システムである。 このプロジェクトの核心は、身体と精神の境界が固定されたものではなく</description>
+      <itunes:summary>本文書は、MITメディアラボの研究者らによって提案されたウェアラブル・インスタレーション「Machinoia（マキノイア）」に関する包括的な分析である。Machinoiaは、AI（人工知能）を用いてユーザーの「過去の自己」と「未来の自己」を2つの追加の頭部として具現化し、それらと対話することを可能にする共生的な拡張システムである。 このプロジェクトの核心は、身体と精神の境界が固定されたものではなく</itunes:summary>
+      <guid isPermaLink="false">c7e64705c81269b3ade04da408ff902d</guid>
+      <pubDate>Thu, 30 Jul 2026 01:08:55 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Pataranutaporn%20et%20al.%20%282021%29%20%E2%80%94%20Machinoia%2C%20Machine%20of%20Multiple%20Me/Pataranutaporn_2021_radio.mp3" length="5392097" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Ehrsson (2009) — How many arms make a pair</title>
+      <description>本資料は、H. Henrik Ehrsson（カロリンスカ研究所）による研究「How many arms make a pair? Perceptual illusion of having an additional limb（一組の腕は何本で構成されるか？：追加の肢を持つ知覚的錯覚）」に基づき、人間の身体表現の柔軟性と制約についてまとめたものである。 本研究は、健常な個人が「2本の右腕」を持ち</description>
+      <itunes:summary>本資料は、H. Henrik Ehrsson（カロリンスカ研究所）による研究「How many arms make a pair? Perceptual illusion of having an additional limb（一組の腕は何本で構成されるか？：追加の肢を持つ知覚的錯覚）」に基づき、人間の身体表現の柔軟性と制約についてまとめたものである。 本研究は、健常な個人が「2本の右腕」を持ち</itunes:summary>
+      <guid isPermaLink="false">d0e522dd9c0e1ed212bb12b616d10899</guid>
+      <pubDate>Thu, 30 Jul 2026 01:08:51 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Ehrsson%20%282009%29%20%E2%80%94%20How%20many%20arms%20make%20a%20pair/Ehrsson_2009_radio.mp3" length="3778879" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Bergström et al. (2019) — Tool Extension</title>
       <description>本ドキュメントは、Joanna Bergströmらによる研究論文「Tool Extension in Human-Computer Interaction（ヒューマン・コンピュータ・インタラクションにおける道具の拡張）」に基づき、コンピュータベースの道具が人間の身体図式にどのように統合されるか、そしてそれをいかに定量的に測定するかについての主要な知見をまとめたものである。 本研究は、心理学や神経</description>
