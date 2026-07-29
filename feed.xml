@@ -10,7 +10,23 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Wed, 29 Jul 2026 22:57:31 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 00:05:37 +0900</lastBuildDate>
+    <item>
+      <title>Bergström et al. (2019) — Tool Extension</title>
+      <description>本ドキュメントは、Joanna Bergströmらによる研究論文「Tool Extension in Human-Computer Interaction（ヒューマン・コンピュータ・インタラクションにおける道具の拡張）」に基づき、コンピュータベースの道具が人間の身体図式にどのように統合されるか、そしてそれをいかに定量的に測定するかについての主要な知見をまとめたものである。 本研究は、心理学や神経</description>
+      <itunes:summary>本ドキュメントは、Joanna Bergströmらによる研究論文「Tool Extension in Human-Computer Interaction（ヒューマン・コンピュータ・インタラクションにおける道具の拡張）」に基づき、コンピュータベースの道具が人間の身体図式にどのように統合されるか、そしてそれをいかに定量的に測定するかについての主要な知見をまとめたものである。 本研究は、心理学や神経</itunes:summary>
+      <guid isPermaLink="false">846c80571a26a42c8baa13fadc5cd188</guid>
+      <pubDate>Thu, 30 Jul 2026 00:01:57 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Bergstr%C3%B6m%20et%20al.%20%282019%29%20%E2%80%94%20Tool%20Extension/Bergstr%C3%B6m%20et%20al.%20%282019%29%20%E2%80%94%20Tool%20Extension_radio.mp3" length="4710510" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Tahir et al. (2021) — Seeing is Believing</title>
+      <description>本ドキュメントは、Rashid Tahir氏らによる研究論文「Seeing is Believing: Exploring Perceptual Differences in DeepFake Videos（百聞は一見に如かず：ディープフェイク動画における知覚的差異の探求）」に基づき、ディープフェイクの脅威、人間とAIの知覚の違い、および教育訓練の効果についてまとめたものである。 AI技術の急速な</description>
+      <itunes:summary>本ドキュメントは、Rashid Tahir氏らによる研究論文「Seeing is Believing: Exploring Perceptual Differences in DeepFake Videos（百聞は一見に如かず：ディープフェイク動画における知覚的差異の探求）」に基づき、ディープフェイクの脅威、人間とAIの知覚の違い、および教育訓練の効果についてまとめたものである。 AI技術の急速な</itunes:summary>
+      <guid isPermaLink="false">0fa679f89fac484bd9d654247bb0b303</guid>
+      <pubDate>Thu, 30 Jul 2026 00:01:52 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Tahir%20et%20al.%20%282021%29%20%E2%80%94%20Seeing%20is%20Believing/Tahir%20et%20al.%20%282021%29%20%E2%80%94%20Seeing%20is%20Believing_radio.mp3" length="3096979" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Levin et al. (2015) — Emergence of VR for upper limb</title>
       <description>本ブリーフィング・ドキュメントは、Levinら（2015年）による研究論文「Emergence of Virtual Reality as a Tool for Upper Limb Rehabilitation: Incorporation of Motor Control and Motor Learning Principles」に基づき、脳損傷後の上肢リハビリテーションにおけるVR技術の活</description>
