@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Wed, 29 Jul 2026 19:14:40 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 20:31:36 +0900</lastBuildDate>
+    <item>
+      <title>Albert et al. (2021) — An implicit memory of errors limits human sensorimotor adaptation</title>
+      <description>本資料は、Albertら（2021年）の研究に基づき、ヒトの感覚運動学習（運動適応）において、なぜ練習を重ねても誤差が完全に解消されず「残留誤差」が生じるのか、そのメカニズムを解説するものである。 研究の結果、運動適応の限界は**潜在的（implicit）学習システム**の特性に起因することが明らかになった。外部からの摂動（妨害）のばらつき（分散）が大きくなると、潜在的システムにおける「誤差感受性</description>
+      <itunes:summary>本資料は、Albertら（2021年）の研究に基づき、ヒトの感覚運動学習（運動適応）において、なぜ練習を重ねても誤差が完全に解消されず「残留誤差」が生じるのか、そのメカニズムを解説するものである。 研究の結果、運動適応の限界は**潜在的（implicit）学習システム**の特性に起因することが明らかになった。外部からの摂動（妨害）のばらつき（分散）が大きくなると、潜在的システムにおける「誤差感受性</itunes:summary>
+      <guid isPermaLink="false">931e278eafc49fd4baf4f9ef50a99e1c</guid>
+      <pubDate>Wed, 29 Jul 2026 20:31:12 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Albert%20et%20al.%20%282021%29%20%E2%80%94%20An%20implicit%20memory%20of%20errors%20limits%20human%20sensorimotor%20adaptation/Albert_et_al_2021_radio.mp3" length="3957557" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Albert%20et%20al.%20%282021%29%20%E2%80%94%20An%20implicit%20memory%20of%20errors%20limits%20human%20sensorimotor%20adaptation/Albert_et_al_2021_infographic.png"/>
+    </item>
+    <item>
+      <title>Ceylan et al. (2021) — Serial dependence</title>
+      <description>本ドキュメントは、Gizay Ceylan、Michael H. Herzog、David Pascucciによる研究論文「Serial dependence does not originate from low-level visual processing（逐次依存性は低次の視覚処理に由来しない）」（2021年）に基づき、逐次依存性（Serial Dependence; SD）のメカニズムと</description>
+      <itunes:summary>本ドキュメントは、Gizay Ceylan、Michael H. Herzog、David Pascucciによる研究論文「Serial dependence does not originate from low-level visual processing（逐次依存性は低次の視覚処理に由来しない）」（2021年）に基づき、逐次依存性（Serial Dependence; SD）のメカニズムと</itunes:summary>
+      <guid isPermaLink="false">0f287d93e213062d28094ec7b28d72d9</guid>
+      <pubDate>Wed, 29 Jul 2026 20:31:08 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Ceylan%20et%20al.%20%282021%29%20%E2%80%94%20Serial%20dependence/Ceylan_et_al_2021_radio.mp3" length="4721168" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Ceylan%20et%20al.%20%282021%29%20%E2%80%94%20Serial%20dependence/Ceylan_et_al_2021_infographic.png"/>
+    </item>
     <item>
       <title>McNamara et al. (2009) — Search task performance</title>
       <description>本ドキュメントは、McNamaraら（2009年）による研究「Search task performance using subtle gaze direction with the presence of distractions」に基づき、画像空間変調技術である「Subtle Gaze Direction（SGD：控えめな視線誘導）」が視覚探索タスクに与える影響とその有効性についてまとめたもの</description>
