@@ -10,15 +10,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Wed, 29 Jul 2026 13:32:52 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 16:53:17 +0900</lastBuildDate>
     <item>
       <title>McNamara et al. (2009) — Search task performance using subtle gaze direction</title>
       <description>本ドキュメントは、McNamaraら（2009年）による研究「Search task performance using subtle gaze direction with the presence of distractions」に基づき、画像空間変調技術である「Subtle Gaze Direction（SGD：控えめな視線誘導）」が視覚探索タスクに与える影響とその有効性についてまとめたもの</description>
       <itunes:summary>本ドキュメントは、McNamaraら（2009年）による研究「Search task performance using subtle gaze direction with the presence of distractions」に基づき、画像空間変調技術である「Subtle Gaze Direction（SGD：控えめな視線誘導）」が視覚探索タスクに与える影響とその有効性についてまとめたもの</itunes:summary>
       <guid isPermaLink="false">eb5f1c6ae2ae9416e6deb0363b0fcde4</guid>
-      <pubDate>Wed, 29 Jul 2026 10:17:49 +0900</pubDate>
-      <enclosure url="https://shks.github.io/paperpile-radio/episodes/McNamara%20et%20al.%20%282009%29%20%E2%80%94%20Search%20task%20performance%20using%20subtle%20gaze%20direction/McNamara%20et%20al.%202009%20-%20Search%20task%20performance_radio.mp3" length="5741197" type="audio/mpeg"/>
-      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/McNamara%20et%20al.%20%282009%29%20%E2%80%94%20Search%20task%20performance%20using%20subtle%20gaze%20direction/McNamara%20et%20al.%202009%20-%20Search%20task%20performance%20using%20subtle%20gaze%20direction_infographic.png"/>
+      <pubDate>Wed, 29 Jul 2026 16:51:24 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/McNamara%20et%20al.%20%282009%29%20%E2%80%94%20Search%20task%20performance%20using%20subtle%20gaze%20direction/McNamara_et_al_2009_Search_task_radio.mp3" length="5741197" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/McNamara%20et%20al.%20%282009%29%20%E2%80%94%20Search%20task%20performance%20using%20subtle%20gaze%20direction/McNamara_et_al_2009_Search_task_infographic.png"/>
+    </item>
+    <item>
+      <title>Maekawa et al. (2020) — The Tight Game - Implicit Force Intervention</title>
+      <description>本文書は、東京大学およびソニーCSLの研究チーム（Maekawa et al. 2020）によって開発された、対人物理インタラクションシステム「The Tight Game」に関する技術的分析と洞察をまとめたものである。本プロジェクトは、身体能力の差を技術的に補完しつつ、プレイヤーの「主体感（Sense of Agency）」を損なわずに白熱した試合（Tight Game）を演出する手法を提示して</description>
+      <itunes:summary>本文書は、東京大学およびソニーCSLの研究チーム（Maekawa et al. 2020）によって開発された、対人物理インタラクションシステム「The Tight Game」に関する技術的分析と洞察をまとめたものである。本プロジェクトは、身体能力の差を技術的に補完しつつ、プレイヤーの「主体感（Sense of Agency）」を損なわずに白熱した試合（Tight Game）を演出する手法を提示して</itunes:summary>
+      <guid isPermaLink="false">b7ac4ca37c4a7ed3082e61e4e2209a95</guid>
+      <pubDate>Wed, 29 Jul 2026 16:51:20 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Maekawa%20et%20al.%20%282020%29%20%E2%80%94%20The%20Tight%20Game%20-%20Implicit%20Force%20Intervention/Maekawa_et_al_2020_Tight_Game_radio.mp3" length="2970441" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Maekawa%20et%20al.%20%282020%29%20%E2%80%94%20The%20Tight%20Game%20-%20Implicit%20Force%20Intervention/Maekawa_et_al_2020_Tight_Game_infographic.png"/>
     </item>
     <item>
       <title>Maekawa et al. (2020) — The Tight Game</title>
