@@ -10,7 +10,23 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Sat, 15 Aug 2026 19:03:56 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 00:21:13 +0900</lastBuildDate>
+    <item>
+      <title>Blakemore et al. (1998) — Predicting the consequences of our own actions</title>
+      <description>本報告書は、Sarah J. Blakemore氏、Susan J. Goodbody氏、およびDaniel M. Wolpert氏による研究「Predicting the Consequences of Our Own Actions: The Role of Sensorimotor Context Estimation（自己の行動の結果の予測：感覚運動コンテキスト推定の役割）」に基づき、自己</description>
+      <itunes:summary>本報告書は、Sarah J. Blakemore氏、Susan J. Goodbody氏、およびDaniel M. Wolpert氏による研究「Predicting the Consequences of Our Own Actions: The Role of Sensorimotor Context Estimation（自己の行動の結果の予測：感覚運動コンテキスト推定の役割）」に基づき、自己</itunes:summary>
+      <guid isPermaLink="false">5034811676a61a6e2a827eda983d85de</guid>
+      <pubDate>Sat, 15 Aug 2026 21:30:54 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Blakemore%20et%20al.%20%281998%29%20%E2%80%94%20Predicting%20the%20consequences%20of%20our%20own%20actions/Blakemore%20et%20al.%201998%20-%20Predicting%20the%20consequences%20of%20our%20own%20actions_radio.mp3" length="4287744" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Hao et al. (2020) — Effects of Human Synchronous Hand Movements in Eliciting a Sense of Agency and Ownership</title>
+      <description>本報告書は、他者の運動との「同期性」が、自己主体感（Sense of Agency: SoA）および所有感（Sense of Ownership: SoO）にどのような影響を与えるかを調査した研究（Hao et al. 2020）をまとめたものである。 従来の研究では、他者の鏡映対称的な同期運動が主体感と所有感の両方を誘発することが報告されていたが、その主因が「運動の同期性」にあるのか、あるいは「</description>
+      <itunes:summary>本報告書は、他者の運動との「同期性」が、自己主体感（Sense of Agency: SoA）および所有感（Sense of Ownership: SoO）にどのような影響を与えるかを調査した研究（Hao et al. 2020）をまとめたものである。 従来の研究では、他者の鏡映対称的な同期運動が主体感と所有感の両方を誘発することが報告されていたが、その主因が「運動の同期性」にあるのか、あるいは「</itunes:summary>
+      <guid isPermaLink="false">d137f955237175318599c13e0861a1ca</guid>
+      <pubDate>Sat, 15 Aug 2026 21:30:54 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Hao%20et%20al.%20%282020%29%20%E2%80%94%20Effects%20of%20Human%20Synchronous%20Hand%20Movements%20in%20Eliciting%20a%20Sense%20of%20Agency%20and%20Ownership/Hao%20et%20al.%202020%20-%20Effects%20of%20Human%20Synchronous%20Hand%20Movements%20in%20Eliciting%20a%20Sense%20of%20Agency%20and%20Ownership_radio.mp3" length="4309583" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Pouw et al. (2024) — Data-driven physics-based modeling of pedestrian dynamics</title>
       <description>本ドキュメントは、Pouwら（2024年）による研究論文「Data-driven physics-based modeling of pedestrian dynamics（歩行者力学のデータ駆動型物理ベースモデリング）」に基づき、その主要な成果、技術的枠組み、および実社会への応用可能性をまとめたものである。 ---</description>
