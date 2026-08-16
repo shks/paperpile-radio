@@ -10,7 +10,34 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Sun, 16 Aug 2026 13:54:21 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 00:39:57 +0900</lastBuildDate>
+    <item>
+      <title>Wolpert and Kawato (1998) — Multiple paired forward and inverse models</title>
+      <description>本文書は、Daniel M. Wolpert氏と川人光男氏による1998年の論文「Multiple Paired Forward and Inverse Models for Motor Control」に基づき、運動学習と制御における新しいモジュール型アーキテクチャの核心的な概念、理論的根拠、および将来の展望をまとめたものである。 人間は、多様で不確実な環境下において、極めて正確かつ適切な運動行</description>
+      <itunes:summary>本文書は、Daniel M. Wolpert氏と川人光男氏による1998年の論文「Multiple Paired Forward and Inverse Models for Motor Control」に基づき、運動学習と制御における新しいモジュール型アーキテクチャの核心的な概念、理論的根拠、および将来の展望をまとめたものである。 人間は、多様で不確実な環境下において、極めて正確かつ適切な運動行</itunes:summary>
+      <guid isPermaLink="false">4938c2a8a4d34ddbd635efc4f5aff0f7</guid>
+      <pubDate>Mon, 17 Aug 2026 00:39:49 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Wolpert%20and%20Kawato%20%281998%29%20%E2%80%94%20Multiple%20paired%20forward%20and%20inverse%20models/Wolpert%20and%20Kawato%20%281998%29%20%E2%80%94%20Multiple%20paired%20forward%20and%20inverse%20models_radio.mp3" length="4548655" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Wolpert%20and%20Kawato%20%281998%29%20%E2%80%94%20Multiple%20paired%20forward%20and%20inverse%20models/Wolpert%20and%20Kawato%20%281998%29%20%E2%80%94%20Multiple%20paired%20forward%20and%20inverse%20models_infographic.png"/>
+    </item>
+    <item>
+      <title>Heald et al. (2018) — Multiple motor memories are learned to control different points on a tool</title>
+      <description>本ドキュメントは、James B. Heald氏らによる研究「Multiple motor memories are learned to control different points on a tool（ツール上の異なる制御点を制御するために複数の運動記憶が学習される）」の分析結果をまとめたものである。 本研究の核心的な発見は、ヒトの運動系が単に「物体」そのものに対して運動記憶を形成するので</description>
+      <itunes:summary>本ドキュメントは、James B. Heald氏らによる研究「Multiple motor memories are learned to control different points on a tool（ツール上の異なる制御点を制御するために複数の運動記憶が学習される）」の分析結果をまとめたものである。 本研究の核心的な発見は、ヒトの運動系が単に「物体」そのものに対して運動記憶を形成するので</itunes:summary>
+      <guid isPermaLink="false">0261760c1abb1fe59de4ece7e3a338df</guid>
+      <pubDate>Mon, 17 Aug 2026 00:39:46 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Heald%20et%20al.%20%282018%29%20%E2%80%94%20Multiple%20motor%20memories%20are%20learned%20to%20control%20different%20points%20on%20a%20tool/Heald%20et%20al.%20%282018%29%20%E2%80%94%20Multiple%20motor%20memories%20are%20learned%20to%20control%20different%20points%20on%20a%20tool_radio.mp3" length="4682193" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Heald%20et%20al.%20%282018%29%20%E2%80%94%20Multiple%20motor%20memories%20are%20learned%20to%20control%20different%20points%20on%20a%20tool/Heald%20et%20al.%20%282018%29%20%E2%80%94%20Multiple%20motor%20memories%20are%20learned%20to%20control%20different%20points%20on%20a%20tool_infographic.png"/>
+    </item>
+    <item>
+      <title>Anglin et al. (2017) — Visuomotor adaptation in head-mounted virtual</title>
+      <description>本ドキュメントは、ヘッドマウントディスプレイを用いた没入型バーチャルリアリティ（HMD-VR）環境と、従来のトレーニング（CT）環境における視覚運動適応のメカニズムを比較した研究「Visuomotor adaptation in headmounted virtual reality versus conventional training」（Anglin et al., 2017）の主要な知見を</description>
+      <itunes:summary>本ドキュメントは、ヘッドマウントディスプレイを用いた没入型バーチャルリアリティ（HMD-VR）環境と、従来のトレーニング（CT）環境における視覚運動適応のメカニズムを比較した研究「Visuomotor adaptation in headmounted virtual reality versus conventional training」（Anglin et al., 2017）の主要な知見を</itunes:summary>
+      <guid isPermaLink="false">052c1fd2744fd3d5869d4ecc226d354e</guid>
+      <pubDate>Mon, 17 Aug 2026 00:39:42 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Anglin%20et%20al.%20%282017%29%20%E2%80%94%20Visuomotor%20adaptation%20in%20head-mounted%20virtual/Anglin%20et%20al.%20%282017%29%20%E2%80%94%20Visuomotor%20adaptation%20in%20head-mounted%20virtual_radio.mp3" length="3629668" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Anglin%20et%20al.%20%282017%29%20%E2%80%94%20Visuomotor%20adaptation%20in%20head-mounted%20virtual/Anglin%20et%20al.%20%282017%29%20%E2%80%94%20Visuomotor%20adaptation%20in%20head-mounted%20virtual_infographic.png"/>
+    </item>
     <item>
       <title>Blakemore et al. (1998) — Predicting the consequences of our own actions</title>
       <description>本報告書は、Sarah J. Blakemore氏、Susan J. Goodbody氏、およびDaniel M. Wolpert氏による研究「Predicting the Consequences of Our Own Actions: The Role of Sensorimotor Context Estimation（自己の行動の結果の予測：感覚運動コンテキスト推定の役割）」に基づき、自己</description>
