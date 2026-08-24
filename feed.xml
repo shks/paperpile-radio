@@ -10,7 +10,34 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Thu, 20 Aug 2026 09:20:38 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 23:08:57 +0900</lastBuildDate>
+    <item>
+      <title>Jia et al. (2026) — Concurrent control of natural and robotic limbs</title>
+      <description>本文書は、Jiaら（2026年）の研究に基づき、非侵襲的な触覚符号化脳コンピュータインターフェース（BCI）を用いた、人間本来の運動と追加のロボット肢（多指・多腕）の同時制御に関する最新の知見をまとめたものである。 この研究の核心的な成果は、**「自然な動きを妨げることなく、4つの自由度（DoF）を持つロボット肢をリアルタイムかつ高い信頼性で制御できる」**ことを実証した点にある。従来のBCIは視</description>
+      <itunes:summary>本文書は、Jiaら（2026年）の研究に基づき、非侵襲的な触覚符号化脳コンピュータインターフェース（BCI）を用いた、人間本来の運動と追加のロボット肢（多指・多腕）の同時制御に関する最新の知見をまとめたものである。 この研究の核心的な成果は、**「自然な動きを妨げることなく、4つの自由度（DoF）を持つロボット肢をリアルタイムかつ高い信頼性で制御できる」**ことを実証した点にある。従来のBCIは視</itunes:summary>
+      <guid isPermaLink="false">8640f9c724ce28409632d9b1fd1f4fb0</guid>
+      <pubDate>Mon, 24 Aug 2026 23:08:39 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Jia%20et%20al.%20%282026%29%20%E2%80%94%20Concurrent%20control%20of%20natural%20and%20robotic%20limbs/Jia%20et%20al.%20%282026%29_radio.mp3" length="4062046" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Jia%20et%20al.%20%282026%29%20%E2%80%94%20Concurrent%20control%20of%20natural%20and%20robotic%20limbs/Jia%20et%20al.%20%282026%29_infographic.png"/>
+    </item>
+    <item>
+      <title>Vloeberghs et al. (2026) — Trial-by-trial fluctuations in decision criterion shape confidence</title>
+      <description>本報告書は、Vloeberghsら（2026年）による研究「Trial-by-trial fluctuations in decision criterion shape confidence（意思決定基準の試行ごとの変動が確信度を形成する）」に基づき、意思決定における確信度の生成メカニズムに関する最新の知見をまとめたものである。 信号検出理論（SDT）の古典的な枠組みでは、確信度は「意思決定変数</description>
+      <itunes:summary>本報告書は、Vloeberghsら（2026年）による研究「Trial-by-trial fluctuations in decision criterion shape confidence（意思決定基準の試行ごとの変動が確信度を形成する）」に基づき、意思決定における確信度の生成メカニズムに関する最新の知見をまとめたものである。 信号検出理論（SDT）の古典的な枠組みでは、確信度は「意思決定変数</itunes:summary>
+      <guid isPermaLink="false">ebc1c5287c1657248445484967b06b0f</guid>
+      <pubDate>Mon, 24 Aug 2026 23:08:36 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Vloeberghs%20et%20al.%20%282026%29%20%E2%80%94%20Trial-by-trial%20fluctuations%20in%20decision%20criterion%20shape%20confidence/Vloeberghs%20et%20al.%20%282026%29_radio.mp3" length="4828375" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Vloeberghs%20et%20al.%20%282026%29%20%E2%80%94%20Trial-by-trial%20fluctuations%20in%20decision%20criterion%20shape%20confidence/Vloeberghs%20et%20al.%20%282026%29_infographic.png"/>
+    </item>
+    <item>
+      <title>Idei et al. (2026) — Predictive processing as a scalable computational principle</title>
+      <description>本文書は、多様で不確実な環境において柔軟に学習・適応可能な、身体化されたマルチタスク知能のための統一的な計算フレームワークを提案する研究論文「身体化されたマルチタスク知能のためのスケーラブルな計算原理としての予測処理」の内容をまとめたものである。 この研究は、脳の理論である「予測処理（自由エネルギー原理）」に基づき、次元削減や手動の事前処理を一切行わずに、30,000次元を超える高次元の視覚・固有</description>
+      <itunes:summary>本文書は、多様で不確実な環境において柔軟に学習・適応可能な、身体化されたマルチタスク知能のための統一的な計算フレームワークを提案する研究論文「身体化されたマルチタスク知能のためのスケーラブルな計算原理としての予測処理」の内容をまとめたものである。 この研究は、脳の理論である「予測処理（自由エネルギー原理）」に基づき、次元削減や手動の事前処理を一切行わずに、30,000次元を超える高次元の視覚・固有</itunes:summary>
+      <guid isPermaLink="false">8d42cfe2647a5aed87aa6cc069ce9e13</guid>
+      <pubDate>Mon, 24 Aug 2026 22:53:32 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Idei%20et%20al.%20%282026%29%20%E2%80%94%20Predictive%20processing%20as%20a%20scalable%20computational%20principle/Idei%20et%20al.%20%282026%29_radio.mp3" length="4563493" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Idei%20et%20al.%20%282026%29%20%E2%80%94%20Predictive%20processing%20as%20a%20scalable%20computational%20principle/Idei%20et%20al.%20%282026%29%20%E2%80%94%20Predictive%20processing%20as%20a%20scalable%20computational%20principle_infographic.png"/>
+    </item>
     <item>
       <title>Huang et al. (2026) — AlignFace</title>
       <description>本文書は、生成された顔画像コンテンツ（編集、プライバシー保護など）の評価において、人間の知覚を忠実に反映し、かつその判断理由を解釈可能にする新しい類似性指標「AlignFace」に関する技術ブリーフィングである。 現在のコンピュータビジョンにおける顔類似性指標は、信号ベースのヘリステック（SSIM等）から表現ベースの指標（LPIPS等）へと進化してきたが、依然として人間の認知プロセスとの整合性（認</description>
@@ -281,6 +308,7 @@
       <guid isPermaLink="false">d0e522dd9c0e1ed212bb12b616d10899</guid>
       <pubDate>Thu, 30 Jul 2026 01:08:51 +0900</pubDate>
       <enclosure url="https://shks.github.io/paperpile-radio/episodes/Ehrsson%20%282009%29%20%E2%80%94%20How%20many%20arms%20make%20a%20pair/Ehrsson_2009_radio.mp3" length="3778879" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Ehrsson%20%282009%29%20%E2%80%94%20How%20many%20arms%20make%20a%20pair/Ehrsson%20%282009%29_infographic.png"/>
     </item>
     <item>
       <title>Bergström et al. (2019) — Tool Extension</title>
