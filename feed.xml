@@ -10,7 +10,16 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Wed, 26 Aug 2026 03:01:32 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 03:23:05 +0900</lastBuildDate>
+    <item>
+      <title>Parvin et al. (2018) — Credit assignment in a motor decision making task is influenced by agency and not sensory prediction errors</title>
+      <description>本ドキュメントは、Parvinら（2018年）による研究「運動意思決定課題におけるクレジット割り当ては、感覚予測誤差ではなくエージェンシーによって影響を受ける（Credit Assignment in a Motor Decision Making Task Is Influenced by Agency and Not Sensory Prediction Errors）」に基づき、脳が報酬の失</description>
+      <itunes:summary>本ドキュメントは、Parvinら（2018年）による研究「運動意思決定課題におけるクレジット割り当ては、感覚予測誤差ではなくエージェンシーによって影響を受ける（Credit Assignment in a Motor Decision Making Task Is Influenced by Agency and Not Sensory Prediction Errors）」に基づき、脳が報酬の失</itunes:summary>
+      <guid isPermaLink="false">9ce70a2baea742e57257a44e7c795d25</guid>
+      <pubDate>Mon, 31 Aug 2026 03:19:08 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Parvin%20et%20al.%20%282018%29%20%E2%80%94%20Credit%20assignment%20in%20a%20motor%20decision%20making%20task%20is%20influenced%20by%20agency%20and%20not%20sensory%20prediction%20errors/parvin_2018_radio.mp3" length="4844988" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Parvin%20et%20al.%20%282018%29%20%E2%80%94%20Credit%20assignment%20in%20a%20motor%20decision%20making%20task%20is%20influenced%20by%20agency%20and%20not%20sensory%20prediction%20errors/parvin_2018_infographic.png"/>
+    </item>
     <item>
       <title>Jia et al. (2026) — Concurrent control of natural and robotic limbs</title>
       <description>本文書は、Jiaら（2026年）の研究に基づき、非侵襲的な触覚符号化脳コンピュータインターフェース（BCI）を用いた、人間本来の運動と追加のロボット肢（多指・多腕）の同時制御に関する最新の知見をまとめたものである。 この研究の核心的な成果は、**「自然な動きを妨げることなく、4つの自由度（DoF）を持つロボット肢をリアルタイムかつ高い信頼性で制御できる」**ことを実証した点にある。従来のBCIは視</description>
