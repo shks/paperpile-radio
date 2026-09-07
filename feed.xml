@@ -10,7 +10,34 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Mon, 31 Aug 2026 03:23:05 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:05:04 +0900</lastBuildDate>
+    <item>
+      <title>Todorov et al. (2025) — Face evaluation</title>
+      <description>本資料は、アレクサンダー・トドロフ（Alexander Todorov）らによる2025年の論文「Face evaluation: Findings, methods, and challenges」に基づき、過去20年間の顔評価研究の主要な知見、計算手法の進展、および個人の主観的差異（アイディオシンクラシー）の重要性についてまとめたブリーフィング・ドキュメントである。 ---</description>
+      <itunes:summary>本資料は、アレクサンダー・トドロフ（Alexander Todorov）らによる2025年の論文「Face evaluation: Findings, methods, and challenges」に基づき、過去20年間の顔評価研究の主要な知見、計算手法の進展、および個人の主観的差異（アイディオシンクラシー）の重要性についてまとめたブリーフィング・ドキュメントである。 ---</itunes:summary>
+      <guid isPermaLink="false">84f96296bba4f8386fff522d6096f2ea</guid>
+      <pubDate>Mon, 07 Sep 2026 10:59:19 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Todorov%20et%20al.%20%282025%29%20%E2%80%94%20Face%20evaluation/Todorov_et_al_2025_radio.mp3" length="4637263" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Todorov%20et%20al.%20%282025%29%20%E2%80%94%20Face%20evaluation/Todorov_et_al_2025_infographic.png"/>
+    </item>
+    <item>
+      <title>Dillon (2026) — The cognitive origins of geometry</title>
+      <description>本文書は、Moira R. Dillonによる2026年の論考「幾何学の認知的起源（The cognitive origins of geometry）」に基づき、幾何学的思考の源泉に関する新たな理論的枠組みを提示するものである。 長年、幾何学は抽象的思考の典型とされ、ヒト固有の「幾何学のための思考言語（Language-of-Thought-for-Geometry: LoTGH）」に基づくと考</description>
+      <itunes:summary>本文書は、Moira R. Dillonによる2026年の論考「幾何学の認知的起源（The cognitive origins of geometry）」に基づき、幾何学的思考の源泉に関する新たな理論的枠組みを提示するものである。 長年、幾何学は抽象的思考の典型とされ、ヒト固有の「幾何学のための思考言語（Language-of-Thought-for-Geometry: LoTGH）」に基づくと考</itunes:summary>
+      <guid isPermaLink="false">e8542db2c53a4cb48f97d0b61b39596e</guid>
+      <pubDate>Mon, 07 Sep 2026 10:59:19 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Dillon%20%282026%29%20%E2%80%94%20The%20cognitive%20origins%20of%20geometry/Dillon_2026_radio.mp3" length="5336090" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Dillon%20%282026%29%20%E2%80%94%20The%20cognitive%20origins%20of%20geometry/Dillon_2026_infographic.png"/>
+    </item>
+    <item>
+      <title>Moriguchi and Kanakogi (2026) — The future of AI-assisted science</title>
+      <description>本文書は、森口佑介氏および金木陽裕氏による論考「The future of AI-assisted science is both fast and slow」（2026年）に基づき、行動科学における人工知能（AI）の導入がもたらす可能性と課題をまとめたブリーフィング・ドキュメントである。 ---</description>
+      <itunes:summary>本文書は、森口佑介氏および金木陽裕氏による論考「The future of AI-assisted science is both fast and slow」（2026年）に基づき、行動科学における人工知能（AI）の導入がもたらす可能性と課題をまとめたブリーフィング・ドキュメントである。 ---</itunes:summary>
+      <guid isPermaLink="false">98e1ab9903eed4f7d3504c76771d0431</guid>
+      <pubDate>Mon, 07 Sep 2026 10:59:17 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Moriguchi%20and%20Kanakogi%20%282026%29%20%E2%80%94%20The%20future%20of%20AI-assisted%20science/Moriguchi_and_Kanakogi_2026_radio.mp3" length="4390876" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Moriguchi%20and%20Kanakogi%20%282026%29%20%E2%80%94%20The%20future%20of%20AI-assisted%20science/Moriguchi_and_Kanakogi_2026_infographic.png"/>
+    </item>
     <item>
       <title>Parvin et al. (2018) — Credit assignment in a motor decision making task is influenced by agency and not sensory prediction errors</title>
       <description>本ドキュメントは、Parvinら（2018年）による研究「運動意思決定課題におけるクレジット割り当ては、感覚予測誤差ではなくエージェンシーによって影響を受ける（Credit Assignment in a Motor Decision Making Task Is Influenced by Agency and Not Sensory Prediction Errors）」に基づき、脳が報酬の失</description>
