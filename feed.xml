@@ -10,7 +10,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Mon, 07 Sep 2026 11:05:04 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 17:15:45 +0900</lastBuildDate>
+    <item>
+      <title>van der Hoort and Ehrsson (2014) — Body ownership affects visual perception of object size</title>
+      <description>本ドキュメントは、Björn van der Hoort氏とH. Henrik Ehrsson氏による研究（2014年）に基づき、自己の身体所有感が外部空間の視覚的表現にどのような影響を与えるかを詳細に分析したものである。 ---</description>
+      <itunes:summary>本ドキュメントは、Björn van der Hoort氏とH. Henrik Ehrsson氏による研究（2014年）に基づき、自己の身体所有感が外部空間の視覚的表現にどのような影響を与えるかを詳細に分析したものである。 ---</itunes:summary>
+      <guid isPermaLink="false">5068f125b7320754ca9daf659a372125</guid>
+      <pubDate>Mon, 07 Sep 2026 17:09:45 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/van%20der%20Hoort%20and%20Ehrsson%20%282014%29%20%E2%80%94%20Body%20ownership%20affects%20visual%20perception%20of%20object%20size/van_der_Hoort_Ehrsson_2014_radio.mp3" length="4238112" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/van%20der%20Hoort%20and%20Ehrsson%20%282014%29%20%E2%80%94%20Body%20ownership%20affects%20visual%20perception%20of%20object%20size/van_der_Hoort_Ehrsson_2014_infographic.png"/>
+    </item>
+    <item>
+      <title>Kyle-Davidson et al. (2022) — Modulating human memory for complex scenes</title>
+      <description>本資料は、人工的に生成された画像を用いてヒトの視覚的エピソード記憶を調節する手法を提示した研究、&quot;Modulating human memory for complex scenes with artificially generated images&quot; (Kyle-Davidson et al. 2022) の詳細をまとめたものである。 この研究の核心は、**視覚的記憶スキーマ (Visual </description>
+      <itunes:summary>本資料は、人工的に生成された画像を用いてヒトの視覚的エピソード記憶を調節する手法を提示した研究、&quot;Modulating human memory for complex scenes with artificially generated images&quot; (Kyle-Davidson et al. 2022) の詳細をまとめたものである。 この研究の核心は、**視覚的記憶スキーマ (Visual </itunes:summary>
+      <guid isPermaLink="false">bcb3d9df500dd8baa4c9a535a5c1efb5</guid>
+      <pubDate>Mon, 07 Sep 2026 17:09:41 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Kyle-Davidson%20et%20al.%20%282022%29%20%E2%80%94%20Modulating%20human%20memory%20for%20complex%20scenes/Kyle-Davidson_et_al_2022_radio.mp3" length="4910608" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Kyle-Davidson%20et%20al.%20%282022%29%20%E2%80%94%20Modulating%20human%20memory%20for%20complex%20scenes/Kyle-Davidson_et_al_2022_infographic.png"/>
+    </item>
     <item>
       <title>Todorov et al. (2025) — Face evaluation</title>
       <description>本資料は、アレクサンダー・トドロフ（Alexander Todorov）らによる2025年の論文「Face evaluation: Findings, methods, and challenges」に基づき、過去20年間の顔評価研究の主要な知見、計算手法の進展、および個人の主観的差異（アイディオシンクラシー）の重要性についてまとめたブリーフィング・ドキュメントである。 ---</description>
