@@ -10,7 +10,43 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Mon, 07 Sep 2026 17:15:45 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 23:59:14 +0900</lastBuildDate>
+    <item>
+      <title>Todd (2026) — Bayesian Descriptions are not Mechanisms</title>
+      <description>本文書は、イアン・トッド（2026年）による論文「Bayesian Descriptions are not Mechanisms: Predictive Processing and the Realisation Gap in Embodied Neural Dynamics」の深層分析に基づくブリーフィング・ドキュメントである。本書では、予測処理（Predictive Processing;</description>
+      <itunes:summary>本文書は、イアン・トッド（2026年）による論文「Bayesian Descriptions are not Mechanisms: Predictive Processing and the Realisation Gap in Embodied Neural Dynamics」の深層分析に基づくブリーフィング・ドキュメントである。本書では、予測処理（Predictive Processing;</itunes:summary>
+      <guid isPermaLink="false">cfecc4f5b8fc51f0e13d063405c1b4b4</guid>
+      <pubDate>Tue, 08 Sep 2026 23:55:57 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Todd%20%282026%29%20%E2%80%94%20Bayesian%20Descriptions%20are%20not%20Mechanisms/Todd%20%282026%29_radio.mp3" length="4809462" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Todd%20%282026%29%20%E2%80%94%20Bayesian%20Descriptions%20are%20not%20Mechanisms/Todd%20%282026%29_infographic.png"/>
+    </item>
+    <item>
+      <title>Kasahara et al. (2019) — Preemptive Action Accelerating Human Reaction</title>
+      <description>本資料は、ソニーCSL、シカゴ大学等の研究チーム（Kasahara et al., 2019）による、電気筋肉刺激（EMS）を用いた人間の反応速度加速に関する研究をまとめたものである。 従来、EMSや機械的アクチュエータを用いてユーザーの身体を強制的に動かすシステムは、動作のパフォーマンスを向上させる一方で、ユーザーが「自分の意思で動かした」と感じる**自己主体感（Sense of Agency）</description>
+      <itunes:summary>本資料は、ソニーCSL、シカゴ大学等の研究チーム（Kasahara et al., 2019）による、電気筋肉刺激（EMS）を用いた人間の反応速度加速に関する研究をまとめたものである。 従来、EMSや機械的アクチュエータを用いてユーザーの身体を強制的に動かすシステムは、動作のパフォーマンスを向上させる一方で、ユーザーが「自分の意思で動かした」と感じる**自己主体感（Sense of Agency）</itunes:summary>
+      <guid isPermaLink="false">bca75b0f6a58bc46d4ba4123a2c54fe3</guid>
+      <pubDate>Tue, 08 Sep 2026 17:47:27 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Kasahara%20et%20al.%20%282019%29%20%E2%80%94%20Preemptive%20Action%20Accelerating%20Human%20Reaction/Kasahara%20et%20al.%20%282019%29_radio.mp3" length="5001201" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Kasahara%20et%20al.%20%282019%29%20%E2%80%94%20Preemptive%20Action%20Accelerating%20Human%20Reaction/kasahara_et_al_2019_infographic.png"/>
+    </item>
+    <item>
+      <title>Fang and Sims (2025) — Humans learn generalizable representations through efficient coding</title>
+      <description>本ドキュメントは、Zeming FangおよびChris R. Simsによる研究論文「Humans learn generalizable representations through efficient coding（効率的符号化による人間の汎化的表現学習）」に基づき、人間がいかにして過去の経験から新しい状況へ適応（汎化）するのかという問いに対する最新の知見をまとめたものである。 ---</description>
+      <itunes:summary>本ドキュメントは、Zeming FangおよびChris R. Simsによる研究論文「Humans learn generalizable representations through efficient coding（効率的符号化による人間の汎化的表現学習）」に基づき、人間がいかにして過去の経験から新しい状況へ適応（汎化）するのかという問いに対する最新の知見をまとめたものである。 ---</itunes:summary>
+      <guid isPermaLink="false">b12ac5ebed8aca7cd660ce408a8bfccf</guid>
+      <pubDate>Tue, 08 Sep 2026 11:32:45 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Fang%20and%20Sims%20%282025%29%20%E2%80%94%20Humans%20learn%20generalizable%20representations%20through%20efficient%20coding/fang_sims_2025_radio.mp3" length="4170611" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Fang%20and%20Sims%20%282025%29%20%E2%80%94%20Humans%20learn%20generalizable%20representations%20through%20efficient%20coding/fang_sims_2025_infographic.png"/>
+    </item>
+    <item>
+      <title>Wu and Smith (2013) — The generalization of visuomotor learning</title>
+      <description>本文書は、ハワード・G・ウーとモーリス・A・スミス（2013年）の研究に基づき、視覚ガイド下での到達運動における運動適応のメカニズムを分析したものである。長年、運動計画の適応が「目標位置（Goal Location: GL）」の再マッピングによるものか、「運動ベクトル（Movement Vector: MV）」の再マッピングによるものかという議論が続いてきた。 本研究は、これら2つの要素が独立して</description>
+      <itunes:summary>本文書は、ハワード・G・ウーとモーリス・A・スミス（2013年）の研究に基づき、視覚ガイド下での到達運動における運動適応のメカニズムを分析したものである。長年、運動計画の適応が「目標位置（Goal Location: GL）」の再マッピングによるものか、「運動ベクトル（Movement Vector: MV）」の再マッピングによるものかという議論が続いてきた。 本研究は、これら2つの要素が独立して</itunes:summary>
+      <guid isPermaLink="false">f1439df29d5e9606f89f7a7a55453376</guid>
+      <pubDate>Tue, 08 Sep 2026 11:32:41 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Wu%20and%20Smith%20%282013%29%20%E2%80%94%20The%20generalization%20of%20visuomotor%20learning/wu_smith_2013_radio.mp3" length="4677596" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Wu%20and%20Smith%20%282013%29%20%E2%80%94%20The%20generalization%20of%20visuomotor%20learning/wu_smith_2013_infographic.png"/>
+    </item>
     <item>
       <title>van der Hoort and Ehrsson (2014) — Body ownership affects visual perception of object size</title>
       <description>本ドキュメントは、Björn van der Hoort氏とH. Henrik Ehrsson氏による研究（2014年）に基づき、自己の身体所有感が外部空間の視覚的表現にどのような影響を与えるかを詳細に分析したものである。 ---</description>
