@@ -10,7 +10,34 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <generator>Paperpile Radio Generator</generator>
-    <lastBuildDate>Tue, 08 Sep 2026 23:59:14 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 18:17:15 +0900</lastBuildDate>
+    <item>
+      <title>Kim et al. (2019) — The influence of task outcome on implicit motor learning</title>
+      <description>本資料は、Kimら（2019年）による研究「The influence of task outcome on implicit motor learning（課題達成の成否が潜在的運動学習に与える影響）」の核心的な知見をまとめたものである。 この研究は、従来の運動学習モデルにおいて、課題の成功（ターゲットへの命中）という信号が、感覚予測誤差（SPE）に基づく「潜在的な適応」にどのような影響を与える</description>
+      <itunes:summary>本資料は、Kimら（2019年）による研究「The influence of task outcome on implicit motor learning（課題達成の成否が潜在的運動学習に与える影響）」の核心的な知見をまとめたものである。 この研究は、従来の運動学習モデルにおいて、課題の成功（ターゲットへの命中）という信号が、感覚予測誤差（SPE）に基づく「潜在的な適応」にどのような影響を与える</itunes:summary>
+      <guid isPermaLink="false">34a027bd060768478c62090e8129b7d1</guid>
+      <pubDate>Wed, 09 Sep 2026 18:16:52 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Kim%20et%20al.%20%282019%29%20%E2%80%94%20The%20influence%20of%20task%20outcome%20on%20implicit%20motor%20learning/Kim%20et%20al.%202019_radio.mp3" length="4592541" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Kim%20et%20al.%20%282019%29%20%E2%80%94%20The%20influence%20of%20task%20outcome%20on%20implicit%20motor%20learning/Kim%20et%20al.%202019_infographic.png"/>
+    </item>
+    <item>
+      <title>Kim et al. (2018) — Invariant errors reveal limitations in motor correction rather than constraints on error sensitivity</title>
+      <description>本ドキュメントは、Hyosub E. Kim氏らによる研究論文「Invariant errors reveal limitations in motor correction rather than constraints on error sensitivity（不変的なエラーが示すのは、エラー感度の制約ではなく運動補正における限界である）」に基づき、潜在的な感覚運動学習のメカニズムに関する重要</description>
+      <itunes:summary>本ドキュメントは、Hyosub E. Kim氏らによる研究論文「Invariant errors reveal limitations in motor correction rather than constraints on error sensitivity（不変的なエラーが示すのは、エラー感度の制約ではなく運動補正における限界である）」に基づき、潜在的な感覚運動学習のメカニズムに関する重要</itunes:summary>
+      <guid isPermaLink="false">c8137aced473478ef3a862597b51d870</guid>
+      <pubDate>Wed, 09 Sep 2026 18:16:47 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Kim%20et%20al.%20%282018%29%20%E2%80%94%20Invariant%20errors%20reveal%20limitations%20in%20motor%20correction%20rather%20than%20constraints%20on%20error%20sensitivity/Kim%20et%20al.%202018_radio.mp3" length="4888038" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Kim%20et%20al.%20%282018%29%20%E2%80%94%20Invariant%20errors%20reveal%20limitations%20in%20motor%20correction%20rather%20than%20constraints%20on%20error%20sensitivity/Kim%20et%20al.%202018_infographic.png"/>
+    </item>
+    <item>
+      <title>Mao et al. (2025) — Adaptation optimizes sensory encoding for future stimuli</title>
+      <description>本文書は、Maoら（2025年）による研究「Adaptation optimizes sensory encoding for future stimuli（適応は未来の刺激に対して感覚符号化を最適化する）」の主要な知見をまとめたものである。 この研究は、生物学的システムにおける「適応」が、単に過去の刺激に対する反応的なプロセスではなく、**近い未来の刺激に対して感覚符号化を最適に調整する予測的な</description>
+      <itunes:summary>本文書は、Maoら（2025年）による研究「Adaptation optimizes sensory encoding for future stimuli（適応は未来の刺激に対して感覚符号化を最適化する）」の主要な知見をまとめたものである。 この研究は、生物学的システムにおける「適応」が、単に過去の刺激に対する反応的なプロセスではなく、**近い未来の刺激に対して感覚符号化を最適に調整する予測的な</itunes:summary>
+      <guid isPermaLink="false">5948377bddedbe29824f7193d7913bb6</guid>
+      <pubDate>Wed, 09 Sep 2026 06:03:20 +0900</pubDate>
+      <enclosure url="https://shks.github.io/paperpile-radio/episodes/Mao%20et%20al.%20%282025%29%20%E2%80%94%20Adaptation%20optimizes%20sensory%20encoding%20for%20future%20stimuli/mao2025_radio.mp3" length="4585436" type="audio/mpeg"/>
+      <itunes:image href="https://shks.github.io/paperpile-radio/episodes/Mao%20et%20al.%20%282025%29%20%E2%80%94%20Adaptation%20optimizes%20sensory%20encoding%20for%20future%20stimuli/mao2025_infographic.png"/>
+    </item>
     <item>
       <title>Todd (2026) — Bayesian Descriptions are not Mechanisms</title>
       <description>本文書は、イアン・トッド（2026年）による論文「Bayesian Descriptions are not Mechanisms: Predictive Processing and the Realisation Gap in Embodied Neural Dynamics」の深層分析に基づくブリーフィング・ドキュメントである。本書では、予測処理（Predictive Processing;</description>
